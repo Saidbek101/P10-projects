@@ -1,0 +1,59 @@
+Tashkent https://my-location.org/?lat=41.3000&lng=69.2667
+Namangan https://my-location.org/?lat=40.9953&lng=71.6725
+Samarkand https://my-location.org/?lat=39.6542&lng=66.9597
+Andijon https://my-location.org/?lat=40.7000&lng=72.3500
+Qoqon https://my-location.org/?lat=40.5404&lng=70.9400
+Nukus https://my-location.org/?lat=42.4647&lng=59.6022
+Farg‘ona https://my-location.org/?lat=40.3864&lng=71.7864
+Bukhara https://my-location.org/?lat=39.7747&lng=64.4286
+Qarshi https://my-location.org/?lat=38.8667&lng=65.8000
+Denov https://my-location.org/?lat=38.2772&lng=67.8872
+Marg‘ilon https://my-location.org/?lat=40.4667&lng=71.7167
+Iskandar https://my-location.org/?lat=41.5507&lng=69.6807
+Jizzax https://my-location.org/?lat=40.1167&lng=67.8500
+Chirchiq https://my-location.org/?lat=41.4667&lng=69.5833
+Termiz https://my-location.org/?lat=37.2242&lng=67.2783
+Urganch https://my-location.org/?lat=41.5345&lng=60.6249
+Navoiy https://my-location.org/?lat=40.0833&lng=65.3833
+Angren https://my-location.org/?lat=41.0167&lng=70.1333
+Olmaliq https://my-location.org/?lat=40.8500&lng=69.6000
+Kogon Shahri https://my-location.org/?lat=39.7211&lng=64.5458
+Shahrisabz https://my-location.org/?lat=39.0500&lng=66.8333
+Guliston https://my-location.org/?lat=40.4833&lng=68.7833
+Urgut Shahri https://my-location.org/?lat=39.4007&lng=67.2607
+Kattagan https://my-location.org/?lat=40.2000&lng=64.9167
+Bekobod https://my-location.org/?lat=40.2258&lng=69.2292
+Qo‘ng‘irot Shahri https://my-location.org/?lat=43.0758&lng=58.9067
+Xo‘jayli Shahri https://my-location.org/?lat=42.4047&lng=59.4517
+Kattaqo’rg’on Shahri https://my-location.org/?lat=39.8958&lng=66.2656
+Qŭnghirot https://my-location.org/?lat=43.0704&lng=58.9000
+Xiva https://my-location.org/?lat=41.3783&lng=60.3639
+Zarafshon Shahri https://my-location.org/?lat=41.5667&lng=64.2000
+Tŭrtkŭl https://my-location.org/?lat=41.5500&lng=61.0000
+Beruniy https://my-location.org/?lat=41.6833&lng=60.7500
+Chimboy Shahri https://my-location.org/?lat=42.9311&lng=59.7708
+Chortoq https://my-location.org/?lat=41.0689&lng=71.8153
+Xonobod https://my-location.org/?lat=40.8127&lng=72.9731
+Payshamba Shahri https://my-location.org/?lat=40.0050&lng=66.2264
+Kosonsoy https://my-location.org/?lat=41.2492&lng=71.5458
+G’ijduvon Shahri https://my-location.org/?lat=40.1000&lng=64.6833
+Yangiyer https://my-location.org/?lat=40.2667&lng=68.8167
+Bo‘ka https://my-location.org/?lat=40.8136&lng=69.2019
+Rishton https://my-location.org/?lat=40.3567&lng=71.2847
+Uchquduq Shahri https://my-location.org/?lat=42.1567&lng=63.5556
+Manghit https://my-location.org/?lat=42.1236&lng=60.0583
+Nurota https://my-location.org/?lat=40.5650&lng=65.6850
+Qorasuv https://my-location.org/?lat=40.7222&lng=72.8872
+Mŭynoq https://my-location.org/?lat=43.7667&lng=59.0333
+G‘uzor https://my-location.org/?lat=38.6208&lng=66.2481
+Boysun https://my-location.org/?lat=38.2122&lng=67.1989
+Yaypan https://my-location.org/?lat=40.3758&lng=70.8156
+Juma Shahri https://my-location.org/?lat=39.7094&lng=66.6614
+Chiroqchi https://my-location.org/?lat=39.0336&lng=66.5739
+Vobkent Shahri https://my-location.org/?lat=40.0233&lng=64.5139
+Yangirabot https://my-location.org/?lat=40.0333&lng=65.9667
+Tinchlik https://my-location.org/?lat=40.4264&lng=71.4956
+Sharg‘un https://my-location.org/?lat=38.4639&lng=67.9672
+Shumanay https://my-location.org/?lat=42.6386&lng=58.9172
+Qiziltepa https://my-location.org/?lat=40.0319&lng=64.8492
+Bo‘ston https://my-location.org/?lat=41.8478&lng=60.9300

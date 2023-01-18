@@ -1,0 +1,3894 @@
+176560,Google Phone,1,600,04/12/19 14:38,"669 Spruce St, Los Angeles, CA 90001"
+
+176565,Macbook Pro Laptop,1,1700,04/24/19 10:38,"915 Willow St, San Francisco, CA 94016"
+
+176567,Google Phone,1,600,04/18/19 17:18,"444 7th St, Los Angeles, CA 90001"
+
+176574,Google Phone,1,600,04/03/19 19:42,"20 Hill St, Los Angeles, CA 90001"
+
+176581,iPhone,1,700,04/09/19 21:38,"84 Jackson St, Boston, MA 02215"
+
+176586,Google Phone,1,600,04/10/19 17:00,"365 Center St, San Francisco, CA 94016"
+
+176590,Google Phone,1,600,04/11/19 11:46,"873 6th St, New York City, NY 10001"
+
+176608,iPhone,1,700,04/11/19 12:01,"15 Cherry St, San Francisco, CA 94016"
+
+176630,Google Phone,1,600,04/10/19 05:01,"770 Maple St, San Francisco, CA 94016"
+
+176635,Vareebadd Phone,1,400,04/26/19 09:55,"85 North St, San Francisco, CA 94016"
+
+176639,Macbook Pro Laptop,1,1700,04/28/19 16:14,"853 Cedar St, San Francisco, CA 94016"
+
+176643,Macbook Pro Laptop,1,1700,04/27/19 21:32,"373 Adams St, Boston, MA 02215"
+
+176646,Macbook Pro Laptop,1,1700,04/22/19 07:14,"657 Adams St, Portland, OR 97035"
+
+176647,Google Phone,1,600,04/21/19 19:40,"273 South St, Los Angeles, CA 90001"
+
+176651,iPhone,1,700,04/07/19 13:14,"997 South St, Boston, MA 02215"
+
+176656,Google Phone,1,600,04/12/19 16:42,"12 Lakeview St, New York City, NY 10001"
+
+176687,Macbook Pro Laptop,1,1700,04/30/19 10:26,"121 Wilson St, Los Angeles, CA 90001"
+
+176696,iPhone,1,700,04/07/19 12:41,"343 Johnson St, New York City, NY 10001"
+
+176712,Google Phone,1,600,04/20/19 05:21,"910 Washington St, San Francisco, CA 94016"
+
+176732,iPhone,1,700,04/23/19 09:33,"504 Wilson St, Dallas, TX 75001"
+
+176739,Google Phone,1,600,04/05/19 17:38,"730 6th St, Austin, TX 73301"
+
+176747,Macbook Pro Laptop,1,1700,04/27/19 15:04,"645 7th St, San Francisco, CA 94016"
+
+176781,iPhone,1,700,04/03/19 07:37,"976 Hickory St, Dallas, TX 75001"
+
+176787,Google Phone,1,600,04/14/19 10:10,"180 Pine St, Los Angeles, CA 90001"
+
+176791,Google Phone,1,600,04/21/19 11:43,"908 Jackson St, Los Angeles, CA 90001"
+
+176797,Google Phone,1,600,04/21/19 08:54,"923 Elm St, Los Angeles, CA 90001"
+
+176798,iPhone,1,700,04/06/19 10:31,"445 Jefferson St, Atlanta, GA 30301"
+
+176801,Vareebadd Phone,1,400,04/28/19 18:52,"125 North St, San Francisco, CA 94016"
+
+176805,Google Phone,1,600,04/01/19 15:50,"91 Lincoln St, Portland, OR 97035"
+
+176806,Macbook Pro Laptop,1,1700,04/22/19 13:26,"197 Cherry St, Austin, TX 73301"
+
+176808,Google Phone,1,600,04/28/19 18:03,"933 Meadow St, San Francisco, CA 94016"
+
+176813,Google Phone,1,600,04/28/19 18:01,"269 Hill St, Atlanta, GA 30301"
+
+176828,iPhone,1,700,04/07/19 22:13,"696 Highland St, Seattle, WA 98101"
+
+176903,iPhone,1,700,04/09/19 11:10,"684 Main St, Boston, MA 02215"
+
+176937,Google Phone,1,600,04/30/19 22:04,"980 7th St, Los Angeles, CA 90001"
+
+176957,Google Phone,1,600,04/06/19 18:22,"582 Church St, Boston, MA 02215"
+
+176981,Google Phone,1,600,04/01/19 11:29,"924 11th St, San Francisco, CA 94016"
+
+176982,iPhone,1,700,04/14/19 13:53,"237 Lake St, Los Angeles, CA 90001"
+
+176989,Google Phone,1,600,04/09/19 13:43,"346 9th St, Los Angeles, CA 90001"
+
+176993,iPhone,1,700,04/07/19 09:43,"28 South St, Los Angeles, CA 90001"
+
+176994,Google Phone,1,600,04/15/19 12:39,"628 12th St, Los Angeles, CA 90001"
+
+177020,Macbook Pro Laptop,1,1700,04/16/19 22:31,"606 Walnut St, Seattle, WA 98101"
+
+177022,iPhone,1,700,04/17/19 18:14,"216 Chestnut St, Los Angeles, CA 90001"
+
+177032,iPhone,1,700,04/22/19 07:29,"307 7th St, San Francisco, CA 94016"
+
+177038,iPhone,1,700,04/03/19 12:11,"632 Sunset St, San Francisco, CA 94016"
+
+177046,Vareebadd Phone,1,400,04/29/19 13:02,"406 12th St, Los Angeles, CA 90001"
+
+177066,Macbook Pro Laptop,1,1700,04/08/19 20:02,"278 10th St, San Francisco, CA 94016"
+
+177069,iPhone,1,700,04/17/19 13:40,"295 Jackson St, Portland, OR 97035"
+
+177072,iPhone,1,700,04/01/19 13:11,"682 9th St, Portland, ME 04101"
+
+177085,iPhone,1,700,04/19/19 20:31,"770 Elm St, New York City, NY 10001"
+
+177097,Vareebadd Phone,1,400,04/21/19 18:04,"35 Hickory St, Los Angeles, CA 90001"
+
+177102,iPhone,1,700,04/24/19 05:19,"542 Center St, New York City, NY 10001"
+
+177115,iPhone,1,700,04/19/19 19:10,"71 6th St, San Francisco, CA 94016"
+
+177119,Vareebadd Phone,1,400,04/06/19 20:13,"617 Highland St, Seattle, WA 98101"
+
+177120,Macbook Pro Laptop,1,1700,04/03/19 09:46,"371 Church St, New York City, NY 10001"
+
+177135,iPhone,1,700,04/25/19 06:18,"528 Ridge St, Los Angeles, CA 90001"
+
+177167,iPhone,1,700,04/28/19 16:40,"39 Lakeview St, Boston, MA 02215"
+
+177168,Google Phone,1,600,04/12/19 10:22,"306 Jackson St, New York City, NY 10001"
+
+177171,Vareebadd Phone,1,400,04/06/19 01:03,"550 Walnut St, San Francisco, CA 94016"
+
+177175,Macbook Pro Laptop,1,1700,04/11/19 07:49,"603 Lake St, Los Angeles, CA 90001"
+
+177178,iPhone,1,700,04/07/19 00:02,"342 Dogwood St, Seattle, WA 98101"
+
+177182,Macbook Pro Laptop,1,1700,04/10/19 22:00,"332 10th St, Los Angeles, CA 90001"
+
+177187,Google Phone,1,600,04/04/19 18:08,"600 1st St, Seattle, WA 98101"
+
+177198,Vareebadd Phone,1,400,04/06/19 16:07,"154 6th St, New York City, NY 10001"
+
+177199,iPhone,1,700,04/21/19 01:09,"640 Hill St, Austin, TX 73301"
+
+177208,Vareebadd Phone,1,400,04/30/19 18:04,"164 2nd St, Austin, TX 73301"
+
+177213,iPhone,1,700,04/25/19 10:04,"756 Lincoln St, Dallas, TX 75001"
+
+177216,Macbook Pro Laptop,1,1700,04/25/19 17:45,"712 12th St, Atlanta, GA 30301"
+
+177217,Macbook Pro Laptop,1,1700,04/15/19 16:13,"262 Willow St, New York City, NY 10001"
+
+177228,Google Phone,1,600,04/17/19 19:38,"233 South St, Dallas, TX 75001"
+
+177230,iPhone,1,700,04/06/19 00:26,"16 River St, Portland, ME 04101"
+
+177233,Google Phone,1,600,04/25/19 15:59,"622 7th St, Portland, ME 04101"
+
+177239,iPhone,1,700,04/13/19 12:17,"336 Maple St, San Francisco, CA 94016"
+
+177270,Google Phone,1,600,04/22/19 20:34,"518 North St, Los Angeles, CA 90001"
+
+177310,iPhone,1,700,04/29/19 20:03,"68 Chestnut St, Los Angeles, CA 90001"
+
+177313,Macbook Pro Laptop,1,1700,04/11/19 17:19,"317 Madison St, San Francisco, CA 94016"
+
+177316,iPhone,1,700,04/01/19 10:25,"454 4th St, Dallas, TX 75001"
+
+177318,iPhone,1,700,04/10/19 20:44,"484 10th St, New York City, NY 10001"
+
+177329,iPhone,1,700,04/29/19 08:12,"653 Walnut St, Seattle, WA 98101"
+
+177344,Google Phone,1,600,04/20/19 19:54,"286 Jackson St, Los Angeles, CA 90001"
+
+177348,Macbook Pro Laptop,1,1700,04/04/19 18:11,"972 9th St, Seattle, WA 98101"
+
+177350,Google Phone,1,600,04/21/19 13:55,"833 Wilson St, Portland, OR 97035"
+
+177351,iPhone,1,700,04/13/19 07:52,"844 6th St, Dallas, TX 75001"
+
+177353,Macbook Pro Laptop,1,1700,04/04/19 10:27,"654 South St, Portland, OR 97035"
+
+177354,Google Phone,1,600,04/11/19 22:38,"432 Chestnut St, New York City, NY 10001"
+
+177359,Macbook Pro Laptop,1,1700,04/18/19 14:47,"143 Willow St, San Francisco, CA 94016"
+
+177367,Google Phone,1,600,04/05/19 07:52,"141 Chestnut St, San Francisco, CA 94016"
+
+177379,Google Phone,1,600,04/19/19 14:24,"673 South St, Boston, MA 02215"
+
+177385,Macbook Pro Laptop,1,1700,04/11/19 12:08,"27 Adams St, San Francisco, CA 94016"
+
+177422,Macbook Pro Laptop,1,1700,04/05/19 19:52,"368 Jackson St, San Francisco, CA 94016"
+
+177428,Vareebadd Phone,1,400,04/15/19 08:19,"481 Jefferson St, Boston, MA 02215"
+
+177430,iPhone,1,700,04/08/19 12:05,"821 Sunset St, Seattle, WA 98101"
+
+177440,Macbook Pro Laptop,1,1700,04/20/19 14:39,"156 Hickory St, Los Angeles, CA 90001"
+
+177441,iPhone,1,700,04/16/19 14:38,"559 Elm St, Dallas, TX 75001"
+
+177448,Google Phone,1,600,04/24/19 19:38,"915 Forest St, Los Angeles, CA 90001"
+
+177449,Macbook Pro Laptop,1,1700,04/29/19 14:07,"272 Lakeview St, Portland, OR 97035"
+
+177453,iPhone,1,700,04/16/19 21:05,"865 Sunset St, Portland, OR 97035"
+
+177458,Macbook Pro Laptop,1,1700,04/29/19 08:17,"807 Wilson St, Dallas, TX 75001"
+
+177465,Macbook Pro Laptop,1,1700,04/13/19 09:13,"655 13th St, Boston, MA 02215"
+
+177473,Macbook Pro Laptop,1,1700,04/02/19 18:24,"844 12th St, New York City, NY 10001"
+
+177481,iPhone,1,700,04/13/19 16:54,"135 Forest St, Dallas, TX 75001"
+
+177486,Google Phone,1,600,04/21/19 16:24,"809 Highland St, Seattle, WA 98101"
+
+177496,iPhone,1,700,04/07/19 19:54,"241 Walnut St, Los Angeles, CA 90001"
+
+177504,Google Phone,1,600,04/10/19 14:39,"19 Cedar St, Boston, MA 02215"
+
+177506,iPhone,1,700,04/02/19 07:46,"656 Pine St, Los Angeles, CA 90001"
+
+177511,iPhone,1,700,04/07/19 17:38,"719 North St, Los Angeles, CA 90001"
+
+177522,iPhone,1,700,04/03/19 22:41,"139 Hill St, Portland, OR 97035"
+
+177528,Vareebadd Phone,1,400,04/02/19 13:42,"251 Maple St, San Francisco, CA 94016"
+
+177534,Macbook Pro Laptop,1,1700,04/26/19 16:49,"504 Hill St, Los Angeles, CA 90001"
+
+177535,Macbook Pro Laptop,1,1700,04/14/19 09:26,"305 Center St, Boston, MA 02215"
+
+177540,Google Phone,1,600,04/02/19 18:23,"778 Washington St, Los Angeles, CA 90001"
+
+177543,Macbook Pro Laptop,1,1700,04/14/19 16:45,"42 Maple St, San Francisco, CA 94016"
+
+177550,Macbook Pro Laptop,1,1700,04/27/19 20:15,"506 Lincoln St, Dallas, TX 75001"
+
+177569,Google Phone,1,600,04/27/19 10:31,"994 7th St, Los Angeles, CA 90001"
+
+177578,Google Phone,1,600,04/28/19 22:51,"752 Park St, Dallas, TX 75001"
+
+177592,iPhone,1,700,04/19/19 11:10,"448 Maple St, San Francisco, CA 94016"
+
+177600,Google Phone,1,600,04/24/19 23:05,"575 Walnut St, San Francisco, CA 94016"
+
+177605,Google Phone,1,600,04/04/19 07:41,"825 Madison St, New York City, NY 10001"
+
+177626,iPhone,1,700,04/19/19 07:53,"523 Main St, Atlanta, GA 30301"
+
+177630,Macbook Pro Laptop,1,1700,04/15/19 09:29,"399 9th St, Seattle, WA 98101"
+
+177638,Google Phone,1,600,04/04/19 12:44,"261 Center St, Portland, OR 97035"
+
+177650,Macbook Pro Laptop,1,1700,04/13/19 13:54,"20 4th St, Dallas, TX 75001"
+
+177668,Macbook Pro Laptop,1,1700,04/01/19 09:20,"953 Johnson St, Boston, MA 02215"
+
+177672,Macbook Pro Laptop,1,1700,04/14/19 21:12,"709 Jackson St, Austin, TX 73301"
+
+177676,iPhone,1,700,04/27/19 14:33,"126 Forest St, Boston, MA 02215"
+
+177679,Vareebadd Phone,1,400,04/08/19 17:21,"789 South St, Atlanta, GA 30301"
+
+177681,Macbook Pro Laptop,1,1700,04/01/19 14:07,"259 7th St, Dallas, TX 75001"
+
+177692,Google Phone,1,600,04/08/19 20:08,"588 Hickory St, New York City, NY 10001"
+
+177693,Google Phone,1,600,04/04/19 14:21,"138 Johnson St, Boston, MA 02215"
+
+177718,Google Phone,1,600,04/30/19 15:06,"938 Johnson St, Atlanta, GA 30301"
+
+177719,Google Phone,1,600,04/18/19 23:41,"533 Adams St, Los Angeles, CA 90001"
+
+177729,iPhone,1,700,04/13/19 20:25,"318 6th St, Atlanta, GA 30301"
+
+177752,Google Phone,1,600,04/23/19 13:42,"178 6th St, Los Angeles, CA 90001"
+
+177769,iPhone,1,700,04/14/19 22:54,"728 Church St, Atlanta, GA 30301"
+
+177773,iPhone,1,700,04/01/19 20:03,"435 8th St, Atlanta, GA 30301"
+
+177776,iPhone,1,700,04/21/19 15:23,"958 Center St, Los Angeles, CA 90001"
+
+177777,Google Phone,1,600,04/06/19 19:22,"483 Chestnut St, New York City, NY 10001"
+
+177778,iPhone,1,700,05/01/19 00:48,"478 West St, Boston, MA 02215"
+
+177792,Vareebadd Phone,1,400,04/11/19 15:30,"724 1st St, Dallas, TX 75001"
+
+177797,iPhone,1,700,04/27/19 14:38,"128 11th St, San Francisco, CA 94016"
+
+177800,Google Phone,1,600,04/03/19 11:56,"880 9th St, Portland, ME 04101"
+
+177802,Vareebadd Phone,1,400,04/16/19 18:51,"202 River St, San Francisco, CA 94016"
+
+177843,Vareebadd Phone,1,400,04/20/19 09:42,"14 5th St, Los Angeles, CA 90001"
+
+177856,Vareebadd Phone,1,400,04/24/19 08:56,"605 Madison St, Austin, TX 73301"
+
+177863,Macbook Pro Laptop,1,1700,04/29/19 16:22,"385 Lincoln St, San Francisco, CA 94016"
+
+177874,iPhone,1,700,04/04/19 18:23,"334 Willow St, Boston, MA 02215"
+
+177877,Google Phone,1,600,04/24/19 23:59,"666 Pine St, San Francisco, CA 94016"
+
+177879,Vareebadd Phone,1,400,04/09/19 18:59,"879 12th St, San Francisco, CA 94016"
+
+177888,iPhone,1,700,04/07/19 18:11,"530 Jefferson St, San Francisco, CA 94016"
+
+177890,Macbook Pro Laptop,1,1700,04/08/19 15:47,"486 Park St, New York City, NY 10001"
+
+177898,Google Phone,1,600,04/16/19 13:38,"928 6th St, Los Angeles, CA 90001"
+
+177902,Vareebadd Phone,1,400,04/04/19 11:54,"290 Maple St, San Francisco, CA 94016"
+
+177906,Google Phone,1,600,04/15/19 04:59,"876 Wilson St, New York City, NY 10001"
+
+177971,iPhone,1,700,04/30/19 08:05,"81 Lincoln St, San Francisco, CA 94016"
+
+177977,iPhone,1,700,04/03/19 19:49,"725 Pine St, San Francisco, CA 94016"
+
+177996,iPhone,1,700,04/07/19 17:20,"37 Jackson St, Atlanta, GA 30301"
+
+178003,iPhone,1,700,04/04/19 18:52,"824 11th St, San Francisco, CA 94016"
+
+178007,iPhone,1,700,04/14/19 13:54,"824 Jefferson St, New York City, NY 10001"
+
+178018,Macbook Pro Laptop,1,1700,04/27/19 15:23,"378 Dogwood St, Portland, OR 97035"
+
+178023,Google Phone,1,600,04/08/19 21:03,"671 Cherry St, San Francisco, CA 94016"
+
+178026,Macbook Pro Laptop,1,1700,04/08/19 23:11,"508 Park St, Los Angeles, CA 90001"
+
+178029,iPhone,1,700,04/06/19 21:15,"800 9th St, Los Angeles, CA 90001"
+
+178046,iPhone,1,700,04/05/19 10:26,"767 Spruce St, New York City, NY 10001"
+
+178058,Macbook Pro Laptop,1,1700,04/17/19 17:12,"437 Lakeview St, San Francisco, CA 94016"
+
+178065,iPhone,1,700,04/11/19 10:10,"552 Pine St, Atlanta, GA 30301"
+
+178070,Google Phone,1,600,04/19/19 18:41,"375 Cherry St, Portland, OR 97035"
+
+178083,iPhone,1,700,04/28/19 12:26,"109 Cherry St, San Francisco, CA 94016"
+
+178097,Macbook Pro Laptop,1,1700,04/03/19 10:48,"207 Elm St, Atlanta, GA 30301"
+
+178118,iPhone,1,700,04/27/19 11:48,"139 Dogwood St, Boston, MA 02215"
+
+178119,iPhone,1,700,04/29/19 00:48,"453 9th St, Seattle, WA 98101"
+
+178131,iPhone,1,700,04/29/19 09:04,"865 Main St, Atlanta, GA 30301"
+
+178143,Macbook Pro Laptop,1,1700,04/28/19 13:41,"268 Forest St, San Francisco, CA 94016"
+
+178158,Google Phone,1,600,04/28/19 21:13,"197 Center St, San Francisco, CA 94016"
+
+178162,iPhone,1,700,04/09/19 10:49,"888 North St, Seattle, WA 98101"
+
+178168,Macbook Pro Laptop,1,1700,04/21/19 14:48,"583 Washington St, New York City, NY 10001"
+
+178190,Vareebadd Phone,1,400,04/02/19 18:10,"811 14th St, Atlanta, GA 30301"
+
+178195,Google Phone,1,600,04/02/19 13:21,"881 Lakeview St, San Francisco, CA 94016"
+
+178238,iPhone,1,700,04/23/19 22:09,"392 13th St, San Francisco, CA 94016"
+
+178242,iPhone,1,700,04/17/19 15:29,"681 2nd St, Austin, TX 73301"
+
+178258,iPhone,1,700,04/22/19 01:00,"479 9th St, Los Angeles, CA 90001"
+
+178267,Google Phone,1,600,04/17/19 11:51,"118 Lakeview St, Los Angeles, CA 90001"
+
+178278,Vareebadd Phone,1,400,04/14/19 22:22,"248 Wilson St, Portland, OR 97035"
+
+178280,iPhone,1,700,04/08/19 12:34,"806 Madison St, San Francisco, CA 94016"
+
+178313,iPhone,1,700,04/11/19 12:27,"686 4th St, Boston, MA 02215"
+
+178317,Google Phone,1,600,04/19/19 08:52,"566 Spruce St, San Francisco, CA 94016"
+
+178325,Vareebadd Phone,1,400,04/06/19 23:09,"762 1st St, Dallas, TX 75001"
+
+178326,Google Phone,1,600,04/20/19 21:21,"81 14th St, New York City, NY 10001"
+
+178328,Google Phone,1,600,04/16/19 08:18,"701 South St, Boston, MA 02215"
+
+178341,Vareebadd Phone,1,400,04/07/19 15:44,"188 8th St, Dallas, TX 75001"
+
+178343,Google Phone,1,600,04/23/19 22:16,"838 Cherry St, Los Angeles, CA 90001"
+
+178354,Google Phone,1,600,04/28/19 13:56,"401 Lake St, Seattle, WA 98101"
+
+178364,iPhone,1,700,04/16/19 10:21,"754 Sunset St, Portland, OR 97035"
+
+178365,Google Phone,1,600,04/10/19 17:39,"413 South St, New York City, NY 10001"
+
+178377,iPhone,1,700,04/20/19 04:12,"296 10th St, San Francisco, CA 94016"
+
+178394,Google Phone,1,600,04/03/19 11:16,"768 Wilson St, Atlanta, GA 30301"
+
+178403,Google Phone,1,600,04/05/19 01:07,"665 Spruce St, New York City, NY 10001"
+
+178412,Vareebadd Phone,1,400,04/05/19 18:58,"743 Forest St, New York City, NY 10001"
+
+178415,Google Phone,1,600,04/08/19 20:25,"540 Washington St, New York City, NY 10001"
+
+178422,Macbook Pro Laptop,1,1700,04/14/19 19:16,"236 North St, Dallas, TX 75001"
+
+178423,Google Phone,1,600,04/08/19 21:08,"402 Church St, San Francisco, CA 94016"
+
+178447,iPhone,1,700,04/29/19 20:11,"873 Lincoln St, Seattle, WA 98101"
+
+178472,Macbook Pro Laptop,1,1700,04/03/19 12:35,"789 4th St, San Francisco, CA 94016"
+
+178474,Macbook Pro Laptop,1,1700,04/21/19 19:37,"333 Forest St, Atlanta, GA 30301"
+
+178530,iPhone,1,700,04/21/19 09:57,"109 West St, San Francisco, CA 94016"
+
+178550,Google Phone,1,600,04/17/19 14:50,"714 Willow St, San Francisco, CA 94016"
+
+178560,Vareebadd Phone,1,400,04/27/19 20:54,"986 12th St, Seattle, WA 98101"
+
+178584,Macbook Pro Laptop,1,1700,04/30/19 14:51,"969 10th St, Portland, OR 97035"
+
+178592,iPhone,1,700,04/05/19 22:07,"54 Spruce St, New York City, NY 10001"
+
+178625,Macbook Pro Laptop,1,1700,04/27/19 16:10,"161 6th St, San Francisco, CA 94016"
+
+178636,Macbook Pro Laptop,1,1700,04/25/19 13:53,"853 10th St, New York City, NY 10001"
+
+178648,Macbook Pro Laptop,1,1700,04/23/19 16:11,"669 Walnut St, New York City, NY 10001"
+
+178651,Google Phone,1,600,04/27/19 06:18,"455 Walnut St, San Francisco, CA 94016"
+
+178670,iPhone,1,700,04/20/19 19:04,"24 Lincoln St, Dallas, TX 75001"
+
+178671,iPhone,1,700,04/29/19 07:22,"349 Lakeview St, San Francisco, CA 94016"
+
+178696,Macbook Pro Laptop,1,1700,04/25/19 17:45,"39 9th St, Austin, TX 73301"
+
+178707,iPhone,1,700,04/11/19 18:33,"834 14th St, Los Angeles, CA 90001"
+
+178713,Google Phone,1,600,04/27/19 11:11,"933 Church St, Boston, MA 02215"
+
+178731,Macbook Pro Laptop,1,1700,04/02/19 12:01,"918 Walnut St, Los Angeles, CA 90001"
+
+178749,iPhone,1,700,04/30/19 15:53,"972 Hickory St, San Francisco, CA 94016"
+
+178759,Macbook Pro Laptop,1,1700,04/19/19 18:32,"452 10th St, Atlanta, GA 30301"
+
+178765,Vareebadd Phone,1,400,04/06/19 20:24,"451 Hill St, New York City, NY 10001"
+
+178781,Google Phone,1,600,04/03/19 16:47,"655 1st St, San Francisco, CA 94016"
+
+178799,Google Phone,1,600,04/29/19 18:22,"818 11th St, San Francisco, CA 94016"
+
+178819,Google Phone,1,600,04/26/19 16:35,"542 Center St, Los Angeles, CA 90001"
+
+178825,iPhone,1,700,04/02/19 14:00,"705 Center St, Atlanta, GA 30301"
+
+178844,Vareebadd Phone,1,400,04/08/19 12:15,"961 6th St, San Francisco, CA 94016"
+
+178854,Macbook Pro Laptop,1,1700,04/10/19 12:35,"565 Ridge St, Dallas, TX 75001"
+
+178862,Google Phone,1,600,04/26/19 12:20,"547 9th St, Seattle, WA 98101"
+
+178867,Google Phone,1,600,04/26/19 15:06,"137 Cedar St, Seattle, WA 98101"
+
+178875,Macbook Pro Laptop,1,1700,04/26/19 19:02,"924 Cedar St, San Francisco, CA 94016"
+
+178885,iPhone,1,700,04/28/19 19:16,"12 Hill St, San Francisco, CA 94016"
+
+178886,Google Phone,1,600,04/08/19 16:11,"207 Spruce St, Atlanta, GA 30301"
+
+178897,Google Phone,1,600,04/26/19 12:00,"684 13th St, Seattle, WA 98101"
+
+178923,iPhone,1,700,04/17/19 21:05,"381 Cherry St, San Francisco, CA 94016"
+
+178935,Google Phone,1,600,04/16/19 15:35,"725 Wilson St, Los Angeles, CA 90001"
+
+178939,iPhone,1,700,04/03/19 15:54,"793 Washington St, Seattle, WA 98101"
+
+178954,Google Phone,1,600,04/17/19 17:12,"400 11th St, Boston, MA 02215"
+
+178962,Google Phone,1,600,04/30/19 22:54,"601 Chestnut St, Boston, MA 02215"
+
+178967,Google Phone,1,600,04/27/19 11:09,"651 4th St, Seattle, WA 98101"
+
+178976,iPhone,1,700,04/23/19 08:54,"90 Elm St, Los Angeles, CA 90001"
+
+178989,Vareebadd Phone,1,400,04/10/19 12:30,"891 Jefferson St, San Francisco, CA 94016"
+
+178990,Google Phone,1,600,04/10/19 01:39,"417 13th St, San Francisco, CA 94016"
+
+178996,Macbook Pro Laptop,1,1700,04/16/19 00:32,"950 8th St, Boston, MA 02215"
+
+179000,iPhone,1,700,04/23/19 22:23,"181 Cedar St, San Francisco, CA 94016"
+
+179008,iPhone,1,700,04/16/19 01:26,"186 Maple St, Boston, MA 02215"
+
+179018,iPhone,1,700,04/23/19 21:23,"913 2nd St, Dallas, TX 75001"
+
+179024,Google Phone,1,600,04/13/19 20:02,"475 Lake St, New York City, NY 10001"
+
+179054,Google Phone,1,600,04/17/19 16:12,"966 Jackson St, Seattle, WA 98101"
+
+179056,Vareebadd Phone,1,400,04/19/19 23:55,"71 Johnson St, Dallas, TX 75001"
+
+179057,Google Phone,1,600,04/10/19 21:39,"820 13th St, New York City, NY 10001"
+
+179076,Google Phone,1,600,05/01/19 00:17,"635 Chestnut St, San Francisco, CA 94016"
+
+179083,Google Phone,1,600,04/06/19 21:59,"902 Chestnut St, Austin, TX 73301"
+
+179102,iPhone,1,700,04/13/19 20:50,"261 Wilson St, San Francisco, CA 94016"
+
+179105,iPhone,1,700,04/09/19 21:49,"615 Adams St, Portland, ME 04101"
+
+179106,iPhone,1,700,04/26/19 11:23,"529 9th St, Austin, TX 73301"
+
+179107,Google Phone,1,600,04/07/19 12:32,"312 Center St, Los Angeles, CA 90001"
+
+179119,iPhone,1,700,04/08/19 14:18,"994 Jackson St, San Francisco, CA 94016"
+
+179128,iPhone,1,700,04/26/19 19:20,"10 Ridge St, San Francisco, CA 94016"
+
+179129,iPhone,1,700,04/12/19 18:19,"416 Willow St, Atlanta, GA 30301"
+
+179137,Macbook Pro Laptop,1,1700,04/16/19 16:53,"623 Walnut St, Austin, TX 73301"
+
+179157,Google Phone,1,600,04/16/19 20:50,"515 Meadow St, San Francisco, CA 94016"
+
+179158,Macbook Pro Laptop,1,1700,04/03/19 17:29,"737 Cherry St, Los Angeles, CA 90001"
+
+179162,Google Phone,1,600,04/23/19 16:51,"513 Sunset St, New York City, NY 10001"
+
+179164,Macbook Pro Laptop,1,1700,04/22/19 09:47,"793 Center St, Portland, ME 04101"
+
+179184,Vareebadd Phone,1,400,04/24/19 12:16,"805 Cherry St, New York City, NY 10001"
+
+179190,iPhone,1,700,04/25/19 14:06,"220 Maple St, San Francisco, CA 94016"
+
+179222,Macbook Pro Laptop,1,1700,04/22/19 17:21,"97 1st St, San Francisco, CA 94016"
+
+179226,Macbook Pro Laptop,1,1700,04/09/19 19:45,"332 Adams St, New York City, NY 10001"
+
+179232,Macbook Pro Laptop,1,1700,04/12/19 09:02,"597 Cherry St, Dallas, TX 75001"
+
+179237,Google Phone,1,600,04/29/19 16:16,"833 13th St, Los Angeles, CA 90001"
+
+179242,Macbook Pro Laptop,1,1700,04/10/19 21:45,"669 Park St, Portland, OR 97035"
+
+179270,iPhone,1,700,04/01/19 20:38,"36 River St, Los Angeles, CA 90001"
+
+179280,iPhone,1,700,04/15/19 05:52,"666 Walnut St, San Francisco, CA 94016"
+
+179281,Macbook Pro Laptop,1,1700,04/25/19 16:06,"835 13th St, San Francisco, CA 94016"
+
+179283,Google Phone,1,600,04/30/19 18:39,"248 Church St, San Francisco, CA 94016"
+
+179289,iPhone,1,700,04/30/19 16:13,"802 Johnson St, San Francisco, CA 94016"
+
+179330,Google Phone,1,600,04/16/19 19:44,"33 Lakeview St, Boston, MA 02215"
+
+179334,iPhone,1,700,04/10/19 23:34,"972 Church St, Boston, MA 02215"
+
+179340,Macbook Pro Laptop,1,1700,04/28/19 10:37,"391 Center St, San Francisco, CA 94016"
+
+179357,Google Phone,1,600,04/01/19 22:28,"740 Lakeview St, Dallas, TX 75001"
+
+179368,Google Phone,1,600,04/13/19 01:43,"132 Maple St, Los Angeles, CA 90001"
+
+179372,Google Phone,1,600,04/17/19 20:46,"215 10th St, San Francisco, CA 94016"
+
+179373,iPhone,1,700,04/18/19 12:08,"495 1st St, Atlanta, GA 30301"
+
+179379,Google Phone,1,600,04/12/19 15:28,"288 Washington St, Los Angeles, CA 90001"
+
+179388,iPhone,1,700,04/24/19 10:22,"767 Hickory St, New York City, NY 10001"
+
+179400,Macbook Pro Laptop,1,1700,04/09/19 07:05,"959 Main St, Atlanta, GA 30301"
+
+179406,Google Phone,1,600,04/01/19 14:06,"331 14th St, Los Angeles, CA 90001"
+
+179412,Google Phone,1,600,04/09/19 10:53,"963 Center St, San Francisco, CA 94016"
+
+179415,Macbook Pro Laptop,1,1700,04/12/19 16:56,"645 West St, New York City, NY 10001"
+
+179417,Macbook Pro Laptop,1,1700,04/23/19 19:23,"9 North St, Seattle, WA 98101"
+
+179418,iPhone,1,700,04/21/19 18:17,"615 5th St, Atlanta, GA 30301"
+
+179421,Google Phone,1,600,04/25/19 19:04,"532 Pine St, Austin, TX 73301"
+
+179434,Macbook Pro Laptop,1,1700,04/24/19 14:26,"263 Washington St, New York City, NY 10001"
+
+179438,iPhone,1,700,04/14/19 19:16,"31 Walnut St, San Francisco, CA 94016"
+
+179453,iPhone,1,700,04/19/19 15:18,"644 Chestnut St, Austin, TX 73301"
+
+179468,Google Phone,1,600,04/04/19 13:52,"9 2nd St, San Francisco, CA 94016"
+
+179475,Google Phone,1,600,04/19/19 02:20,"814 Jackson St, Los Angeles, CA 90001"
+
+179485,Vareebadd Phone,1,400,04/30/19 11:29,"393 Cedar St, Dallas, TX 75001"
+
+179496,iPhone,1,700,04/21/19 07:26,"796 Madison St, Portland, OR 97035"
+
+179500,Macbook Pro Laptop,1,1700,04/12/19 22:19,"687 6th St, San Francisco, CA 94016"
+
+179513,Macbook Pro Laptop,1,1700,04/01/19 23:41,"483 Jackson St, Los Angeles, CA 90001"
+
+179514,Google Phone,1,600,04/26/19 16:05,"743 South St, Dallas, TX 75001"
+
+179521,Google Phone,1,600,04/24/19 19:12,"450 Walnut St, Dallas, TX 75001"
+
+179530,Google Phone,1,600,04/03/19 17:32,"854 Wilson St, San Francisco, CA 94016"
+
+179538,Vareebadd Phone,1,400,04/04/19 20:48,"219 Hickory St, New York City, NY 10001"
+
+179540,iPhone,1,700,04/11/19 12:53,"488 Hill St, Austin, TX 73301"
+
+179568,Macbook Pro Laptop,1,1700,04/18/19 20:32,"644 North St, San Francisco, CA 94016"
+
+179573,Google Phone,1,600,04/11/19 20:52,"301 Jackson St, Los Angeles, CA 90001"
+
+179600,Google Phone,1,600,04/27/19 11:51,"617 12th St, San Francisco, CA 94016"
+
+179605,Vareebadd Phone,1,400,04/02/19 20:03,"435 10th St, San Francisco, CA 94016"
+
+179607,Macbook Pro Laptop,1,1700,04/23/19 19:23,"823 2nd St, Seattle, WA 98101"
+
+179616,iPhone,1,700,04/04/19 19:04,"742 12th St, San Francisco, CA 94016"
+
+179618,iPhone,1,700,04/21/19 10:28,"292 Hickory St, Los Angeles, CA 90001"
+
+179636,Macbook Pro Laptop,1,1700,04/26/19 12:46,"209 11th St, New York City, NY 10001"
+
+179650,iPhone,1,700,04/26/19 18:53,"304 Johnson St, Dallas, TX 75001"
+
+179654,iPhone,1,700,04/14/19 17:28,"357 Pine St, Boston, MA 02215"
+
+179655,iPhone,1,700,04/03/19 23:50,"176 Cedar St, Los Angeles, CA 90001"
+
+179669,iPhone,1,700,04/26/19 11:29,"451 Walnut St, Portland, OR 97035"
+
+179675,Macbook Pro Laptop,1,1700,04/15/19 18:12,"397 Madison St, Los Angeles, CA 90001"
+
+179687,Macbook Pro Laptop,1,1700,04/16/19 13:56,"84 Pine St, San Francisco, CA 94016"
+
+179696,iPhone,1,700,04/20/19 18:41,"296 Lakeview St, Portland, OR 97035"
+
+179713,Macbook Pro Laptop,1,1700,04/25/19 14:48,"950 5th St, New York City, NY 10001"
+
+179729,Google Phone,1,600,04/15/19 03:52,"163 Cherry St, Atlanta, GA 30301"
+
+179736,iPhone,1,700,04/25/19 15:13,"151 Church St, Atlanta, GA 30301"
+
+179741,Macbook Pro Laptop,1,1700,04/29/19 12:52,"454 Lakeview St, New York City, NY 10001"
+
+179745,Google Phone,1,600,04/05/19 10:48,"209 South St, San Francisco, CA 94016"
+
+179750,iPhone,1,700,04/08/19 04:26,"634 Elm St, Seattle, WA 98101"
+
+179753,Macbook Pro Laptop,1,1700,04/04/19 09:49,"25 Walnut St, San Francisco, CA 94016"
+
+179755,Macbook Pro Laptop,1,1700,04/26/19 15:26,"945 Maple St, Atlanta, GA 30301"
+
+179768,iPhone,1,700,04/28/19 15:11,"892 River St, Los Angeles, CA 90001"
+
+179802,Google Phone,1,600,04/28/19 17:20,"79 5th St, Boston, MA 02215"
+
+179820,Google Phone,1,600,04/03/19 08:40,"85 Hill St, Boston, MA 02215"
+
+179835,Google Phone,1,600,04/21/19 16:38,"158 Center St, Portland, OR 97035"
+
+179837,Google Phone,1,600,04/04/19 11:11,"568 Hill St, New York City, NY 10001"
+
+179851,Vareebadd Phone,1,400,04/03/19 11:37,"909 South St, Los Angeles, CA 90001"
+
+179874,Macbook Pro Laptop,1,1700,04/27/19 19:08,"858 Cherry St, New York City, NY 10001"
+
+179876,Macbook Pro Laptop,1,1700,04/19/19 14:01,"566 Chestnut St, Seattle, WA 98101"
+
+179883,iPhone,1,700,04/04/19 15:53,"353 1st St, New York City, NY 10001"
+
+179886,iPhone,1,700,04/23/19 11:42,"927 Center St, Los Angeles, CA 90001"
+
+179898,iPhone,1,700,04/30/19 09:08,"536 Adams St, New York City, NY 10001"
+
+179905,iPhone,1,700,04/28/19 22:23,"699 Lake St, Atlanta, GA 30301"
+
+179913,Google Phone,1,600,04/16/19 17:25,"12 Madison St, San Francisco, CA 94016"
+
+179914,Macbook Pro Laptop,1,1700,04/15/19 22:39,"27 8th St, Los Angeles, CA 90001"
+
+179916,Vareebadd Phone,1,400,04/16/19 20:33,"73 Hill St, New York City, NY 10001"
+
+179935,Vareebadd Phone,1,400,04/17/19 13:13,"279 Walnut St, Los Angeles, CA 90001"
+
+179948,Vareebadd Phone,1,400,04/06/19 20:01,"859 Center St, Los Angeles, CA 90001"
+
+179961,Google Phone,1,600,04/25/19 03:09,"141 Johnson St, New York City, NY 10001"
+
+179963,Macbook Pro Laptop,1,1700,04/30/19 15:31,"456 North St, Boston, MA 02215"
+
+179965,Macbook Pro Laptop,1,1700,04/30/19 15:23,"45 Cedar St, Seattle, WA 98101"
+
+179966,iPhone,1,700,04/15/19 08:40,"979 13th St, New York City, NY 10001"
+
+179969,Google Phone,1,600,04/21/19 16:14,"729 9th St, Atlanta, GA 30301"
+
+179971,iPhone,1,700,04/01/19 22:27,"95 Center St, Los Angeles, CA 90001"
+
+179980,iPhone,1,700,04/09/19 18:49,"471 Maple St, Los Angeles, CA 90001"
+
+179983,iPhone,1,700,04/12/19 11:38,"203 River St, Los Angeles, CA 90001"
+
+179984,Google Phone,1,600,04/05/19 07:07,"781 1st St, Los Angeles, CA 90001"
+
+179985,iPhone,1,700,04/16/19 23:50,"362 Elm St, Dallas, TX 75001"
+
+179995,Macbook Pro Laptop,1,1700,04/06/19 19:50,"206 West St, New York City, NY 10001"
+
+179998,iPhone,1,700,04/01/19 21:17,"686 Pine St, New York City, NY 10001"
+
+179999,iPhone,1,700,04/26/19 19:19,"757 1st St, San Francisco, CA 94016"
+
+180000,iPhone,1,700,04/15/19 11:01,"704 11th St, New York City, NY 10001"
+
+180020,iPhone,1,700,04/06/19 13:18,"75 River St, San Francisco, CA 94016"
+
+180031,Vareebadd Phone,1,400,04/22/19 15:33,"534 10th St, Atlanta, GA 30301"
+
+180064,iPhone,1,700,04/07/19 05:39,"910 Lakeview St, San Francisco, CA 94016"
+
+180072,Macbook Pro Laptop,1,1700,04/17/19 20:35,"769 Willow St, Los Angeles, CA 90001"
+
+180078,Macbook Pro Laptop,1,1700,04/24/19 16:40,"548 Meadow St, Dallas, TX 75001"
+
+180079,Google Phone,1,600,04/12/19 10:48,"138 7th St, San Francisco, CA 94016"
+
+180084,Vareebadd Phone,1,400,04/16/19 23:44,"859 1st St, San Francisco, CA 94016"
+
+180085,iPhone,1,700,04/16/19 08:49,"857 Walnut St, Boston, MA 02215"
+
+180091,iPhone,1,700,04/28/19 20:03,"602 Main St, Los Angeles, CA 90001"
+
+180110,Macbook Pro Laptop,1,1700,04/16/19 17:52,"962 4th St, Seattle, WA 98101"
+
+180117,Macbook Pro Laptop,1,1700,04/30/19 20:06,"40 Elm St, San Francisco, CA 94016"
+
+180129,Google Phone,1,600,04/14/19 17:43,"274 Center St, Portland, OR 97035"
+
+180133,iPhone,1,700,04/02/19 13:20,"941 8th St, Dallas, TX 75001"
+
+180135,Google Phone,1,600,04/13/19 14:46,"334 1st St, Seattle, WA 98101"
+
+180146,iPhone,1,700,04/11/19 17:48,"937 Jefferson St, Boston, MA 02215"
+
+180147,Google Phone,1,600,04/15/19 23:54,"296 7th St, Atlanta, GA 30301"
+
+180157,Google Phone,1,600,04/03/19 20:57,"156 Sunset St, New York City, NY 10001"
+
+180158,Vareebadd Phone,1,400,04/10/19 16:01,"129 Sunset St, San Francisco, CA 94016"
+
+180176,Macbook Pro Laptop,1,1700,04/15/19 00:05,"25 Adams St, San Francisco, CA 94016"
+
+180192,Macbook Pro Laptop,1,1700,04/01/19 12:55,"732 Lakeview St, Boston, MA 02215"
+
+180206,iPhone,1,700,04/02/19 08:43,"274 River St, San Francisco, CA 94016"
+
+180208,Macbook Pro Laptop,1,1700,04/04/19 12:19,"800 Center St, New York City, NY 10001"
+
+180236,iPhone,1,700,04/11/19 19:13,"173 Pine St, Austin, TX 73301"
+
+180237,iPhone,1,700,04/18/19 12:35,"746 1st St, Seattle, WA 98101"
+
+180240,Vareebadd Phone,1,400,04/07/19 11:30,"931 Hill St, San Francisco, CA 94016"
+
+180278,iPhone,1,700,04/10/19 10:23,"77 1st St, San Francisco, CA 94016"
+
+180322,iPhone,1,700,04/13/19 14:03,"732 10th St, San Francisco, CA 94016"
+
+180365,Google Phone,1,600,04/23/19 21:27,"414 13th St, Los Angeles, CA 90001"
+
+180370,Google Phone,1,600,04/17/19 12:55,"758 Park St, Los Angeles, CA 90001"
+
+180394,iPhone,1,700,04/09/19 14:40,"201 7th St, Seattle, WA 98101"
+
+180399,iPhone,1,700,04/11/19 15:57,"535 Johnson St, Austin, TX 73301"
+
+180421,iPhone,1,700,04/21/19 18:59,"652 Adams St, Los Angeles, CA 90001"
+
+180422,Google Phone,1,600,04/10/19 16:02,"755 Ridge St, San Francisco, CA 94016"
+
+180423,Google Phone,1,600,04/29/19 13:28,"373 13th St, Boston, MA 02215"
+
+180430,Google Phone,1,600,04/10/19 15:34,"118 Highland St, Seattle, WA 98101"
+
+180431,Macbook Pro Laptop,1,1700,04/01/19 21:40,"746 12th St, Austin, TX 73301"
+
+180451,Macbook Pro Laptop,1,1700,04/02/19 10:08,"849 Chestnut St, San Francisco, CA 94016"
+
+180456,iPhone,1,700,04/28/19 13:36,"900 Highland St, Portland, OR 97035"
+
+180460,Google Phone,1,600,04/20/19 14:57,"127 Adams St, San Francisco, CA 94016"
+
+180494,iPhone,1,700,04/29/19 10:04,"972 Pine St, Austin, TX 73301"
+
+180496,Macbook Pro Laptop,1,1700,04/06/19 13:07,"646 Maple St, Seattle, WA 98101"
+
+180514,iPhone,1,700,04/15/19 16:28,"958 1st St, Portland, OR 97035"
+
+180523,iPhone,1,700,04/09/19 13:24,"591 Lake St, Dallas, TX 75001"
+
+180532,iPhone,1,700,04/18/19 11:31,"865 River St, Los Angeles, CA 90001"
+
+180535,iPhone,1,700,04/27/19 21:51,"42 Lakeview St, Austin, TX 73301"
+
+180540,iPhone,1,700,04/21/19 21:00,"330 6th St, Los Angeles, CA 90001"
+
+180543,Google Phone,1,600,04/29/19 22:42,"945 River St, San Francisco, CA 94016"
+
+180545,Macbook Pro Laptop,1,1700,04/07/19 20:28,"483 Main St, San Francisco, CA 94016"
+
+180554,Macbook Pro Laptop,1,1700,04/21/19 10:41,"466 Chestnut St, Seattle, WA 98101"
+
+180558,Vareebadd Phone,1,400,04/03/19 12:31,"386 Hickory St, Los Angeles, CA 90001"
+
+180574,Google Phone,1,600,04/17/19 12:06,"742 13th St, Los Angeles, CA 90001"
+
+180583,Google Phone,1,600,04/30/19 14:40,"168 Chestnut St, San Francisco, CA 94016"
+
+180598,Macbook Pro Laptop,1,1700,04/24/19 11:49,"772 Ridge St, Los Angeles, CA 90001"
+
+180626,iPhone,1,700,04/13/19 12:21,"769 Hickory St, Atlanta, GA 30301"
+
+180627,iPhone,1,700,04/11/19 19:46,"888 4th St, New York City, NY 10001"
+
+180628,Vareebadd Phone,1,400,04/07/19 22:29,"988 7th St, Seattle, WA 98101"
+
+180629,Google Phone,1,600,04/30/19 08:13,"677 Wilson St, San Francisco, CA 94016"
+
+180633,Google Phone,1,600,04/25/19 22:49,"602 Hickory St, Seattle, WA 98101"
+
+180641,iPhone,1,700,04/02/19 22:44,"803 Center St, Atlanta, GA 30301"
+
+180642,iPhone,1,700,04/02/19 20:36,"376 Lincoln St, Boston, MA 02215"
+
+180646,iPhone,1,700,04/21/19 15:24,"376 North St, San Francisco, CA 94016"
+
+180652,Google Phone,1,600,04/10/19 15:09,"623 9th St, New York City, NY 10001"
+
+180657,Macbook Pro Laptop,1,1700,04/10/19 10:31,"728 9th St, New York City, NY 10001"
+
+180666,iPhone,1,700,04/19/19 18:01,"652 Sunset St, Los Angeles, CA 90001"
+
+180670,Google Phone,1,600,04/06/19 20:46,"635 Main St, San Francisco, CA 94016"
+
+180710,iPhone,1,700,04/25/19 11:30,"796 Meadow St, Atlanta, GA 30301"
+
+180711,iPhone,1,700,04/01/19 08:37,"322 Johnson St, Los Angeles, CA 90001"
+
+180723,Google Phone,1,600,04/20/19 16:54,"405 Center St, Los Angeles, CA 90001"
+
+180767,iPhone,1,700,04/12/19 18:05,"456 North St, San Francisco, CA 94016"
+
+180777,Google Phone,1,600,04/13/19 13:39,"223 Main St, Los Angeles, CA 90001"
+
+180788,iPhone,1,700,04/15/19 16:53,"418 2nd St, New York City, NY 10001"
+
+180811,iPhone,1,700,04/25/19 12:32,"178 8th St, Los Angeles, CA 90001"
+
+180814,Vareebadd Phone,1,400,04/18/19 15:35,"684 Lakeview St, New York City, NY 10001"
+
+180818,Vareebadd Phone,1,400,04/01/19 11:05,"495 Main St, Dallas, TX 75001"
+
+180827,Macbook Pro Laptop,1,1700,04/21/19 09:37,"398 Lincoln St, Los Angeles, CA 90001"
+
+180834,Macbook Pro Laptop,1,1700,04/29/19 08:08,"12 Washington St, New York City, NY 10001"
+
+180865,iPhone,1,700,04/12/19 10:06,"520 Lincoln St, San Francisco, CA 94016"
+
+180866,Google Phone,1,600,04/27/19 16:33,"472 Lakeview St, Boston, MA 02215"
+
+180874,Google Phone,1,600,04/01/19 19:36,"191 Forest St, Boston, MA 02215"
+
+180884,iPhone,1,700,04/14/19 23:36,"1 Hickory St, Atlanta, GA 30301"
+
+180885,Google Phone,1,600,04/13/19 18:45,"580 Hill St, Los Angeles, CA 90001"
+
+180887,Google Phone,1,600,04/28/19 19:08,"248 Pine St, Austin, TX 73301"
+
+180896,Macbook Pro Laptop,1,1700,04/03/19 22:58,"775 Cherry St, Boston, MA 02215"
+
+180907,iPhone,1,700,04/30/19 10:49,"138 8th St, Seattle, WA 98101"
+
+180911,iPhone,1,700,04/17/19 14:37,"821 Main St, Austin, TX 73301"
+
+180915,iPhone,1,700,04/06/19 01:11,"157 Center St, Boston, MA 02215"
+
+180918,Macbook Pro Laptop,1,1700,04/24/19 23:05,"960 Wilson St, Dallas, TX 75001"
+
+180920,iPhone,1,700,04/30/19 09:17,"583 Willow St, San Francisco, CA 94016"
+
+180921,Macbook Pro Laptop,1,1700,04/26/19 16:29,"318 River St, Seattle, WA 98101"
+
+180949,Macbook Pro Laptop,1,1700,04/01/19 14:04,"208 12th St, Portland, OR 97035"
+
+180964,Macbook Pro Laptop,1,1700,04/27/19 09:56,"937 14th St, San Francisco, CA 94016"
+
+180972,Vareebadd Phone,1,400,04/29/19 17:54,"795 River St, Austin, TX 73301"
+
+180976,Macbook Pro Laptop,1,1700,04/02/19 06:21,"896 Sunset St, Portland, OR 97035"
+
+180998,Macbook Pro Laptop,1,1700,04/02/19 13:49,"96 Willow St, Los Angeles, CA 90001"
+
+181004,iPhone,1,700,04/13/19 05:29,"866 5th St, Los Angeles, CA 90001"
+
+181022,Google Phone,1,600,04/06/19 19:22,"66 10th St, San Francisco, CA 94016"
+
+181025,Macbook Pro Laptop,1,1700,04/30/19 09:22,"881 1st St, Boston, MA 02215"
+
+181027,iPhone,1,700,04/02/19 19:08,"112 Lake St, New York City, NY 10001"
+
+181048,Macbook Pro Laptop,1,1700,04/11/19 13:47,"940 11th St, Dallas, TX 75001"
+
+181063,Google Phone,1,600,04/10/19 17:01,"547 Jefferson St, Los Angeles, CA 90001"
+
+181069,Macbook Pro Laptop,2,1700,04/27/19 21:01,"668 Park St, San Francisco, CA 94016"
+
+181076,Google Phone,1,600,04/28/19 18:56,"131 1st St, Boston, MA 02215"
+
+181095,Macbook Pro Laptop,1,1700,04/19/19 20:42,"251 South St, Dallas, TX 75001"
+
+181102,Macbook Pro Laptop,1,1700,04/28/19 19:25,"895 North St, Los Angeles, CA 90001"
+
+181103,iPhone,1,700,04/21/19 14:53,"630 Walnut St, Los Angeles, CA 90001"
+
+181110,Google Phone,1,600,04/12/19 12:57,"37 Lake St, New York City, NY 10001"
+
+181115,iPhone,1,700,04/28/19 19:10,"834 Meadow St, Boston, MA 02215"
+
+181118,Vareebadd Phone,1,400,04/25/19 11:07,"417 Chestnut St, Portland, OR 97035"
+
+181119,iPhone,1,700,04/16/19 08:17,"55 South St, San Francisco, CA 94016"
+
+181128,Google Phone,1,600,04/28/19 01:54,"904 Maple St, Los Angeles, CA 90001"
+
+181153,Macbook Pro Laptop,1,1700,04/05/19 00:01,"561 Lincoln St, Portland, OR 97035"
+
+181164,iPhone,1,700,04/17/19 00:15,"630 Hickory St, Austin, TX 73301"
+
+181177,iPhone,1,700,04/01/19 13:13,"244 Maple St, Portland, OR 97035"
+
+181177,Vareebadd Phone,1,400,04/01/19 13:13,"244 Maple St, Portland, OR 97035"
+
+181179,Macbook Pro Laptop,1,1700,04/05/19 14:10,"892 5th St, Austin, TX 73301"
+
+181180,Vareebadd Phone,1,400,04/30/19 11:11,"473 Madison St, New York City, NY 10001"
+
+181206,Macbook Pro Laptop,1,1700,04/16/19 09:07,"561 Maple St, Los Angeles, CA 90001"
+
+181211,Vareebadd Phone,1,400,04/26/19 19:34,"849 Hill St, Seattle, WA 98101"
+
+181247,Macbook Pro Laptop,1,1700,04/18/19 01:27,"513 10th St, San Francisco, CA 94016"
+
+181257,iPhone,1,700,04/14/19 02:08,"175 Park St, Atlanta, GA 30301"
+
+181262,Google Phone,1,600,04/23/19 19:39,"94 Elm St, Boston, MA 02215"
+
+181266,iPhone,1,700,04/27/19 13:19,"624 Madison St, Boston, MA 02215"
+
+181271,Vareebadd Phone,1,400,04/09/19 08:17,"860 Hickory St, Portland, OR 97035"
+
+181298,Macbook Pro Laptop,1,1700,04/01/19 21:39,"732 Hickory St, Boston, MA 02215"
+
+181302,iPhone,1,700,04/22/19 10:27,"534 Lakeview St, New York City, NY 10001"
+
+181315,Google Phone,1,600,04/28/19 18:50,"123 8th St, San Francisco, CA 94016"
+
+181322,Google Phone,1,600,04/23/19 14:10,"691 14th St, Boston, MA 02215"
+
+181329,Google Phone,1,600,04/05/19 17:19,"334 10th St, Dallas, TX 75001"
+
+181338,iPhone,1,700,04/06/19 19:05,"975 Highland St, Portland, OR 97035"
+
+181339,Macbook Pro Laptop,1,1700,04/17/19 17:26,"905 10th St, San Francisco, CA 94016"
+
+181341,Macbook Pro Laptop,1,1700,04/25/19 19:29,"829 Lincoln St, Los Angeles, CA 90001"
+
+181370,iPhone,1,700,04/19/19 15:43,"785 11th St, Atlanta, GA 30301"
+
+181373,iPhone,1,700,04/05/19 12:31,"240 Adams St, San Francisco, CA 94016"
+
+181378,Vareebadd Phone,1,400,04/14/19 17:26,"463 Maple St, New York City, NY 10001"
+
+181381,Macbook Pro Laptop,1,1700,04/15/19 20:19,"332 Walnut St, Dallas, TX 75001"
+
+181392,Vareebadd Phone,1,400,04/19/19 21:26,"234 Spruce St, San Francisco, CA 94016"
+
+181400,iPhone,1,700,04/16/19 19:13,"388 5th St, New York City, NY 10001"
+
+181408,iPhone,1,700,04/02/19 22:45,"798 Highland St, San Francisco, CA 94016"
+
+181412,Vareebadd Phone,1,400,04/23/19 20:18,"660 River St, Austin, TX 73301"
+
+181427,Google Phone,1,600,04/27/19 10:12,"624 10th St, Portland, ME 04101"
+
+181453,Macbook Pro Laptop,1,1700,04/27/19 11:01,"1 Meadow St, Atlanta, GA 30301"
+
+181469,Google Phone,1,600,04/14/19 10:08,"522 Forest St, Portland, OR 97035"
+
+181471,Macbook Pro Laptop,1,1700,04/20/19 22:17,"483 10th St, Los Angeles, CA 90001"
+
+181476,Vareebadd Phone,1,400,04/02/19 22:19,"2 Jackson St, Dallas, TX 75001"
+
+181480,iPhone,1,700,04/11/19 02:14,"681 1st St, Atlanta, GA 30301"
+
+181481,Macbook Pro Laptop,1,1700,04/07/19 06:54,"282 Cedar St, Dallas, TX 75001"
+
+181503,Vareebadd Phone,1,400,04/13/19 01:07,"728 Hickory St, Atlanta, GA 30301"
+
+181515,Google Phone,1,600,04/01/19 13:03,"832 7th St, New York City, NY 10001"
+
+181517,iPhone,1,700,04/04/19 15:00,"147 Madison St, San Francisco, CA 94016"
+
+181518,Google Phone,1,600,04/02/19 11:38,"298 Lakeview St, Los Angeles, CA 90001"
+
+181535,Macbook Pro Laptop,1,1700,04/14/19 02:33,"283 Maple St, Los Angeles, CA 90001"
+
+181544,Macbook Pro Laptop,2,1700,04/22/19 12:48,"731 11th St, New York City, NY 10001"
+
+181552,Macbook Pro Laptop,1,1700,04/01/19 07:06,"740 1st St, Atlanta, GA 30301"
+
+181557,Google Phone,1,600,04/26/19 19:51,"427 West St, San Francisco, CA 94016"
+
+181563,Macbook Pro Laptop,1,1700,04/04/19 14:42,"218 Park St, New York City, NY 10001"
+
+181581,Macbook Pro Laptop,1,1700,04/10/19 20:50,"768 Forest St, Boston, MA 02215"
+
+181589,iPhone,1,700,04/25/19 16:23,"554 9th St, Los Angeles, CA 90001"
+
+181590,iPhone,1,700,04/21/19 18:58,"608 River St, Los Angeles, CA 90001"
+
+181591,Google Phone,1,600,04/17/19 09:28,"539 Walnut St, Los Angeles, CA 90001"
+
+181602,Google Phone,1,600,04/22/19 22:19,"518 Hill St, Seattle, WA 98101"
+
+181607,iPhone,1,700,04/24/19 20:28,"665 12th St, San Francisco, CA 94016"
+
+181611,Google Phone,1,600,04/17/19 06:42,"240 Lakeview St, Portland, OR 97035"
+
+181614,Vareebadd Phone,1,400,04/19/19 11:41,"629 13th St, Los Angeles, CA 90001"
+
+181639,Macbook Pro Laptop,1,1700,04/07/19 20:44,"78 Dogwood St, Boston, MA 02215"
+
+181641,Macbook Pro Laptop,1,1700,04/08/19 12:42,"352 West St, San Francisco, CA 94016"
+
+181646,Google Phone,1,600,04/19/19 16:49,"863 Main St, Dallas, TX 75001"
+
+181647,iPhone,1,700,04/09/19 22:31,"524 8th St, New York City, NY 10001"
+
+181652,iPhone,1,700,04/18/19 11:14,"427 9th St, San Francisco, CA 94016"
+
+181663,iPhone,1,700,04/04/19 11:09,"828 North St, New York City, NY 10001"
+
+181664,iPhone,1,700,04/29/19 17:23,"926 Maple St, Austin, TX 73301"
+
+181683,Google Phone,1,600,04/26/19 13:43,"493 Jackson St, Boston, MA 02215"
+
+181687,iPhone,1,700,04/02/19 22:36,"761 Elm St, Seattle, WA 98101"
+
+181691,iPhone,1,700,04/09/19 10:54,"179 Highland St, San Francisco, CA 94016"
+
+181697,Google Phone,1,600,04/08/19 16:06,"834 Cherry St, San Francisco, CA 94016"
+
+181713,Vareebadd Phone,1,400,04/07/19 21:56,"920 13th St, San Francisco, CA 94016"
+
+181724,iPhone,1,700,04/12/19 17:52,"691 13th St, Dallas, TX 75001"
+
+181725,iPhone,1,700,04/05/19 11:27,"292 Dogwood St, Los Angeles, CA 90001"
+
+181735,iPhone,1,700,04/03/19 11:18,"637 4th St, Dallas, TX 75001"
+
+181736,iPhone,1,700,04/29/19 20:19,"119 Chestnut St, Portland, ME 04101"
+
+181749,Vareebadd Phone,1,400,04/29/19 22:54,"882 12th St, Dallas, TX 75001"
+
+181754,Google Phone,1,600,04/30/19 12:05,"479 Madison St, Boston, MA 02215"
+
+181762,Vareebadd Phone,1,400,04/15/19 17:24,"290 Cherry St, Austin, TX 73301"
+
+181768,Macbook Pro Laptop,1,1700,04/15/19 22:16,"450 Ridge St, San Francisco, CA 94016"
+
+181807,iPhone,1,700,04/07/19 16:36,"73 South St, San Francisco, CA 94016"
+
+181816,iPhone,1,700,04/21/19 12:17,"397 Madison St, Dallas, TX 75001"
+
+181819,Vareebadd Phone,1,400,04/26/19 05:43,"27 Maple St, Portland, OR 97035"
+
+181843,iPhone,1,700,04/12/19 11:20,"9 Madison St, Atlanta, GA 30301"
+
+181845,iPhone,1,700,04/12/19 12:34,"786 Johnson St, San Francisco, CA 94016"
+
+181849,Macbook Pro Laptop,1,1700,04/21/19 17:21,"903 Maple St, Dallas, TX 75001"
+
+181853,Google Phone,1,600,04/26/19 15:10,"353 Washington St, San Francisco, CA 94016"
+
+181857,Macbook Pro Laptop,1,1700,04/05/19 17:33,"355 Willow St, San Francisco, CA 94016"
+
+181858,iPhone,1,700,04/15/19 20:51,"552 Dogwood St, New York City, NY 10001"
+
+181860,Google Phone,1,600,04/21/19 12:43,"704 Park St, San Francisco, CA 94016"
+
+181862,iPhone,1,700,04/20/19 10:39,"812 South St, Seattle, WA 98101"
+
+181874,Google Phone,1,600,04/26/19 22:28,"235 Ridge St, San Francisco, CA 94016"
+
+181893,Macbook Pro Laptop,1,1700,04/20/19 21:15,"286 11th St, New York City, NY 10001"
+
+181894,iPhone,1,700,04/15/19 17:58,"838 Maple St, Austin, TX 73301"
+
+181904,iPhone,1,700,04/15/19 11:26,"502 Cedar St, Boston, MA 02215"
+
+181912,Google Phone,1,600,04/29/19 04:34,"218 Willow St, San Francisco, CA 94016"
+
+181917,Google Phone,1,600,04/10/19 12:24,"899 Main St, Portland, OR 97035"
+
+181929,Google Phone,1,600,04/13/19 14:56,"593 13th St, New York City, NY 10001"
+
+181930,Google Phone,1,600,04/30/19 06:26,"833 Hill St, Portland, ME 04101"
+
+181936,iPhone,1,700,04/27/19 10:21,"368 Cedar St, San Francisco, CA 94016"
+
+181942,Google Phone,1,600,04/09/19 17:26,"550 Maple St, Seattle, WA 98101"
+
+181958,iPhone,1,700,04/26/19 18:55,"38 9th St, Seattle, WA 98101"
+
+181961,Macbook Pro Laptop,1,1700,04/11/19 08:59,"929 River St, San Francisco, CA 94016"
+
+181977,Macbook Pro Laptop,1,1700,04/26/19 21:51,"671 Highland St, Los Angeles, CA 90001"
+
+181978,Macbook Pro Laptop,1,1700,04/22/19 10:57,"485 5th St, Atlanta, GA 30301"
+
+181979,Vareebadd Phone,1,400,04/08/19 11:04,"242 Church St, Boston, MA 02215"
+
+181985,iPhone,1,700,04/09/19 21:12,"29 Meadow St, New York City, NY 10001"
+
+182018,iPhone,1,700,04/21/19 15:37,"165 13th St, Los Angeles, CA 90001"
+
+182022,Google Phone,1,600,04/19/19 15:32,"840 South St, Boston, MA 02215"
+
+182024,Google Phone,1,600,04/19/19 22:50,"741 1st St, San Francisco, CA 94016"
+
+182026,Macbook Pro Laptop,1,1700,04/19/19 11:30,"778 Jackson St, Seattle, WA 98101"
+
+182058,Vareebadd Phone,1,400,04/09/19 12:54,"112 14th St, Atlanta, GA 30301"
+
+182060,iPhone,1,700,04/02/19 20:00,"763 Adams St, San Francisco, CA 94016"
+
+182061,Macbook Pro Laptop,1,1700,04/09/19 19:20,"92 Willow St, Seattle, WA 98101"
+
+182067,Vareebadd Phone,1,400,04/21/19 20:09,"970 14th St, Los Angeles, CA 90001"
+
+182086,Google Phone,1,600,04/09/19 01:17,"177 Chestnut St, Portland, OR 97035"
+
+182088,Macbook Pro Laptop,1,1700,04/10/19 11:29,"21 2nd St, Boston, MA 02215"
+
+182097,iPhone,1,700,04/08/19 16:14,"327 Highland St, Portland, ME 04101"
+
+182099,Google Phone,1,600,04/02/19 18:13,"192 14th St, Atlanta, GA 30301"
+
+182110,Macbook Pro Laptop,1,1700,04/27/19 22:42,"302 Forest St, Boston, MA 02215"
+
+182124,Vareebadd Phone,1,400,04/01/19 13:24,"500 Hickory St, Los Angeles, CA 90001"
+
+182125,iPhone,1,700,04/02/19 18:24,"757 10th St, Boston, MA 02215"
+
+182139,Macbook Pro Laptop,1,1700,04/17/19 10:47,"878 Washington St, San Francisco, CA 94016"
+
+182147,Vareebadd Phone,1,400,04/06/19 13:31,"967 Johnson St, Portland, ME 04101"
+
+182148,Google Phone,1,600,04/05/19 09:31,"675 Maple St, San Francisco, CA 94016"
+
+182198,iPhone,1,700,04/24/19 19:34,"443 North St, Boston, MA 02215"
+
+182202,Google Phone,1,600,04/26/19 15:04,"165 Hill St, Seattle, WA 98101"
+
+182218,Google Phone,1,600,04/13/19 16:10,"559 Park St, Dallas, TX 75001"
+
+182219,Google Phone,1,600,04/22/19 14:37,"971 Lakeview St, New York City, NY 10001"
+
+182240,iPhone,1,700,04/27/19 18:56,"772 5th St, New York City, NY 10001"
+
+182250,iPhone,1,700,04/16/19 16:14,"178 Center St, Portland, OR 97035"
+
+182264,iPhone,1,700,04/04/19 18:32,"455 Park St, Los Angeles, CA 90001"
+
+182312,iPhone,1,700,04/24/19 08:40,"739 Sunset St, Portland, OR 97035"
+
+182325,Google Phone,1,600,04/09/19 22:15,"799 Cherry St, Portland, OR 97035"
+
+182334,Macbook Pro Laptop,1,1700,04/20/19 17:15,"834 Park St, New York City, NY 10001"
+
+182343,iPhone,1,700,04/27/19 18:06,"848 Chestnut St, Dallas, TX 75001"
+
+182374,iPhone,1,700,04/02/19 00:00,"414 5th St, Portland, OR 97035"
+
+182391,iPhone,1,700,04/02/19 15:43,"389 Church St, Atlanta, GA 30301"
+
+182397,Macbook Pro Laptop,1,1700,04/05/19 19:08,"333 9th St, San Francisco, CA 94016"
+
+182407,iPhone,1,700,04/10/19 07:18,"691 Elm St, Portland, OR 97035"
+
+182417,iPhone,1,700,04/04/19 07:42,"610 Meadow St, San Francisco, CA 94016"
+
+182420,iPhone,1,700,04/08/19 12:55,"253 River St, Atlanta, GA 30301"
+
+182428,Google Phone,1,600,04/16/19 15:18,"510 Wilson St, Boston, MA 02215"
+
+182429,Macbook Pro Laptop,1,1700,04/07/19 13:27,"985 Lakeview St, San Francisco, CA 94016"
+
+182437,Macbook Pro Laptop,1,1700,04/18/19 11:56,"782 Willow St, Boston, MA 02215"
+
+182443,iPhone,1,700,04/30/19 11:06,"386 1st St, Dallas, TX 75001"
+
+182444,iPhone,1,700,04/11/19 10:15,"722 Main St, Los Angeles, CA 90001"
+
+182446,Google Phone,1,600,04/07/19 17:54,"191 Lake St, Boston, MA 02215"
+
+182469,Vareebadd Phone,1,400,04/25/19 21:27,"693 11th St, Los Angeles, CA 90001"
+
+182481,iPhone,1,700,04/13/19 09:32,"792 River St, Dallas, TX 75001"
+
+182491,iPhone,1,700,04/05/19 22:26,"912 9th St, San Francisco, CA 94016"
+
+182495,Macbook Pro Laptop,1,1700,04/18/19 18:40,"981 Spruce St, San Francisco, CA 94016"
+
+182501,Google Phone,1,600,04/18/19 14:43,"953 5th St, Portland, OR 97035"
+
+182523,iPhone,1,700,04/24/19 21:16,"990 River St, Boston, MA 02215"
+
+182527,Google Phone,1,600,04/19/19 22:42,"276 Main St, Portland, OR 97035"
+
+182530,iPhone,1,700,04/04/19 09:11,"485 North St, Los Angeles, CA 90001"
+
+182533,Macbook Pro Laptop,1,1700,04/09/19 02:26,"265 Lincoln St, Los Angeles, CA 90001"
+
+182537,iPhone,1,700,04/18/19 16:31,"525 7th St, Dallas, TX 75001"
+
+182552,iPhone,1,700,04/27/19 11:42,"500 9th St, Boston, MA 02215"
+
+182567,Vareebadd Phone,1,400,04/10/19 09:54,"629 Park St, Seattle, WA 98101"
+
+182568,iPhone,1,700,04/26/19 20:34,"641 River St, New York City, NY 10001"
+
+182569,Vareebadd Phone,1,400,04/21/19 12:44,"128 Forest St, Los Angeles, CA 90001"
+
+182581,Google Phone,1,600,04/10/19 15:24,"778 River St, Boston, MA 02215"
+
+182587,Macbook Pro Laptop,1,1700,04/02/19 16:18,"247 Hickory St, Portland, OR 97035"
+
+182608,iPhone,1,700,04/17/19 11:59,"476 Forest St, Los Angeles, CA 90001"
+
+182615,Macbook Pro Laptop,1,1700,04/23/19 17:57,"14 North St, Dallas, TX 75001"
+
+182621,Google Phone,1,600,04/23/19 09:14,"184 Spruce St, Los Angeles, CA 90001"
+
+182633,Macbook Pro Laptop,1,1700,04/23/19 10:53,"985 South St, San Francisco, CA 94016"
+
+182643,iPhone,1,700,04/15/19 14:14,"132 Jefferson St, San Francisco, CA 94016"
+
+182677,iPhone,1,700,04/03/19 11:57,"55 6th St, Seattle, WA 98101"
+
+182689,iPhone,1,700,04/04/19 21:43,"220 Pine St, Los Angeles, CA 90001"
+
+182696,iPhone,1,700,04/19/19 07:30,"942 Lincoln St, Seattle, WA 98101"
+
+182713,Macbook Pro Laptop,1,1700,04/15/19 17:15,"960 Pine St, San Francisco, CA 94016"
+
+182719,iPhone,1,700,04/16/19 23:51,"521 Dogwood St, San Francisco, CA 94016"
+
+182721,iPhone,1,700,04/10/19 22:16,"164 10th St, Los Angeles, CA 90001"
+
+182723,Google Phone,1,600,04/09/19 19:52,"352 6th St, San Francisco, CA 94016"
+
+182725,iPhone,1,700,04/20/19 12:15,"645 Meadow St, Dallas, TX 75001"
+
+182731,iPhone,1,700,04/30/19 11:40,"600 Highland St, Dallas, TX 75001"
+
+182751,Macbook Pro Laptop,1,1700,04/12/19 19:29,"233 Main St, San Francisco, CA 94016"
+
+182755,Google Phone,1,600,04/29/19 12:14,"371 Spruce St, New York City, NY 10001"
+
+182758,iPhone,1,700,04/23/19 09:06,"231 11th St, San Francisco, CA 94016"
+
+182766,Google Phone,1,600,04/24/19 22:21,"321 6th St, New York City, NY 10001"
+
+182768,iPhone,1,700,04/22/19 11:46,"506 8th St, Boston, MA 02215"
+
+182773,Macbook Pro Laptop,1,1700,04/06/19 21:24,"649 Lincoln St, Atlanta, GA 30301"
+
+182776,Google Phone,1,600,04/13/19 16:46,"948 5th St, San Francisco, CA 94016"
+
+182781,Macbook Pro Laptop,1,1700,04/18/19 07:45,"220 10th St, Dallas, TX 75001"
+
+182809,Macbook Pro Laptop,1,1700,04/10/19 18:15,"858 Meadow St, Portland, OR 97035"
+
+182830,Google Phone,1,600,04/30/19 15:52,"694 Wilson St, New York City, NY 10001"
+
+182838,Macbook Pro Laptop,1,1700,04/26/19 17:25,"880 Jefferson St, San Francisco, CA 94016"
+
+182846,iPhone,1,700,04/04/19 16:12,"422 Washington St, Atlanta, GA 30301"
+
+182854,iPhone,1,700,04/17/19 13:48,"10 4th St, Los Angeles, CA 90001"
+
+182901,Google Phone,1,600,04/23/19 18:22,"728 Meadow St, Austin, TX 73301"
+
+182902,iPhone,1,700,04/09/19 11:18,"744 Sunset St, San Francisco, CA 94016"
+
+182905,Google Phone,1,600,04/22/19 20:30,"394 Spruce St, Seattle, WA 98101"
+
+182908,Google Phone,1,600,04/19/19 17:40,"452 Highland St, New York City, NY 10001"
+
+182917,iPhone,1,700,04/29/19 15:19,"143 Sunset St, San Francisco, CA 94016"
+
+182938,iPhone,1,700,04/14/19 19:58,"416 Highland St, San Francisco, CA 94016"
+
+182956,Macbook Pro Laptop,1,1700,04/29/19 13:55,"740 Meadow St, Dallas, TX 75001"
+
+182966,Vareebadd Phone,1,400,04/10/19 20:20,"499 Jackson St, Los Angeles, CA 90001"
+
+182979,Macbook Pro Laptop,1,1700,04/10/19 21:30,"542 Jefferson St, San Francisco, CA 94016"
+
+182984,Macbook Pro Laptop,1,1700,04/28/19 01:10,"83 Willow St, Boston, MA 02215"
+
+182987,iPhone,1,700,04/25/19 07:00,"678 Cherry St, Los Angeles, CA 90001"
+
+182988,iPhone,1,700,04/20/19 22:51,"921 9th St, New York City, NY 10001"
+
+182989,iPhone,1,700,04/21/19 13:52,"834 Johnson St, Boston, MA 02215"
+
+183011,Vareebadd Phone,1,400,04/05/19 18:29,"200 Johnson St, Dallas, TX 75001"
+
+183014,Google Phone,1,600,04/12/19 12:02,"403 Cherry St, Dallas, TX 75001"
+
+183016,Google Phone,1,600,04/30/19 19:50,"492 Willow St, San Francisco, CA 94016"
+
+183018,iPhone,1,700,04/12/19 20:10,"539 Washington St, New York City, NY 10001"
+
+183024,Google Phone,1,600,04/01/19 20:51,"342 1st St, Los Angeles, CA 90001"
+
+183034,iPhone,1,700,04/16/19 20:52,"127 Pine St, Boston, MA 02215"
+
+183049,Macbook Pro Laptop,1,1700,04/09/19 14:14,"32 Center St, Los Angeles, CA 90001"
+
+183072,Macbook Pro Laptop,1,1700,04/26/19 10:06,"798 Highland St, New York City, NY 10001"
+
+183076,Google Phone,1,600,04/26/19 09:47,"311 Hill St, San Francisco, CA 94016"
+
+183085,iPhone,1,700,04/15/19 12:33,"985 Highland St, Atlanta, GA 30301"
+
+183087,Google Phone,1,600,04/05/19 11:16,"411 1st St, Austin, TX 73301"
+
+183104,iPhone,1,700,04/20/19 12:56,"533 11th St, San Francisco, CA 94016"
+
+183116,Google Phone,1,600,04/24/19 00:56,"112 Pine St, Los Angeles, CA 90001"
+
+183122,Google Phone,1,600,04/12/19 06:16,"1 Adams St, Austin, TX 73301"
+
+183126,Google Phone,1,600,04/24/19 23:15,"249 13th St, Portland, OR 97035"
+
+183137,Vareebadd Phone,1,400,04/21/19 16:09,"985 Hickory St, Boston, MA 02215"
+
+183139,Google Phone,1,600,04/02/19 11:02,"836 Sunset St, Seattle, WA 98101"
+
+183140,Google Phone,1,600,04/17/19 19:05,"508 14th St, New York City, NY 10001"
+
+183146,iPhone,1,700,04/09/19 12:23,"667 Hill St, Boston, MA 02215"
+
+183153,iPhone,1,700,04/15/19 11:27,"410 Elm St, Seattle, WA 98101"
+
+183168,Macbook Pro Laptop,1,1700,04/27/19 11:28,"875 Pine St, Portland, OR 97035"
+
+183177,iPhone,1,700,04/24/19 12:43,"337 14th St, Atlanta, GA 30301"
+
+183179,Macbook Pro Laptop,1,1700,04/03/19 17:27,"519 5th St, San Francisco, CA 94016"
+
+183199,Macbook Pro Laptop,1,1700,04/10/19 10:59,"629 Madison St, New York City, NY 10001"
+
+183214,Google Phone,1,600,04/10/19 11:09,"868 Center St, San Francisco, CA 94016"
+
+183220,iPhone,1,700,04/17/19 19:59,"313 Church St, New York City, NY 10001"
+
+183230,Google Phone,1,600,04/04/19 11:09,"528 South St, San Francisco, CA 94016"
+
+183233,iPhone,1,700,04/24/19 09:37,"535 Center St, San Francisco, CA 94016"
+
+183257,Macbook Pro Laptop,1,1700,04/27/19 10:46,"910 5th St, Los Angeles, CA 90001"
+
+183264,Vareebadd Phone,1,400,04/28/19 19:10,"575 Park St, San Francisco, CA 94016"
+
+183270,iPhone,1,700,04/02/19 09:03,"80 Cedar St, New York City, NY 10001"
+
+183274,iPhone,1,700,04/05/19 06:56,"336 13th St, Dallas, TX 75001"
+
+183278,Google Phone,1,600,04/20/19 00:26,"278 6th St, New York City, NY 10001"
+
+183296,iPhone,1,700,04/03/19 20:49,"94 Madison St, Seattle, WA 98101"
+
+183303,iPhone,1,700,04/19/19 16:08,"193 West St, Atlanta, GA 30301"
+
+183309,Google Phone,1,600,04/23/19 13:03,"277 2nd St, New York City, NY 10001"
+
+183310,Google Phone,1,600,04/22/19 13:26,"89 Dogwood St, San Francisco, CA 94016"
+
+183315,Google Phone,1,600,04/29/19 23:55,"312 9th St, Atlanta, GA 30301"
+
+183320,Macbook Pro Laptop,1,1700,04/23/19 15:25,"151 Highland St, New York City, NY 10001"
+
+183325,Vareebadd Phone,1,400,04/27/19 11:41,"555 Adams St, Atlanta, GA 30301"
+
+183330,Macbook Pro Laptop,1,1700,04/18/19 02:07,"197 6th St, San Francisco, CA 94016"
+
+183342,Vareebadd Phone,1,400,04/06/19 22:29,"449 Pine St, Boston, MA 02215"
+
+183361,iPhone,1,700,04/12/19 21:36,"912 5th St, Boston, MA 02215"
+
+183363,Macbook Pro Laptop,1,1700,04/21/19 12:17,"120 Wilson St, Austin, TX 73301"
+
+183373,iPhone,1,700,04/09/19 10:46,"216 4th St, Portland, ME 04101"
+
+183376,iPhone,1,700,04/13/19 09:09,"638 Forest St, San Francisco, CA 94016"
+
+183379,Macbook Pro Laptop,1,1700,04/18/19 09:40,"553 12th St, San Francisco, CA 94016"
+
+183383,iPhone,1,700,04/16/19 14:47,"696 Jackson St, Los Angeles, CA 90001"
+
+183385,Macbook Pro Laptop,1,1700,04/29/19 11:54,"263 South St, Austin, TX 73301"
+
+183388,iPhone,1,700,04/23/19 10:51,"560 Wilson St, Austin, TX 73301"
+
+183391,Google Phone,1,600,04/16/19 11:37,"517 River St, Austin, TX 73301"
+
+183404,Macbook Pro Laptop,1,1700,04/28/19 09:34,"962 Maple St, Seattle, WA 98101"
+
+183409,iPhone,1,700,04/08/19 18:27,"198 Wilson St, Austin, TX 73301"
+
+183422,Google Phone,1,600,04/26/19 06:16,"60 Lake St, Atlanta, GA 30301"
+
+183434,Macbook Pro Laptop,1,1700,04/26/19 15:46,"419 6th St, Atlanta, GA 30301"
+
+183436,iPhone,1,700,04/03/19 18:25,"491 14th St, San Francisco, CA 94016"
+
+183437,Google Phone,1,600,04/12/19 17:06,"694 Walnut St, San Francisco, CA 94016"
+
+183450,iPhone,1,700,04/02/19 09:15,"142 10th St, San Francisco, CA 94016"
+
+183454,iPhone,1,700,04/07/19 11:33,"604 Park St, Portland, ME 04101"
+
+183455,iPhone,1,700,04/19/19 18:46,"975 Pine St, Boston, MA 02215"
+
+183457,Google Phone,1,600,04/05/19 13:52,"234 Jackson St, Seattle, WA 98101"
+
+183464,Google Phone,1,600,04/23/19 22:08,"476 Jackson St, Seattle, WA 98101"
+
+183468,Google Phone,1,600,04/04/19 11:34,"179 Lincoln St, Los Angeles, CA 90001"
+
+183473,Google Phone,1,600,04/10/19 13:25,"373 Meadow St, Boston, MA 02215"
+
+183479,Vareebadd Phone,1,400,04/17/19 16:32,"117 4th St, Seattle, WA 98101"
+
+183493,Google Phone,1,600,04/17/19 09:47,"955 Jackson St, Los Angeles, CA 90001"
+
+183497,iPhone,1,700,04/05/19 23:52,"41 1st St, Portland, OR 97035"
+
+183500,Google Phone,1,600,04/05/19 09:47,"789 Madison St, Dallas, TX 75001"
+
+183503,iPhone,1,700,04/08/19 09:35,"881 Cedar St, Seattle, WA 98101"
+
+183514,Macbook Pro Laptop,1,1700,04/09/19 18:36,"261 Main St, Boston, MA 02215"
+
+183523,iPhone,1,700,04/03/19 19:21,"484 Lakeview St, Los Angeles, CA 90001"
+
+183548,iPhone,1,700,04/26/19 23:28,"385 Cherry St, Boston, MA 02215"
+
+183566,Google Phone,1,600,04/15/19 20:50,"801 Church St, Boston, MA 02215"
+
+183567,iPhone,1,700,04/03/19 10:30,"400 Lakeview St, Atlanta, GA 30301"
+
+183571,Vareebadd Phone,1,400,04/28/19 18:12,"273 Spruce St, Boston, MA 02215"
+
+183573,Macbook Pro Laptop,1,1700,04/18/19 19:52,"91 7th St, Seattle, WA 98101"
+
+183585,Google Phone,1,600,04/19/19 10:19,"704 Park St, Los Angeles, CA 90001"
+
+183605,iPhone,1,700,04/24/19 22:47,"271 Forest St, Austin, TX 73301"
+
+183613,iPhone,1,700,04/14/19 21:16,"329 Sunset St, Los Angeles, CA 90001"
+
+183622,Google Phone,1,600,04/17/19 12:36,"624 Sunset St, San Francisco, CA 94016"
+
+183629,iPhone,1,700,04/12/19 08:01,"557 8th St, San Francisco, CA 94016"
+
+183640,iPhone,1,700,04/26/19 16:41,"423 Hickory St, San Francisco, CA 94016"
+
+183641,iPhone,1,700,04/13/19 21:55,"116 Lake St, San Francisco, CA 94016"
+
+183652,Vareebadd Phone,1,400,04/27/19 23:49,"869 West St, Austin, TX 73301"
+
+183655,Google Phone,1,600,04/16/19 09:04,"4 North St, San Francisco, CA 94016"
+
+183656,Vareebadd Phone,1,400,04/03/19 03:00,"879 West St, Dallas, TX 75001"
+
+183681,Google Phone,1,600,04/23/19 19:06,"869 12th St, Los Angeles, CA 90001"
+
+183700,iPhone,1,700,04/06/19 15:42,"694 14th St, San Francisco, CA 94016"
+
+183715,iPhone,1,700,04/28/19 21:52,"461 13th St, Austin, TX 73301"
+
+183726,iPhone,1,700,04/16/19 15:31,"863 Hickory St, Atlanta, GA 30301"
+
+183733,iPhone,1,700,04/05/19 15:01,"834 6th St, Boston, MA 02215"
+
+183737,Macbook Pro Laptop,1,1700,04/24/19 23:43,"381 Maple St, Boston, MA 02215"
+
+183755,Google Phone,1,600,04/04/19 20:36,"757 Dogwood St, San Francisco, CA 94016"
+
+183756,iPhone,1,700,04/10/19 14:02,"684 Cedar St, New York City, NY 10001"
+
+183759,Google Phone,1,600,04/28/19 16:44,"353 14th St, Los Angeles, CA 90001"
+
+183762,Vareebadd Phone,1,400,04/16/19 07:06,"582 Lakeview St, San Francisco, CA 94016"
+
+183787,Google Phone,1,600,04/03/19 20:22,"739 Ridge St, New York City, NY 10001"
+
+183791,iPhone,1,700,04/16/19 16:54,"937 Madison St, Boston, MA 02215"
+
+183796,iPhone,1,700,04/06/19 20:56,"849 Jefferson St, Dallas, TX 75001"
+
+183806,Macbook Pro Laptop,1,1700,04/23/19 15:04,"572 River St, New York City, NY 10001"
+
+183807,iPhone,1,700,04/15/19 12:30,"220 Maple St, Dallas, TX 75001"
+
+183814,Macbook Pro Laptop,1,1700,04/10/19 12:36,"901 Center St, Portland, OR 97035"
+
+183830,Macbook Pro Laptop,1,1700,04/25/19 16:04,"747 12th St, San Francisco, CA 94016"
+
+183831,Google Phone,1,600,04/06/19 23:06,"251 2nd St, Austin, TX 73301"
+
+183833,Vareebadd Phone,1,400,04/20/19 18:46,"59 Elm St, Portland, OR 97035"
+
+183837,iPhone,1,700,04/04/19 09:17,"716 5th St, San Francisco, CA 94016"
+
+183853,iPhone,1,700,04/09/19 18:28,"8 West St, Boston, MA 02215"
+
+183861,Vareebadd Phone,1,400,04/29/19 09:04,"748 Ridge St, San Francisco, CA 94016"
+
+183863,iPhone,1,700,04/06/19 18:04,"117 14th St, New York City, NY 10001"
+
+183868,Google Phone,1,600,04/19/19 18:54,"975 Dogwood St, Seattle, WA 98101"
+
+183890,Google Phone,1,600,04/11/19 21:20,"73 Elm St, Los Angeles, CA 90001"
+
+183891,Macbook Pro Laptop,1,1700,04/14/19 17:31,"705 Jackson St, San Francisco, CA 94016"
+
+183903,iPhone,1,700,04/08/19 01:03,"822 4th St, San Francisco, CA 94016"
+
+183910,iPhone,1,700,04/17/19 08:22,"845 West St, San Francisco, CA 94016"
+
+183911,iPhone,1,700,04/03/19 16:50,"159 12th St, Atlanta, GA 30301"
+
+183928,Vareebadd Phone,1,400,04/25/19 21:44,"180 1st St, San Francisco, CA 94016"
+
+183933,Google Phone,1,600,04/06/19 14:07,"223 Main St, Seattle, WA 98101"
+
+183937,iPhone,1,700,04/09/19 18:17,"138 1st St, Boston, MA 02215"
+
+183938,Macbook Pro Laptop,1,1700,04/26/19 09:09,"932 Dogwood St, Los Angeles, CA 90001"
+
+183957,Vareebadd Phone,1,400,04/06/19 15:32,"9 Cedar St, Atlanta, GA 30301"
+
+183971,iPhone,1,700,04/14/19 11:43,"743 4th St, Austin, TX 73301"
+
+183971,Vareebadd Phone,1,400,04/14/19 11:43,"743 4th St, Austin, TX 73301"
+
+183973,Macbook Pro Laptop,1,1700,04/05/19 15:59,"171 Jackson St, Los Angeles, CA 90001"
+
+183980,Google Phone,1,600,04/27/19 14:01,"298 Wilson St, San Francisco, CA 94016"
+
+183981,Macbook Pro Laptop,1,1700,04/29/19 14:18,"353 Adams St, Los Angeles, CA 90001"
+
+183985,iPhone,1,700,04/17/19 21:01,"534 Jackson St, Dallas, TX 75001"
+
+183993,iPhone,1,700,04/11/19 14:46,"547 Highland St, San Francisco, CA 94016"
+
+184000,Macbook Pro Laptop,1,1700,04/05/19 11:09,"13 Ridge St, New York City, NY 10001"
+
+184007,Google Phone,1,600,04/05/19 11:18,"950 13th St, San Francisco, CA 94016"
+
+184021,Google Phone,1,600,04/29/19 15:37,"168 Elm St, Boston, MA 02215"
+
+184022,Google Phone,1,600,04/13/19 08:06,"437 Spruce St, Los Angeles, CA 90001"
+
+184043,Macbook Pro Laptop,1,1700,04/05/19 12:15,"310 Main St, Austin, TX 73301"
+
+184054,Google Phone,1,600,04/01/19 10:31,"425 Church St, Atlanta, GA 30301"
+
+184055,iPhone,1,700,04/30/19 20:08,"743 6th St, Los Angeles, CA 90001"
+
+184058,Google Phone,1,600,04/13/19 17:19,"165 Walnut St, New York City, NY 10001"
+
+184071,Macbook Pro Laptop,1,1700,04/07/19 21:17,"710 Willow St, Dallas, TX 75001"
+
+184084,Google Phone,1,600,04/02/19 18:00,"630 Hill St, Boston, MA 02215"
+
+184088,Vareebadd Phone,1,400,04/30/19 13:10,"191 10th St, Boston, MA 02215"
+
+184097,Google Phone,1,600,04/12/19 13:00,"485 Highland St, Portland, OR 97035"
+
+184100,Macbook Pro Laptop,1,1700,04/10/19 21:56,"543 9th St, New York City, NY 10001"
+
+184103,iPhone,1,700,04/05/19 00:17,"226 1st St, Los Angeles, CA 90001"
+
+184106,iPhone,1,700,04/11/19 09:15,"255 Washington St, Seattle, WA 98101"
+
+184116,Google Phone,1,600,04/07/19 10:21,"640 Church St, New York City, NY 10001"
+
+184123,iPhone,1,700,04/06/19 10:40,"832 1st St, Seattle, WA 98101"
+
+184124,Google Phone,1,600,04/05/19 16:12,"439 4th St, Los Angeles, CA 90001"
+
+184127,iPhone,1,700,04/11/19 08:18,"612 Lakeview St, Seattle, WA 98101"
+
+184137,Macbook Pro Laptop,1,1700,04/23/19 15:43,"689 Center St, New York City, NY 10001"
+
+184139,iPhone,1,700,04/03/19 12:16,"580 Dogwood St, San Francisco, CA 94016"
+
+184141,iPhone,1,700,04/11/19 07:03,"818 Wilson St, Boston, MA 02215"
+
+184154,Google Phone,1,600,04/06/19 12:27,"821 Walnut St, Los Angeles, CA 90001"
+
+184161,iPhone,1,700,04/04/19 22:12,"649 Washington St, Portland, OR 97035"
+
+184172,Google Phone,1,600,04/26/19 14:50,"900 Wilson St, Atlanta, GA 30301"
+
+184189,Google Phone,1,600,04/10/19 18:44,"158 1st St, Atlanta, GA 30301"
+
+184196,Macbook Pro Laptop,1,1700,04/17/19 22:35,"634 Ridge St, Los Angeles, CA 90001"
+
+184197,Google Phone,1,600,04/27/19 15:22,"109 Cherry St, New York City, NY 10001"
+
+184199,Google Phone,1,600,04/15/19 01:27,"296 South St, Portland, OR 97035"
+
+184200,iPhone,1,700,04/23/19 23:13,"98 Dogwood St, Atlanta, GA 30301"
+
+184217,iPhone,1,700,04/14/19 10:55,"756 Cedar St, Austin, TX 73301"
+
+184221,iPhone,1,700,04/20/19 09:09,"830 Ridge St, Seattle, WA 98101"
+
+184259,Macbook Pro Laptop,1,1700,04/27/19 18:31,"931 Lake St, Los Angeles, CA 90001"
+
+184260,iPhone,1,700,04/10/19 10:10,"147 Lincoln St, San Francisco, CA 94016"
+
+184264,Macbook Pro Laptop,1,1700,04/24/19 22:17,"325 Meadow St, Atlanta, GA 30301"
+
+184268,Vareebadd Phone,1,400,04/23/19 18:51,"155 North St, Los Angeles, CA 90001"
+
+184271,Vareebadd Phone,1,400,04/22/19 17:27,"351 4th St, Los Angeles, CA 90001"
+
+184272,iPhone,1,700,04/21/19 19:49,"637 Cedar St, San Francisco, CA 94016"
+
+184273,iPhone,1,700,04/23/19 20:38,"423 4th St, Austin, TX 73301"
+
+184281,iPhone,1,700,04/17/19 14:23,"345 Main St, Los Angeles, CA 90001"
+
+184331,iPhone,1,700,04/14/19 09:43,"289 11th St, Atlanta, GA 30301"
+
+184339,iPhone,1,700,04/22/19 17:03,"185 Cherry St, Los Angeles, CA 90001"
+
+184341,iPhone,1,700,04/16/19 14:30,"730 2nd St, Portland, OR 97035"
+
+184349,Macbook Pro Laptop,1,1700,04/24/19 12:59,"158 Jackson St, Boston, MA 02215"
+
+184362,Google Phone,1,600,04/30/19 14:59,"105 Main St, San Francisco, CA 94016"
+
+184379,Vareebadd Phone,1,400,04/13/19 21:07,"677 Maple St, Austin, TX 73301"
+
+184382,Macbook Pro Laptop,1,1700,04/22/19 12:19,"796 Sunset St, Boston, MA 02215"
+
+184384,Google Phone,1,600,04/23/19 20:26,"417 Willow St, Atlanta, GA 30301"
+
+184386,Macbook Pro Laptop,1,1700,04/09/19 15:03,"807 Willow St, Los Angeles, CA 90001"
+
+184404,Macbook Pro Laptop,1,1700,04/07/19 20:13,"842 West St, San Francisco, CA 94016"
+
+184411,iPhone,1,700,04/14/19 13:27,"487 Cherry St, Los Angeles, CA 90001"
+
+184435,iPhone,1,700,04/10/19 08:06,"531 Park St, Portland, OR 97035"
+
+184447,iPhone,1,700,04/19/19 21:49,"695 Cherry St, New York City, NY 10001"
+
+184452,Vareebadd Phone,1,400,04/01/19 16:48,"659 Chestnut St, New York City, NY 10001"
+
+184453,iPhone,1,700,04/29/19 09:15,"669 Chestnut St, San Francisco, CA 94016"
+
+184460,iPhone,1,700,04/08/19 18:38,"315 5th St, Los Angeles, CA 90001"
+
+184471,Google Phone,1,600,04/05/19 10:39,"437 Chestnut St, San Francisco, CA 94016"
+
+184472,iPhone,1,700,04/11/19 12:16,"573 Adams St, Austin, TX 73301"
+
+184494,Google Phone,1,600,04/18/19 23:08,"502 Sunset St, San Francisco, CA 94016"
+
+184498,iPhone,1,700,04/19/19 06:51,"294 1st St, San Francisco, CA 94016"
+
+184503,iPhone,1,700,04/10/19 16:23,"415 South St, Atlanta, GA 30301"
+
+184504,Google Phone,1,600,04/11/19 14:26,"808 4th St, Los Angeles, CA 90001"
+
+184508,Google Phone,1,600,04/26/19 11:15,"723 Hickory St, Los Angeles, CA 90001"
+
+184513,iPhone,1,700,04/07/19 13:00,"368 Walnut St, San Francisco, CA 94016"
+
+184524,Google Phone,1,600,04/13/19 21:12,"346 Willow St, Boston, MA 02215"
+
+184532,iPhone,1,700,04/01/19 19:28,"676 Adams St, Seattle, WA 98101"
+
+184543,iPhone,1,700,04/06/19 19:12,"803 Chestnut St, San Francisco, CA 94016"
+
+184568,iPhone,1,700,04/07/19 09:26,"103 Washington St, Los Angeles, CA 90001"
+
+184577,iPhone,1,700,04/15/19 00:03,"803 Lincoln St, Portland, OR 97035"
+
+184602,Macbook Pro Laptop,1,1700,04/25/19 15:58,"254 Park St, Austin, TX 73301"
+
+184618,Google Phone,1,600,04/14/19 09:27,"26 Center St, Portland, OR 97035"
+
+184620,iPhone,1,700,04/20/19 19:31,"369 Madison St, Atlanta, GA 30301"
+
+184621,iPhone,1,700,04/19/19 10:49,"547 5th St, Austin, TX 73301"
+
+184626,Macbook Pro Laptop,1,1700,04/04/19 15:34,"126 Main St, Boston, MA 02215"
+
+184635,Vareebadd Phone,1,400,04/13/19 08:57,"826 Chestnut St, San Francisco, CA 94016"
+
+184638,Macbook Pro Laptop,1,1700,04/07/19 17:14,"374 Hickory St, Atlanta, GA 30301"
+
+184645,Macbook Pro Laptop,1,1700,04/04/19 18:51,"437 Jackson St, Atlanta, GA 30301"
+
+184651,Macbook Pro Laptop,1,1700,04/25/19 09:21,"429 Ridge St, Atlanta, GA 30301"
+
+184671,Macbook Pro Laptop,1,1700,04/12/19 11:52,"717 6th St, San Francisco, CA 94016"
+
+184674,Google Phone,1,600,04/28/19 14:09,"228 Dogwood St, New York City, NY 10001"
+
+184710,iPhone,1,700,04/21/19 13:57,"921 12th St, Dallas, TX 75001"
+
+184716,Macbook Pro Laptop,1,1700,04/20/19 10:33,"192 2nd St, Atlanta, GA 30301"
+
+184726,Google Phone,1,600,04/23/19 11:26,"142 Lakeview St, Seattle, WA 98101"
+
+184729,Vareebadd Phone,1,400,04/11/19 19:36,"933 Elm St, Los Angeles, CA 90001"
+
+184733,Google Phone,1,600,04/11/19 10:08,"421 Forest St, Los Angeles, CA 90001"
+
+184734,Google Phone,1,600,04/08/19 09:16,"670 Sunset St, Atlanta, GA 30301"
+
+184735,Vareebadd Phone,1,400,04/13/19 11:45,"747 Pine St, Los Angeles, CA 90001"
+
+184740,iPhone,1,700,04/19/19 11:08,"807 12th St, Atlanta, GA 30301"
+
+184750,Macbook Pro Laptop,1,1700,04/07/19 18:39,"650 Johnson St, Austin, TX 73301"
+
+184758,iPhone,1,700,04/13/19 20:02,"306 7th St, New York City, NY 10001"
+
+184759,Google Phone,1,600,04/17/19 21:05,"803 Church St, Boston, MA 02215"
+
+184765,Google Phone,1,600,04/15/19 21:32,"995 Lake St, San Francisco, CA 94016"
+
+184766,iPhone,1,700,04/16/19 14:36,"349 12th St, Seattle, WA 98101"
+
+184784,Macbook Pro Laptop,1,1700,04/14/19 10:43,"150 Cherry St, Atlanta, GA 30301"
+
+184785,Macbook Pro Laptop,1,1700,04/30/19 19:58,"552 Hickory St, San Francisco, CA 94016"
+
+184790,Macbook Pro Laptop,1,1700,04/01/19 20:34,"68 Jackson St, San Francisco, CA 94016"
+
+184794,Macbook Pro Laptop,1,1700,04/13/19 18:04,"321 Jefferson St, New York City, NY 10001"
+
+184795,iPhone,1,700,04/18/19 13:59,"41 Jackson St, Austin, TX 73301"
+
+184799,Macbook Pro Laptop,1,1700,04/17/19 17:24,"527 Willow St, San Francisco, CA 94016"
+
+184803,iPhone,1,700,04/11/19 23:32,"380 14th St, San Francisco, CA 94016"
+
+184819,Macbook Pro Laptop,1,1700,04/04/19 10:21,"587 Lakeview St, San Francisco, CA 94016"
+
+184828,Vareebadd Phone,1,400,04/22/19 17:15,"199 11th St, Atlanta, GA 30301"
+
+184843,iPhone,1,700,04/29/19 18:30,"415 2nd St, Los Angeles, CA 90001"
+
+184853,Vareebadd Phone,1,400,04/17/19 10:07,"509 6th St, Boston, MA 02215"
+
+184858,iPhone,1,700,04/09/19 22:38,"747 2nd St, Atlanta, GA 30301"
+
+184859,iPhone,1,700,04/26/19 10:33,"92 Jackson St, Boston, MA 02215"
+
+184874,iPhone,1,700,04/22/19 19:23,"600 Main St, Austin, TX 73301"
+
+184882,iPhone,1,700,04/01/19 17:32,"183 Lakeview St, New York City, NY 10001"
+
+184886,Google Phone,1,600,04/17/19 20:32,"875 Hickory St, Los Angeles, CA 90001"
+
+184890,iPhone,1,700,04/13/19 12:13,"543 5th St, San Francisco, CA 94016"
+
+184900,Macbook Pro Laptop,1,1700,04/23/19 18:04,"137 Main St, Austin, TX 73301"
+
+184915,Vareebadd Phone,1,400,04/19/19 03:34,"473 Lincoln St, Boston, MA 02215"
+
+184919,Google Phone,1,600,04/07/19 16:38,"343 10th St, Boston, MA 02215"
+
+184923,iPhone,1,700,04/29/19 19:35,"426 5th St, Atlanta, GA 30301"
+
+184927,Google Phone,1,600,04/17/19 19:35,"673 Highland St, Seattle, WA 98101"
+
+184939,Google Phone,1,600,04/24/19 00:24,"476 2nd St, New York City, NY 10001"
+
+184945,Google Phone,1,600,04/24/19 05:41,"57 Highland St, New York City, NY 10001"
+
+184949,Google Phone,1,600,04/13/19 06:28,"312 10th St, San Francisco, CA 94016"
+
+184953,Google Phone,1,600,04/26/19 12:48,"702 River St, Austin, TX 73301"
+
+184965,Macbook Pro Laptop,1,1700,04/30/19 01:30,"757 6th St, Austin, TX 73301"
+
+184966,Google Phone,1,600,04/11/19 16:43,"233 10th St, Portland, OR 97035"
+
+184979,Vareebadd Phone,1,400,04/18/19 15:59,"547 River St, Boston, MA 02215"
+
+184981,iPhone,1,700,04/29/19 11:56,"662 Washington St, New York City, NY 10001"
+
+184982,iPhone,1,700,04/27/19 10:01,"517 1st St, Boston, MA 02215"
+
+184984,Google Phone,1,600,04/05/19 03:44,"115 Highland St, San Francisco, CA 94016"
+
+184990,iPhone,1,700,04/05/19 21:01,"136 7th St, Los Angeles, CA 90001"
+
+185002,Vareebadd Phone,1,400,04/04/19 10:17,"78 11th St, New York City, NY 10001"
+
+185020,Macbook Pro Laptop,1,1700,04/09/19 18:03,"208 Jefferson St, San Francisco, CA 94016"
+
+185027,Macbook Pro Laptop,1,1700,04/25/19 19:20,"141 Washington St, Los Angeles, CA 90001"
+
+185031,iPhone,1,700,04/01/19 17:14,"352 8th St, Los Angeles, CA 90001"
+
+185048,Macbook Pro Laptop,1,1700,04/22/19 12:21,"53 9th St, San Francisco, CA 94016"
+
+185052,Google Phone,1,600,04/24/19 21:51,"33 Lincoln St, Seattle, WA 98101"
+
+185060,iPhone,1,700,04/16/19 19:16,"180 8th St, Portland, OR 97035"
+
+185063,iPhone,1,700,04/02/19 15:17,"529 Jefferson St, San Francisco, CA 94016"
+
+185073,Macbook Pro Laptop,1,1700,04/14/19 12:01,"736 1st St, Portland, OR 97035"
+
+185076,Google Phone,1,600,04/13/19 11:00,"922 10th St, San Francisco, CA 94016"
+
+185081,Google Phone,1,600,04/11/19 08:34,"132 Center St, San Francisco, CA 94016"
+
+185090,Macbook Pro Laptop,1,1700,04/15/19 09:21,"255 Sunset St, Seattle, WA 98101"
+
+185100,iPhone,1,700,04/30/19 13:16,"533 Washington St, San Francisco, CA 94016"
+
+185111,Vareebadd Phone,1,400,04/25/19 20:51,"179 Elm St, San Francisco, CA 94016"
+
+185119,Macbook Pro Laptop,1,1700,04/21/19 12:53,"336 Johnson St, Boston, MA 02215"
+
+185120,Macbook Pro Laptop,1,1700,04/28/19 12:29,"731 Spruce St, San Francisco, CA 94016"
+
+185130,iPhone,1,700,04/15/19 10:51,"798 Church St, San Francisco, CA 94016"
+
+185152,Vareebadd Phone,1,400,04/14/19 09:12,"744 14th St, Seattle, WA 98101"
+
+185160,iPhone,1,700,04/17/19 22:11,"854 Hill St, New York City, NY 10001"
+
+185161,Macbook Pro Laptop,1,1700,04/16/19 19:50,"870 Lincoln St, Boston, MA 02215"
+
+185168,Vareebadd Phone,1,400,04/26/19 08:12,"151 Jackson St, San Francisco, CA 94016"
+
+185173,iPhone,1,700,04/17/19 20:32,"573 Cherry St, Boston, MA 02215"
+
+185174,iPhone,1,700,04/17/19 10:44,"189 Lincoln St, Los Angeles, CA 90001"
+
+185184,Macbook Pro Laptop,1,1700,04/03/19 18:33,"685 Sunset St, New York City, NY 10001"
+
+185201,Vareebadd Phone,1,400,04/10/19 11:04,"106 Sunset St, Dallas, TX 75001"
+
+185227,Google Phone,1,600,04/14/19 17:32,"16 Dogwood St, Atlanta, GA 30301"
+
+185243,iPhone,1,700,04/05/19 21:20,"728 South St, Austin, TX 73301"
+
+185244,iPhone,1,700,04/10/19 02:15,"614 Spruce St, San Francisco, CA 94016"
+
+185251,Macbook Pro Laptop,1,1700,04/25/19 14:31,"22 Willow St, San Francisco, CA 94016"
+
+185255,iPhone,1,700,04/17/19 13:46,"636 Adams St, Los Angeles, CA 90001"
+
+185260,Macbook Pro Laptop,1,1700,04/18/19 09:56,"701 6th St, San Francisco, CA 94016"
+
+185275,Google Phone,1,600,04/15/19 17:56,"912 Adams St, Los Angeles, CA 90001"
+
+185283,iPhone,1,700,04/23/19 14:26,"391 1st St, San Francisco, CA 94016"
+
+185306,iPhone,1,700,04/14/19 13:12,"366 Lake St, Los Angeles, CA 90001"
+
+185308,Vareebadd Phone,1,400,04/10/19 13:43,"286 West St, San Francisco, CA 94016"
+
+185311,Google Phone,1,600,04/21/19 18:57,"308 Forest St, New York City, NY 10001"
+
+185312,iPhone,1,700,04/05/19 20:11,"35 South St, Los Angeles, CA 90001"
+
+185320,Google Phone,1,600,04/02/19 17:42,"88 Highland St, Portland, OR 97035"
+
+185323,Google Phone,1,600,04/30/19 13:50,"866 Dogwood St, Atlanta, GA 30301"
+
+185338,iPhone,1,700,04/19/19 06:52,"988 Dogwood St, Los Angeles, CA 90001"
+
+185343,Google Phone,1,600,04/02/19 19:39,"495 Hickory St, San Francisco, CA 94016"
+
+185352,Vareebadd Phone,1,400,04/03/19 09:23,"25 7th St, Seattle, WA 98101"
+
+185364,Vareebadd Phone,1,400,04/16/19 18:04,"356 Walnut St, Boston, MA 02215"
+
+185368,iPhone,1,700,04/08/19 16:48,"169 Hill St, Boston, MA 02215"
+
+185371,Macbook Pro Laptop,1,1700,04/21/19 11:37,"417 4th St, New York City, NY 10001"
+
+185380,iPhone,1,700,04/17/19 14:21,"842 Madison St, San Francisco, CA 94016"
+
+185405,iPhone,1,700,04/20/19 18:33,"7 13th St, Seattle, WA 98101"
+
+185410,Macbook Pro Laptop,1,1700,04/14/19 21:44,"217 Washington St, Seattle, WA 98101"
+
+185425,iPhone,1,700,04/11/19 19:58,"302 Meadow St, Seattle, WA 98101"
+
+185437,Vareebadd Phone,1,400,04/24/19 11:32,"163 North St, San Francisco, CA 94016"
+
+185452,Google Phone,1,600,04/04/19 00:49,"490 5th St, Atlanta, GA 30301"
+
+185454,iPhone,1,700,04/04/19 13:32,"782 Wilson St, San Francisco, CA 94016"
+
+185459,Google Phone,1,600,04/02/19 22:35,"712 Dogwood St, Los Angeles, CA 90001"
+
+185468,Vareebadd Phone,1,400,04/01/19 15:22,"840 4th St, Boston, MA 02215"
+
+185483,iPhone,1,700,04/16/19 15:27,"423 Forest St, New York City, NY 10001"
+
+185486,Google Phone,1,600,04/10/19 21:08,"986 13th St, San Francisco, CA 94016"
+
+185497,Macbook Pro Laptop,1,1700,04/28/19 01:52,"621 2nd St, San Francisco, CA 94016"
+
+185510,iPhone,1,700,04/02/19 17:46,"779 10th St, Boston, MA 02215"
+
+185518,Google Phone,1,600,04/23/19 22:07,"427 Ridge St, Boston, MA 02215"
+
+185524,iPhone,1,700,04/26/19 12:02,"971 South St, Seattle, WA 98101"
+
+185526,iPhone,1,700,04/25/19 18:32,"478 River St, Dallas, TX 75001"
+
+185534,iPhone,1,700,04/18/19 00:30,"122 West St, San Francisco, CA 94016"
+
+185561,iPhone,1,700,04/29/19 04:11,"220 Spruce St, San Francisco, CA 94016"
+
+185576,Macbook Pro Laptop,1,1700,04/15/19 22:11,"794 Jackson St, Los Angeles, CA 90001"
+
+185580,iPhone,1,700,04/16/19 04:49,"355 Cherry St, Los Angeles, CA 90001"
+
+185584,iPhone,1,700,04/16/19 23:28,"204 12th St, Atlanta, GA 30301"
+
+185593,Google Phone,1,600,04/04/19 09:09,"298 Willow St, Los Angeles, CA 90001"
+
+185594,Google Phone,1,600,04/02/19 09:07,"158 7th St, San Francisco, CA 94016"
+
+185604,Google Phone,1,600,04/05/19 10:31,"98 6th St, San Francisco, CA 94016"
+
+185616,Vareebadd Phone,1,400,04/03/19 14:36,"682 4th St, Seattle, WA 98101"
+
+185620,Google Phone,1,600,04/15/19 13:50,"374 7th St, Atlanta, GA 30301"
+
+185632,Macbook Pro Laptop,1,1700,04/07/19 19:06,"747 8th St, Los Angeles, CA 90001"
+
+185635,Google Phone,1,600,04/12/19 21:32,"901 Hill St, Los Angeles, CA 90001"
+
+185649,Vareebadd Phone,1,400,04/03/19 14:04,"945 Main St, San Francisco, CA 94016"
+
+185651,Macbook Pro Laptop,1,1700,04/18/19 01:16,"172 Spruce St, Los Angeles, CA 90001"
+
+185665,Google Phone,1,600,04/28/19 21:27,"250 Johnson St, Portland, OR 97035"
+
+185667,iPhone,1,700,04/22/19 19:46,"83 Cedar St, Boston, MA 02215"
+
+185681,Google Phone,1,600,04/24/19 12:02,"105 2nd St, Seattle, WA 98101"
+
+185696,Macbook Pro Laptop,1,1700,04/16/19 13:16,"957 Elm St, Los Angeles, CA 90001"
+
+185701,iPhone,1,700,04/26/19 09:37,"29 Elm St, New York City, NY 10001"
+
+185712,Macbook Pro Laptop,1,1700,04/27/19 19:57,"230 5th St, Portland, ME 04101"
+
+185732,iPhone,1,700,04/06/19 16:36,"276 9th St, Portland, OR 97035"
+
+185751,iPhone,1,700,04/25/19 12:18,"593 4th St, New York City, NY 10001"
+
+185771,Macbook Pro Laptop,1,1700,04/07/19 13:47,"387 10th St, Atlanta, GA 30301"
+
+185813,Macbook Pro Laptop,1,1700,04/23/19 21:15,"643 10th St, San Francisco, CA 94016"
+
+185827,iPhone,1,700,04/05/19 18:10,"158 Dogwood St, San Francisco, CA 94016"
+
+185829,Vareebadd Phone,1,400,04/10/19 17:00,"243 Johnson St, Seattle, WA 98101"
+
+185835,Macbook Pro Laptop,1,1700,04/05/19 08:11,"125 South St, San Francisco, CA 94016"
+
+185837,Macbook Pro Laptop,1,1700,04/07/19 19:59,"822 Madison St, San Francisco, CA 94016"
+
+185862,iPhone,1,700,04/06/19 19:08,"998 Lake St, San Francisco, CA 94016"
+
+185870,Vareebadd Phone,1,400,04/04/19 13:47,"624 West St, New York City, NY 10001"
+
+185872,Macbook Pro Laptop,1,1700,04/27/19 20:53,"953 Lake St, Los Angeles, CA 90001"
+
+185890,Google Phone,1,600,04/22/19 09:14,"72 1st St, Los Angeles, CA 90001"
+
+185916,Vareebadd Phone,1,400,04/14/19 06:49,"281 Cedar St, Los Angeles, CA 90001"
+
+185929,Google Phone,1,600,04/19/19 12:09,"458 9th St, New York City, NY 10001"
+
+185934,Google Phone,1,600,04/22/19 09:04,"759 12th St, Portland, OR 97035"
+
+185966,Vareebadd Phone,1,400,04/08/19 11:31,"582 Adams St, San Francisco, CA 94016"
+
+185968,Macbook Pro Laptop,1,1700,04/22/19 17:12,"87 1st St, Los Angeles, CA 90001"
+
+185973,iPhone,1,700,04/12/19 17:24,"967 13th St, Los Angeles, CA 90001"
+
+186007,iPhone,1,700,04/07/19 14:23,"990 Pine St, Los Angeles, CA 90001"
+
+186017,iPhone,1,700,04/04/19 00:32,"915 1st St, Los Angeles, CA 90001"
+
+186019,Vareebadd Phone,1,400,04/05/19 20:52,"214 Sunset St, San Francisco, CA 94016"
+
+186026,Macbook Pro Laptop,1,1700,04/29/19 21:44,"213 Washington St, Boston, MA 02215"
+
+186034,Vareebadd Phone,1,400,04/09/19 21:00,"516 Main St, San Francisco, CA 94016"
+
+186044,Vareebadd Phone,1,400,04/25/19 13:06,"392 Jackson St, Boston, MA 02215"
+
+186057,iPhone,1,700,04/06/19 20:47,"694 West St, New York City, NY 10001"
+
+186071,Google Phone,1,600,04/18/19 17:35,"529 Cherry St, Boston, MA 02215"
+
+186085,iPhone,1,700,04/07/19 09:39,"68 Walnut St, Seattle, WA 98101"
+
+186087,Macbook Pro Laptop,1,1700,04/18/19 12:11,"271 Main St, Boston, MA 02215"
+
+186096,Google Phone,1,600,04/10/19 21:02,"918 Adams St, New York City, NY 10001"
+
+186098,iPhone,1,700,04/29/19 18:09,"890 8th St, Los Angeles, CA 90001"
+
+186102,Google Phone,1,600,04/14/19 14:50,"876 Spruce St, Dallas, TX 75001"
+
+186105,iPhone,1,700,04/08/19 14:30,"736 12th St, Boston, MA 02215"
+
+186117,Google Phone,1,600,04/03/19 11:54,"494 Cedar St, Atlanta, GA 30301"
+
+186130,Vareebadd Phone,1,400,04/20/19 17:22,"125 12th St, San Francisco, CA 94016"
+
+186137,Google Phone,1,600,04/13/19 09:40,"685 Pine St, San Francisco, CA 94016"
+
+186139,iPhone,1,700,04/06/19 17:57,"842 Meadow St, Los Angeles, CA 90001"
+
+186140,Vareebadd Phone,1,400,04/10/19 21:36,"167 Meadow St, New York City, NY 10001"
+
+186152,iPhone,1,700,04/26/19 23:56,"360 14th St, San Francisco, CA 94016"
+
+186158,iPhone,1,700,04/08/19 08:13,"344 Elm St, Boston, MA 02215"
+
+186164,Vareebadd Phone,1,400,04/12/19 11:28,"21 Main St, Atlanta, GA 30301"
+
+186177,Google Phone,1,600,04/30/19 13:53,"885 Johnson St, Dallas, TX 75001"
+
+186179,Google Phone,1,600,04/03/19 20:35,"845 Dogwood St, Boston, MA 02215"
+
+186218,Google Phone,1,600,04/22/19 13:24,"224 Cherry St, Boston, MA 02215"
+
+186226,Google Phone,1,600,04/30/19 07:43,"799 Johnson St, Los Angeles, CA 90001"
+
+186247,Google Phone,1,600,04/30/19 09:43,"661 Willow St, Los Angeles, CA 90001"
+
+186252,Macbook Pro Laptop,1,1700,04/12/19 08:41,"408 Johnson St, Dallas, TX 75001"
+
+186263,Vareebadd Phone,1,400,04/29/19 17:35,"639 Willow St, Austin, TX 73301"
+
+186271,Vareebadd Phone,1,400,04/07/19 20:29,"222 Church St, New York City, NY 10001"
+
+186284,iPhone,1,700,04/06/19 01:13,"30 10th St, Dallas, TX 75001"
+
+186285,iPhone,1,700,04/29/19 14:58,"500 Chestnut St, San Francisco, CA 94016"
+
+186288,iPhone,1,700,04/07/19 09:41,"204 Spruce St, Austin, TX 73301"
+
+186296,Macbook Pro Laptop,1,1700,04/04/19 15:16,"491 4th St, San Francisco, CA 94016"
+
+186306,Macbook Pro Laptop,1,1700,04/14/19 19:52,"447 12th St, Atlanta, GA 30301"
+
+186323,Google Phone,1,600,04/20/19 10:42,"185 10th St, New York City, NY 10001"
+
+186335,Macbook Pro Laptop,1,1700,04/18/19 11:57,"211 Hill St, San Francisco, CA 94016"
+
+186344,Google Phone,1,600,04/04/19 10:14,"809 Hill St, Seattle, WA 98101"
+
+186367,Google Phone,1,600,04/18/19 23:39,"318 Spruce St, Dallas, TX 75001"
+
+186369,Google Phone,1,600,04/05/19 10:37,"930 Church St, Atlanta, GA 30301"
+
+186370,Google Phone,1,600,04/14/19 09:27,"927 Madison St, Portland, OR 97035"
+
+186382,Google Phone,1,600,04/13/19 18:30,"651 West St, New York City, NY 10001"
+
+186384,iPhone,1,700,04/02/19 00:00,"445 Madison St, San Francisco, CA 94016"
+
+186387,Macbook Pro Laptop,1,1700,04/05/19 15:10,"792 Hill St, Portland, ME 04101"
+
+186398,iPhone,1,700,04/25/19 13:41,"156 Dogwood St, San Francisco, CA 94016"
+
+186416,Google Phone,1,600,04/02/19 18:09,"23 Wilson St, New York City, NY 10001"
+
+186419,iPhone,1,700,04/17/19 17:15,"944 Sunset St, Dallas, TX 75001"
+
+186435,iPhone,1,700,04/04/19 19:21,"387 Highland St, Boston, MA 02215"
+
+186436,Google Phone,1,600,04/13/19 14:00,"366 Cherry St, Los Angeles, CA 90001"
+
+186444,iPhone,1,700,04/08/19 06:14,"535 South St, Dallas, TX 75001"
+
+186455,iPhone,1,700,04/08/19 10:27,"131 11th St, Los Angeles, CA 90001"
+
+186460,iPhone,1,700,04/22/19 08:47,"951 Cedar St, Atlanta, GA 30301"
+
+186468,iPhone,1,700,04/08/19 13:57,"887 Willow St, Los Angeles, CA 90001"
+
+186477,Google Phone,1,600,04/14/19 11:33,"312 10th St, New York City, NY 10001"
+
+186484,Macbook Pro Laptop,1,1700,04/24/19 16:42,"184 10th St, San Francisco, CA 94016"
+
+186489,iPhone,1,700,04/12/19 12:30,"281 Cherry St, San Francisco, CA 94016"
+
+186492,Macbook Pro Laptop,1,1700,04/07/19 23:34,"606 7th St, New York City, NY 10001"
+
+186501,Macbook Pro Laptop,1,1700,04/09/19 06:03,"475 Lake St, Atlanta, GA 30301"
+
+186510,Google Phone,1,600,04/25/19 23:15,"785 Center St, Seattle, WA 98101"
+
+186516,Google Phone,1,600,04/23/19 04:36,"687 Willow St, Seattle, WA 98101"
+
+186531,Macbook Pro Laptop,1,1700,04/09/19 07:38,"659 11th St, New York City, NY 10001"
+
+186532,Google Phone,1,600,04/27/19 10:22,"860 Elm St, San Francisco, CA 94016"
+
+186533,Google Phone,1,600,04/18/19 00:14,"733 Main St, Austin, TX 73301"
+
+186534,Macbook Pro Laptop,1,1700,04/05/19 10:36,"689 4th St, San Francisco, CA 94016"
+
+186552,Vareebadd Phone,1,400,04/30/19 14:37,"164 Elm St, San Francisco, CA 94016"
+
+186557,Macbook Pro Laptop,1,1700,04/18/19 20:35,"755 Willow St, Portland, OR 97035"
+
+186558,iPhone,1,700,04/29/19 21:32,"167 Center St, Dallas, TX 75001"
+
+186561,Google Phone,1,600,04/03/19 06:48,"671 Dogwood St, San Francisco, CA 94016"
+
+186580,Vareebadd Phone,1,400,04/14/19 19:04,"192 Hill St, Boston, MA 02215"
+
+186581,iPhone,1,700,04/22/19 18:28,"463 Jackson St, Los Angeles, CA 90001"
+
+186583,Google Phone,1,600,04/10/19 17:21,"777 North St, New York City, NY 10001"
+
+186587,Macbook Pro Laptop,1,1700,04/21/19 17:52,"483 Church St, Los Angeles, CA 90001"
+
+186589,Macbook Pro Laptop,1,1700,04/24/19 19:05,"699 4th St, San Francisco, CA 94016"
+
+186592,iPhone,1,700,04/14/19 12:15,"586 7th St, Seattle, WA 98101"
+
+186593,Google Phone,1,600,04/11/19 08:44,"970 River St, San Francisco, CA 94016"
+
+186594,iPhone,1,700,04/17/19 10:29,"200 Maple St, Boston, MA 02215"
+
+186600,Google Phone,1,600,04/06/19 19:45,"814 14th St, San Francisco, CA 94016"
+
+186618,Macbook Pro Laptop,1,1700,04/25/19 14:05,"851 Pine St, Dallas, TX 75001"
+
+186622,Macbook Pro Laptop,1,1700,04/30/19 15:42,"666 Park St, Los Angeles, CA 90001"
+
+186625,Google Phone,1,600,04/28/19 13:00,"930 Jefferson St, San Francisco, CA 94016"
+
+186627,Vareebadd Phone,1,400,04/20/19 11:45,"188 Meadow St, New York City, NY 10001"
+
+186629,Vareebadd Phone,1,400,04/28/19 20:43,"834 5th St, Dallas, TX 75001"
+
+186633,Vareebadd Phone,1,400,04/03/19 13:45,"681 Hill St, Boston, MA 02215"
+
+186640,iPhone,1,700,04/05/19 14:01,"886 Hickory St, San Francisco, CA 94016"
+
+186646,Macbook Pro Laptop,1,1700,04/24/19 21:31,"979 10th St, San Francisco, CA 94016"
+
+186660,Vareebadd Phone,1,400,04/18/19 19:52,"222 7th St, Portland, OR 97035"
+
+186668,Google Phone,1,600,04/03/19 11:23,"72 Jackson St, San Francisco, CA 94016"
+
+186669,Google Phone,1,600,04/09/19 23:09,"651 Meadow St, Portland, OR 97035"
+
+186671,Vareebadd Phone,1,400,04/06/19 11:05,"324 Hickory St, Atlanta, GA 30301"
+
+186680,Vareebadd Phone,1,400,04/08/19 12:56,"195 Willow St, Atlanta, GA 30301"
+
+186685,iPhone,1,700,04/13/19 19:03,"894 Cedar St, Austin, TX 73301"
+
+186688,Macbook Pro Laptop,1,1700,04/27/19 14:52,"944 Main St, New York City, NY 10001"
+
+186694,Vareebadd Phone,1,400,04/18/19 18:22,"255 Lakeview St, San Francisco, CA 94016"
+
+186698,Macbook Pro Laptop,1,1700,04/17/19 14:09,"823 Lincoln St, Los Angeles, CA 90001"
+
+186713,iPhone,1,700,04/11/19 13:08,"297 Hickory St, Portland, OR 97035"
+
+186719,iPhone,1,700,04/28/19 19:20,"168 Forest St, Los Angeles, CA 90001"
+
+186722,Google Phone,1,600,04/11/19 23:58,"731 Dogwood St, San Francisco, CA 94016"
+
+186724,Vareebadd Phone,1,400,04/13/19 12:31,"27 Lincoln St, San Francisco, CA 94016"
+
+186753,Google Phone,1,600,04/18/19 09:38,"529 8th St, Portland, OR 97035"
+
+186755,Google Phone,1,600,04/03/19 07:23,"477 Walnut St, Austin, TX 73301"
+
+186769,Macbook Pro Laptop,1,1700,04/24/19 08:33,"888 Highland St, Seattle, WA 98101"
+
+186781,iPhone,1,700,04/13/19 12:23,"778 Cedar St, Los Angeles, CA 90001"
+
+186787,iPhone,1,700,04/12/19 20:05,"888 Meadow St, San Francisco, CA 94016"
+
+186805,Macbook Pro Laptop,1,1700,04/03/19 11:51,"784 Wilson St, New York City, NY 10001"
+
+186814,Google Phone,1,600,04/02/19 01:28,"456 South St, Boston, MA 02215"
+
+186816,iPhone,1,700,04/18/19 18:39,"671 Hickory St, San Francisco, CA 94016"
+
+186828,Google Phone,1,600,04/21/19 12:46,"282 Hickory St, Seattle, WA 98101"
+
+186831,iPhone,1,700,04/14/19 20:42,"599 12th St, Portland, OR 97035"
+
+186836,Google Phone,1,600,04/10/19 12:52,"424 10th St, Atlanta, GA 30301"
+
+186837,iPhone,1,700,04/18/19 09:36,"453 Chestnut St, Austin, TX 73301"
+
+186845,iPhone,1,700,04/13/19 11:23,"97 Hill St, Los Angeles, CA 90001"
+
+186876,Google Phone,1,600,04/16/19 16:52,"106 6th St, Seattle, WA 98101"
+
+186879,Google Phone,1,600,04/09/19 18:40,"959 Jackson St, Seattle, WA 98101"
+
+186884,iPhone,1,700,04/24/19 07:24,"874 Hill St, San Francisco, CA 94016"
+
+186904,Google Phone,1,600,04/07/19 10:55,"143 5th St, San Francisco, CA 94016"
+
+186916,Macbook Pro Laptop,1,1700,04/03/19 08:32,"344 Washington St, New York City, NY 10001"
+
+186922,Google Phone,1,600,04/25/19 23:49,"124 Chestnut St, Austin, TX 73301"
+
+186929,iPhone,1,700,04/30/19 10:05,"159 Cedar St, San Francisco, CA 94016"
+
+186935,Macbook Pro Laptop,1,1700,04/05/19 03:05,"437 Cherry St, New York City, NY 10001"
+
+186939,Macbook Pro Laptop,1,1700,04/28/19 18:10,"991 Park St, New York City, NY 10001"
+
+186943,Google Phone,1,600,04/02/19 13:14,"377 Main St, Boston, MA 02215"
+
+186947,Google Phone,1,600,04/05/19 05:22,"912 Johnson St, San Francisco, CA 94016"
+
+186955,Macbook Pro Laptop,1,1700,04/01/19 20:58,"621 Jefferson St, Portland, OR 97035"
+
+186964,Macbook Pro Laptop,1,1700,04/28/19 20:34,"642 12th St, Los Angeles, CA 90001"
+
+186974,iPhone,1,700,04/01/19 16:23,"860 Park St, Portland, OR 97035"
+
+186998,Vareebadd Phone,1,400,04/09/19 10:13,"46 Park St, Portland, OR 97035"
+
+187018,iPhone,1,700,04/11/19 17:03,"301 Walnut St, San Francisco, CA 94016"
+
+187030,Google Phone,1,600,04/17/19 15:11,"928 7th St, Boston, MA 02215"
+
+187037,Google Phone,1,600,04/05/19 15:16,"765 Spruce St, San Francisco, CA 94016"
+
+187040,Google Phone,1,600,04/23/19 16:37,"359 Johnson St, Seattle, WA 98101"
+
+187043,iPhone,1,700,04/25/19 16:47,"78 Ridge St, San Francisco, CA 94016"
+
+187047,iPhone,1,700,04/12/19 22:24,"624 14th St, Dallas, TX 75001"
+
+187052,Vareebadd Phone,1,400,04/07/19 21:25,"419 Hickory St, Seattle, WA 98101"
+
+187057,Vareebadd Phone,1,400,04/15/19 21:42,"164 2nd St, Dallas, TX 75001"
+
+187081,Google Phone,1,600,04/08/19 15:31,"975 Forest St, Portland, OR 97035"
+
+187084,Google Phone,1,600,04/13/19 11:05,"507 Johnson St, San Francisco, CA 94016"
+
+187108,iPhone,1,700,04/28/19 01:43,"298 Wilson St, Atlanta, GA 30301"
+
+187136,Google Phone,1,600,04/27/19 00:29,"171 Sunset St, San Francisco, CA 94016"
+
+187144,Google Phone,1,600,04/12/19 12:40,"154 12th St, Los Angeles, CA 90001"
+
+187145,iPhone,1,700,04/24/19 21:50,"166 West St, Atlanta, GA 30301"
+
+187146,Google Phone,1,600,04/07/19 13:12,"122 13th St, Portland, OR 97035"
+
+187161,Vareebadd Phone,1,400,04/23/19 19:33,"842 Highland St, Los Angeles, CA 90001"
+
+187175,Google Phone,1,600,04/18/19 13:37,"111 Elm St, Los Angeles, CA 90001"
+
+187177,Macbook Pro Laptop,1,1700,04/25/19 10:23,"979 Park St, Boston, MA 02215"
+
+187178,Vareebadd Phone,1,400,04/16/19 05:50,"794 River St, San Francisco, CA 94016"
+
+187179,iPhone,1,700,04/22/19 19:31,"476 Maple St, Los Angeles, CA 90001"
+
+187196,Google Phone,1,600,04/29/19 10:29,"249 Pine St, Seattle, WA 98101"
+
+187208,Google Phone,1,600,04/19/19 18:44,"505 Center St, Dallas, TX 75001"
+
+187215,iPhone,1,700,04/01/19 22:34,"695 8th St, Boston, MA 02215"
+
+187217,Vareebadd Phone,1,400,04/03/19 07:39,"374 Forest St, San Francisco, CA 94016"
+
+187229,Macbook Pro Laptop,1,1700,04/29/19 11:24,"247 Wilson St, Austin, TX 73301"
+
+187234,Macbook Pro Laptop,1,1700,04/09/19 07:57,"266 14th St, San Francisco, CA 94016"
+
+187243,iPhone,1,700,04/15/19 17:40,"292 13th St, Boston, MA 02215"
+
+187246,Google Phone,1,600,04/14/19 21:16,"713 9th St, Dallas, TX 75001"
+
+187261,iPhone,1,700,04/21/19 14:22,"453 Park St, San Francisco, CA 94016"
+
+187274,Google Phone,1,600,04/17/19 19:15,"214 Jefferson St, Seattle, WA 98101"
+
+187300,Google Phone,1,600,04/21/19 16:11,"764 Highland St, Seattle, WA 98101"
+
+187312,Google Phone,1,600,04/05/19 20:33,"15 Main St, Atlanta, GA 30301"
+
+187347,Macbook Pro Laptop,1,1700,04/27/19 13:43,"289 Hickory St, San Francisco, CA 94016"
+
+187353,Google Phone,1,600,04/17/19 16:02,"559 South St, San Francisco, CA 94016"
+
+187354,iPhone,1,700,04/04/19 08:11,"966 Meadow St, Dallas, TX 75001"
+
+187357,iPhone,1,700,04/26/19 11:58,"944 North St, San Francisco, CA 94016"
+
+187360,Macbook Pro Laptop,1,1700,04/06/19 15:41,"383 8th St, Los Angeles, CA 90001"
+
+187367,iPhone,1,700,04/22/19 21:30,"841 Church St, Boston, MA 02215"
+
+187369,Google Phone,1,600,04/30/19 19:50,"99 Cedar St, New York City, NY 10001"
+
+187370,iPhone,1,700,04/19/19 21:59,"958 Hill St, Los Angeles, CA 90001"
+
+187374,Google Phone,1,600,04/06/19 18:42,"112 Hickory St, Los Angeles, CA 90001"
+
+187385,Google Phone,1,600,04/18/19 20:26,"369 11th St, Seattle, WA 98101"
+
+187405,iPhone,1,700,04/11/19 07:33,"95 12th St, Portland, OR 97035"
+
+187407,iPhone,1,700,04/01/19 23:59,"229 Park St, Seattle, WA 98101"
+
+187412,Macbook Pro Laptop,1,1700,04/10/19 14:07,"951 Dogwood St, New York City, NY 10001"
+
+187416,Vareebadd Phone,1,400,04/20/19 12:25,"373 Forest St, Los Angeles, CA 90001"
+
+187423,Vareebadd Phone,1,400,04/01/19 11:49,"786 Hickory St, Seattle, WA 98101"
+
+187442,Vareebadd Phone,1,400,04/20/19 03:39,"978 West St, San Francisco, CA 94016"
+
+187460,Macbook Pro Laptop,1,1700,04/16/19 16:52,"187 Hickory St, Seattle, WA 98101"
+
+187463,Google Phone,1,600,04/11/19 08:16,"842 Madison St, Los Angeles, CA 90001"
+
+187464,iPhone,1,700,04/05/19 22:30,"460 Center St, Austin, TX 73301"
+
+187481,Macbook Pro Laptop,1,1700,04/13/19 09:18,"979 Forest St, Seattle, WA 98101"
+
+187496,Macbook Pro Laptop,1,1700,04/12/19 15:12,"645 Maple St, New York City, NY 10001"
+
+187517,iPhone,1,700,04/17/19 08:58,"689 9th St, Dallas, TX 75001"
+
+187518,iPhone,1,700,04/22/19 11:36,"114 11th St, San Francisco, CA 94016"
+
+187521,iPhone,1,700,04/02/19 18:46,"535 14th St, Los Angeles, CA 90001"
+
+187534,Google Phone,1,600,04/01/19 09:39,"312 Church St, Atlanta, GA 30301"
+
+187547,Google Phone,1,600,04/25/19 09:43,"687 West St, Atlanta, GA 30301"
+
+187559,iPhone,1,700,04/01/19 09:12,"828 Washington St, San Francisco, CA 94016"
+
+187565,Macbook Pro Laptop,1,1700,04/29/19 14:19,"35 13th St, Portland, ME 04101"
+
+187577,iPhone,1,700,04/10/19 19:20,"727 13th St, San Francisco, CA 94016"
+
+187595,iPhone,1,700,04/28/19 18:26,"628 10th St, Los Angeles, CA 90001"
+
+187600,Macbook Pro Laptop,1,1700,04/26/19 22:28,"301 9th St, Atlanta, GA 30301"
+
+187603,Vareebadd Phone,1,400,04/15/19 20:26,"739 Meadow St, New York City, NY 10001"
+
+187609,iPhone,1,700,04/08/19 08:30,"737 9th St, San Francisco, CA 94016"
+
+187616,Google Phone,1,600,04/13/19 19:19,"14 Jackson St, San Francisco, CA 94016"
+
+187632,Macbook Pro Laptop,1,1700,04/03/19 12:46,"704 Washington St, San Francisco, CA 94016"
+
+187636,iPhone,1,700,04/04/19 10:58,"516 South St, Boston, MA 02215"
+
+187639,Macbook Pro Laptop,1,1700,04/29/19 01:13,"533 Maple St, Boston, MA 02215"
+
+187647,Google Phone,1,600,04/21/19 13:44,"852 Highland St, Austin, TX 73301"
+
+187657,Macbook Pro Laptop,1,1700,04/19/19 20:52,"605 Sunset St, Los Angeles, CA 90001"
+
+187672,iPhone,1,700,04/10/19 15:15,"836 Sunset St, Boston, MA 02215"
+
+187678,iPhone,1,700,04/13/19 19:26,"833 Main St, New York City, NY 10001"
+
+187687,Google Phone,1,600,04/16/19 16:00,"866 7th St, San Francisco, CA 94016"
+
+187689,Macbook Pro Laptop,1,1700,04/01/19 10:27,"195 Walnut St, Los Angeles, CA 90001"
+
+187697,iPhone,1,700,04/11/19 21:15,"610 Hickory St, Atlanta, GA 30301"
+
+187703,iPhone,1,700,04/06/19 19:12,"228 Cedar St, Austin, TX 73301"
+
+187711,Google Phone,1,600,04/30/19 23:34,"755 Adams St, San Francisco, CA 94016"
+
+187741,Google Phone,1,600,04/09/19 14:13,"510 Ridge St, San Francisco, CA 94016"
+
+187742,Google Phone,1,600,04/24/19 19:24,"224 Cherry St, New York City, NY 10001"
+
+187750,iPhone,1,700,04/10/19 18:34,"221 7th St, San Francisco, CA 94016"
+
+187754,iPhone,1,700,04/03/19 11:45,"75 7th St, Atlanta, GA 30301"
+
+187760,Google Phone,1,600,04/10/19 08:20,"764 Madison St, Boston, MA 02215"
+
+187767,Macbook Pro Laptop,1,1700,04/11/19 17:19,"351 Forest St, Dallas, TX 75001"
+
+187778,Macbook Pro Laptop,1,1700,04/18/19 18:31,"280 Dogwood St, Boston, MA 02215"
+
+187782,Google Phone,1,600,04/30/19 08:57,"590 South St, Los Angeles, CA 90001"
+
+187822,iPhone,1,700,04/11/19 16:58,"571 Jefferson St, New York City, NY 10001"
+
+187828,iPhone,1,700,04/23/19 19:20,"376 11th St, Atlanta, GA 30301"
+
+187836,iPhone,1,700,04/13/19 10:36,"364 9th St, San Francisco, CA 94016"
+
+187848,iPhone,1,700,04/03/19 16:49,"387 Maple St, Atlanta, GA 30301"
+
+187849,iPhone,1,700,04/25/19 12:54,"39 Chestnut St, Portland, OR 97035"
+
+187853,iPhone,1,700,04/15/19 18:41,"872 South St, Portland, OR 97035"
+
+187854,Macbook Pro Laptop,1,1700,04/06/19 19:07,"579 Madison St, Portland, OR 97035"
+
+187856,Google Phone,1,600,04/25/19 20:18,"432 Lake St, New York City, NY 10001"
+
+187875,Vareebadd Phone,1,400,04/30/19 13:20,"108 Lake St, Seattle, WA 98101"
+
+187883,Google Phone,1,600,04/30/19 16:10,"22 6th St, Portland, OR 97035"
+
+187888,iPhone,1,700,04/30/19 19:20,"387 12th St, San Francisco, CA 94016"
+
+187893,Google Phone,1,600,04/12/19 19:50,"616 8th St, Portland, OR 97035"
+
+187898,Macbook Pro Laptop,1,1700,04/15/19 14:06,"26 Highland St, San Francisco, CA 94016"
+
+187901,Google Phone,1,600,04/03/19 10:44,"441 Chestnut St, Los Angeles, CA 90001"
+
+187932,Vareebadd Phone,1,400,04/11/19 19:47,"154 8th St, Portland, OR 97035"
+
+187945,Vareebadd Phone,1,400,04/24/19 13:17,"549 Jefferson St, Seattle, WA 98101"
+
+187949,Vareebadd Phone,1,400,04/08/19 16:32,"743 Park St, Seattle, WA 98101"
+
+187951,iPhone,1,700,04/25/19 20:27,"83 Elm St, Atlanta, GA 30301"
+
+187955,Google Phone,1,600,04/03/19 14:51,"818 River St, Dallas, TX 75001"
+
+187965,Google Phone,1,600,04/22/19 23:49,"307 5th St, Seattle, WA 98101"
+
+187967,Vareebadd Phone,1,400,04/20/19 13:56,"154 Dogwood St, Los Angeles, CA 90001"
+
+187969,Vareebadd Phone,1,400,04/24/19 12:56,"402 Chestnut St, Atlanta, GA 30301"
+
+187970,Google Phone,1,600,04/20/19 17:07,"11 Madison St, New York City, NY 10001"
+
+187974,Macbook Pro Laptop,1,1700,04/03/19 10:58,"325 Wilson St, Los Angeles, CA 90001"
+
+187978,Google Phone,1,600,04/02/19 12:57,"810 Sunset St, New York City, NY 10001"
+
+187980,Google Phone,1,600,04/18/19 13:40,"857 2nd St, Los Angeles, CA 90001"
+
+187982,iPhone,2,700,04/06/19 22:03,"213 6th St, Atlanta, GA 30301"
+
+187984,Macbook Pro Laptop,1,1700,04/02/19 06:00,"153 Walnut St, Portland, ME 04101"
+
+188001,iPhone,1,700,04/04/19 07:08,"721 Sunset St, Dallas, TX 75001"
+
+188003,Google Phone,1,600,04/25/19 12:54,"643 14th St, Los Angeles, CA 90001"
+
+188013,iPhone,1,700,04/23/19 23:17,"65 Cherry St, Dallas, TX 75001"
+
+188021,Macbook Pro Laptop,1,1700,04/11/19 18:07,"3 Adams St, New York City, NY 10001"
+
+188029,Google Phone,1,600,04/07/19 14:13,"389 8th St, Atlanta, GA 30301"
+
+188038,iPhone,1,700,04/30/19 02:43,"133 Chestnut St, Portland, OR 97035"
+
+188041,iPhone,1,700,04/27/19 12:29,"395 Washington St, San Francisco, CA 94016"
+
+188060,Macbook Pro Laptop,1,1700,04/08/19 08:15,"521 Pine St, Seattle, WA 98101"
+
+188061,Google Phone,1,600,04/18/19 11:24,"349 Hickory St, San Francisco, CA 94016"
+
+188064,Google Phone,1,600,04/09/19 16:26,"857 Lake St, Los Angeles, CA 90001"
+
+188066,Macbook Pro Laptop,1,1700,04/25/19 09:20,"845 Jefferson St, Los Angeles, CA 90001"
+
+188077,iPhone,1,700,04/15/19 22:26,"884 Highland St, San Francisco, CA 94016"
+
+188086,Macbook Pro Laptop,1,1700,04/24/19 12:04,"895 Jackson St, San Francisco, CA 94016"
+
+188087,Macbook Pro Laptop,1,1700,04/01/19 21:03,"748 12th St, Seattle, WA 98101"
+
+188088,Vareebadd Phone,1,400,04/12/19 12:28,"339 Main St, San Francisco, CA 94016"
+
+188090,Macbook Pro Laptop,1,1700,04/28/19 11:04,"194 Center St, Los Angeles, CA 90001"
+
+188097,Google Phone,1,600,04/17/19 10:49,"92 5th St, Atlanta, GA 30301"
+
+188098,iPhone,1,700,04/19/19 20:49,"419 Main St, Dallas, TX 75001"
+
+188112,Google Phone,1,600,04/26/19 20:05,"839 Lakeview St, Los Angeles, CA 90001"
+
+188122,iPhone,1,700,04/13/19 19:03,"352 Ridge St, Los Angeles, CA 90001"
+
+188127,Google Phone,1,600,04/17/19 08:32,"49 Lincoln St, San Francisco, CA 94016"
+
+188129,Macbook Pro Laptop,1,1700,04/05/19 04:35,"65 9th St, Atlanta, GA 30301"
+
+188162,iPhone,1,700,04/16/19 14:38,"368 5th St, Seattle, WA 98101"
+
+188170,Macbook Pro Laptop,1,1700,04/20/19 16:08,"461 Elm St, New York City, NY 10001"
+
+188207,Macbook Pro Laptop,1,1700,04/27/19 22:19,"156 Ridge St, Boston, MA 02215"
+
+188217,iPhone,1,700,04/20/19 12:28,"218 Walnut St, Portland, OR 97035"
+
+188219,Google Phone,1,600,04/24/19 07:54,"671 Ridge St, Boston, MA 02215"
+
+188223,Macbook Pro Laptop,1,1700,04/26/19 10:49,"890 Washington St, Boston, MA 02215"
+
+188230,Google Phone,1,600,04/01/19 10:05,"595 Park St, Los Angeles, CA 90001"
+
+188239,Google Phone,1,600,04/22/19 13:17,"962 Sunset St, San Francisco, CA 94016"
+
+188242,Google Phone,1,600,04/23/19 19:03,"93 Jefferson St, Dallas, TX 75001"
+
+188253,Google Phone,1,600,04/11/19 12:23,"751 2nd St, Boston, MA 02215"
+
+188263,Google Phone,1,600,04/28/19 09:51,"814 Jackson St, Los Angeles, CA 90001"
+
+188265,iPhone,1,700,04/15/19 14:45,"594 Church St, New York City, NY 10001"
+
+188266,Google Phone,1,600,04/02/19 08:51,"877 Church St, San Francisco, CA 94016"
+
+188268,Vareebadd Phone,1,400,04/15/19 15:51,"115 Forest St, Los Angeles, CA 90001"
+
+188269,iPhone,1,700,04/01/19 10:17,"518 Pine St, Dallas, TX 75001"
+
+188273,iPhone,1,700,04/17/19 10:47,"357 Jackson St, Boston, MA 02215"
+
+188275,Macbook Pro Laptop,1,1700,04/20/19 15:05,"353 Jackson St, New York City, NY 10001"
+
+188299,Google Phone,1,600,04/13/19 21:24,"198 Adams St, Boston, MA 02215"
+
+188303,iPhone,1,700,04/25/19 00:34,"211 10th St, San Francisco, CA 94016"
+
+188327,Macbook Pro Laptop,1,1700,04/17/19 17:17,"660 Chestnut St, Los Angeles, CA 90001"
+
+188328,Google Phone,1,600,04/14/19 23:56,"613 Lincoln St, Austin, TX 73301"
+
+188332,Vareebadd Phone,1,400,04/16/19 19:08,"346 7th St, New York City, NY 10001"
+
+188343,iPhone,1,700,04/22/19 18:46,"172 5th St, Boston, MA 02215"
+
+188345,iPhone,1,700,04/03/19 22:37,"590 14th St, San Francisco, CA 94016"
+
+188369,Google Phone,1,600,04/18/19 22:01,"346 Hill St, San Francisco, CA 94016"
+
+188374,Google Phone,1,600,04/25/19 23:53,"787 Jackson St, Seattle, WA 98101"
+
+188401,Macbook Pro Laptop,1,1700,04/05/19 12:56,"265 Walnut St, New York City, NY 10001"
+
+188409,iPhone,1,700,04/01/19 19:54,"879 Cedar St, San Francisco, CA 94016"
+
+188417,Macbook Pro Laptop,1,1700,04/25/19 13:03,"836 Lakeview St, Atlanta, GA 30301"
+
+188420,iPhone,1,700,04/30/19 11:13,"765 Main St, San Francisco, CA 94016"
+
+188433,iPhone,1,700,04/30/19 14:46,"753 Washington St, Atlanta, GA 30301"
+
+188438,iPhone,1,700,04/22/19 04:15,"574 Walnut St, San Francisco, CA 94016"
+
+188454,iPhone,1,700,04/22/19 09:16,"799 7th St, Dallas, TX 75001"
+
+188465,iPhone,1,700,04/06/19 03:15,"271 Elm St, New York City, NY 10001"
+
+188466,Macbook Pro Laptop,1,1700,04/21/19 19:38,"133 Main St, Portland, OR 97035"
+
+188468,Google Phone,1,600,04/01/19 16:17,"742 Elm St, New York City, NY 10001"
+
+188471,iPhone,1,700,04/12/19 07:53,"661 Cedar St, New York City, NY 10001"
+
+188482,iPhone,1,700,04/15/19 18:17,"397 South St, New York City, NY 10001"
+
+188502,Google Phone,1,600,04/05/19 11:12,"152 Madison St, Los Angeles, CA 90001"
+
+188508,Google Phone,1,600,04/30/19 18:22,"52 Wilson St, San Francisco, CA 94016"
+
+188526,Google Phone,1,600,04/11/19 12:57,"744 Lincoln St, New York City, NY 10001"
+
+188533,Vareebadd Phone,1,400,04/16/19 20:17,"660 Center St, Seattle, WA 98101"
+
+188538,Google Phone,1,600,04/25/19 10:17,"385 7th St, New York City, NY 10001"
+
+188541,Macbook Pro Laptop,1,1700,04/18/19 16:20,"925 Sunset St, Portland, OR 97035"
+
+188543,Macbook Pro Laptop,1,1700,04/10/19 21:57,"117 Dogwood St, San Francisco, CA 94016"
+
+188559,iPhone,1,700,04/17/19 22:26,"159 4th St, Atlanta, GA 30301"
+
+188560,Macbook Pro Laptop,1,1700,04/04/19 10:43,"937 Hickory St, Seattle, WA 98101"
+
+188561,Google Phone,1,600,04/10/19 10:50,"393 Dogwood St, New York City, NY 10001"
+
+188581,iPhone,1,700,04/09/19 16:03,"626 Lakeview St, Boston, MA 02215"
+
+188589,iPhone,1,700,04/01/19 21:23,"454 Madison St, New York City, NY 10001"
+
+188598,Macbook Pro Laptop,1,1700,04/12/19 09:05,"796 Highland St, Seattle, WA 98101"
+
+188599,iPhone,1,700,04/26/19 12:01,"698 Lakeview St, Boston, MA 02215"
+
+188603,iPhone,1,700,04/24/19 12:32,"980 10th St, San Francisco, CA 94016"
+
+188617,iPhone,1,700,04/05/19 05:54,"727 9th St, San Francisco, CA 94016"
+
+188619,iPhone,1,700,04/09/19 13:41,"156 10th St, Boston, MA 02215"
+
+188630,Macbook Pro Laptop,1,1700,04/25/19 19:01,"616 Chestnut St, New York City, NY 10001"
+
+188638,iPhone,1,700,04/30/19 23:10,"149 Chestnut St, Seattle, WA 98101"
+
+188639,iPhone,1,700,04/01/19 18:12,"631 Lake St, New York City, NY 10001"
+
+188644,Google Phone,1,600,04/15/19 18:10,"316 Hill St, Seattle, WA 98101"
+
+188657,iPhone,1,700,04/04/19 08:28,"916 Sunset St, Portland, OR 97035"
+
+188659,Google Phone,1,600,04/18/19 17:15,"770 Chestnut St, Atlanta, GA 30301"
+
+188671,Google Phone,1,600,04/29/19 12:21,"608 Wilson St, Atlanta, GA 30301"
+
+188672,iPhone,1,700,04/06/19 17:03,"831 Lincoln St, Boston, MA 02215"
+
+188680,Macbook Pro Laptop,1,1700,04/15/19 20:44,"880 Willow St, San Francisco, CA 94016"
+
+188708,iPhone,1,700,04/26/19 15:08,"148 Sunset St, Austin, TX 73301"
+
+188719,iPhone,1,700,04/19/19 18:07,"100 Main St, San Francisco, CA 94016"
+
+188747,Macbook Pro Laptop,1,1700,04/20/19 00:23,"336 Park St, Boston, MA 02215"
+
+188751,Google Phone,1,600,04/01/19 19:48,"109 Hill St, San Francisco, CA 94016"
+
+188753,Google Phone,1,600,04/09/19 00:17,"915 6th St, Boston, MA 02215"
+
+188757,iPhone,1,700,04/14/19 16:21,"835 Madison St, New York City, NY 10001"
+
+188782,Google Phone,1,600,04/29/19 23:39,"994 14th St, New York City, NY 10001"
+
+188785,Macbook Pro Laptop,1,1700,04/16/19 14:38,"917 Forest St, New York City, NY 10001"
+
+188788,Macbook Pro Laptop,1,1700,04/25/19 04:56,"86 Park St, Los Angeles, CA 90001"
+
+188819,Macbook Pro Laptop,1,1700,04/29/19 20:43,"812 Wilson St, Dallas, TX 75001"
+
+188841,Google Phone,1,600,04/19/19 09:10,"577 10th St, Los Angeles, CA 90001"
+
+188854,Google Phone,1,600,04/01/19 17:11,"216 2nd St, Boston, MA 02215"
+
+188859,iPhone,1,700,04/22/19 11:13,"19 Pine St, Portland, OR 97035"
+
+188865,Macbook Pro Laptop,1,1700,04/04/19 12:45,"939 Adams St, Dallas, TX 75001"
+
+188869,Google Phone,1,600,04/03/19 12:59,"134 Spruce St, Los Angeles, CA 90001"
+
+188881,Google Phone,1,600,04/19/19 18:18,"872 7th St, Los Angeles, CA 90001"
+
+188904,iPhone,1,700,04/20/19 15:01,"281 Church St, Portland, OR 97035"
+
+188909,Google Phone,1,600,04/18/19 08:31,"815 Forest St, Los Angeles, CA 90001"
+
+188914,iPhone,1,700,04/19/19 18:55,"327 Dogwood St, San Francisco, CA 94016"
+
+188920,Google Phone,1,600,04/09/19 23:03,"250 North St, San Francisco, CA 94016"
+
+188922,Macbook Pro Laptop,1,1700,04/13/19 16:39,"904 Jefferson St, San Francisco, CA 94016"
+
+188931,Macbook Pro Laptop,1,1700,04/08/19 22:26,"488 Ridge St, Atlanta, GA 30301"
+
+188936,iPhone,1,700,04/14/19 13:27,"953 Ridge St, Los Angeles, CA 90001"
+
+188945,Google Phone,1,600,04/09/19 15:58,"119 Hickory St, Portland, OR 97035"
+
+188985,Macbook Pro Laptop,1,1700,04/12/19 00:38,"962 Forest St, Austin, TX 73301"
+
+188997,Google Phone,1,600,04/11/19 19:56,"653 Dogwood St, Los Angeles, CA 90001"
+
+189008,Macbook Pro Laptop,1,1700,04/26/19 23:39,"754 Hickory St, Dallas, TX 75001"
+
+189010,Macbook Pro Laptop,1,1700,04/25/19 13:10,"256 Washington St, San Francisco, CA 94016"
+
+189012,Vareebadd Phone,1,400,04/09/19 10:50,"339 13th St, New York City, NY 10001"
+
+189013,Google Phone,1,600,04/18/19 16:01,"401 8th St, Dallas, TX 75001"
+
+189015,Vareebadd Phone,1,400,04/26/19 06:36,"64 Lakeview St, Seattle, WA 98101"
+
+189019,iPhone,1,700,04/28/19 13:46,"327 12th St, Boston, MA 02215"
+
+189029,iPhone,1,700,04/16/19 18:45,"163 Johnson St, San Francisco, CA 94016"
+
+189032,iPhone,1,700,04/18/19 08:51,"962 West St, San Francisco, CA 94016"
+
+189042,Macbook Pro Laptop,1,1700,04/13/19 17:49,"791 Cedar St, Seattle, WA 98101"
+
+189043,Vareebadd Phone,1,400,04/13/19 15:33,"122 Lincoln St, Atlanta, GA 30301"
+
+189068,Macbook Pro Laptop,1,1700,04/24/19 11:42,"402 Walnut St, Los Angeles, CA 90001"
+
+189071,iPhone,1,700,04/11/19 15:05,"483 Pine St, Boston, MA 02215"
+
+189077,iPhone,1,700,04/07/19 18:05,"596 12th St, Boston, MA 02215"
+
+189079,Macbook Pro Laptop,1,1700,04/16/19 20:21,"360 14th St, San Francisco, CA 94016"
+
+189089,Macbook Pro Laptop,1,1700,04/13/19 22:00,"704 Maple St, San Francisco, CA 94016"
+
+189108,Google Phone,1,600,04/10/19 07:22,"196 Meadow St, Boston, MA 02215"
+
+189117,Macbook Pro Laptop,1,1700,04/24/19 09:43,"779 West St, Atlanta, GA 30301"
+
+189133,Google Phone,1,600,04/18/19 11:01,"701 10th St, Portland, ME 04101"
+
+189134,iPhone,1,700,04/15/19 15:42,"186 4th St, New York City, NY 10001"
+
+189139,Vareebadd Phone,1,400,04/10/19 14:39,"109 Cherry St, Atlanta, GA 30301"
+
+189152,Google Phone,1,600,04/01/19 07:40,"809 North St, San Francisco, CA 94016"
+
+189163,iPhone,1,700,04/30/19 19:33,"310 4th St, San Francisco, CA 94016"
+
+189164,Google Phone,1,600,04/12/19 12:40,"707 Center St, San Francisco, CA 94016"
+
+189169,iPhone,1,700,04/14/19 21:01,"343 Main St, Dallas, TX 75001"
+
+189183,Macbook Pro Laptop,1,1700,04/05/19 00:00,"778 Madison St, New York City, NY 10001"
+
+189193,Google Phone,1,600,04/27/19 13:39,"532 Elm St, Portland, ME 04101"
+
+189194,Macbook Pro Laptop,1,1700,04/18/19 20:03,"966 Hill St, San Francisco, CA 94016"
+
+189201,Google Phone,1,600,04/22/19 11:38,"399 Main St, Seattle, WA 98101"
+
+189207,Macbook Pro Laptop,1,1700,04/18/19 09:42,"801 6th St, Dallas, TX 75001"
+
+189208,Google Phone,1,600,04/07/19 22:00,"930 4th St, San Francisco, CA 94016"
+
+189212,Google Phone,1,600,04/12/19 13:12,"214 11th St, New York City, NY 10001"
+
+189243,Google Phone,1,600,04/28/19 13:01,"629 Jackson St, New York City, NY 10001"
+
+189252,Google Phone,1,600,04/19/19 19:54,"93 West St, Boston, MA 02215"
+
+189262,Google Phone,1,600,04/01/19 13:02,"230 Dogwood St, Atlanta, GA 30301"
+
+189268,Google Phone,1,600,04/11/19 20:23,"68 11th St, Los Angeles, CA 90001"
+
+189269,Macbook Pro Laptop,1,1700,04/26/19 21:05,"596 Lakeview St, New York City, NY 10001"
+
+189273,Macbook Pro Laptop,1,1700,04/14/19 00:52,"553 West St, Dallas, TX 75001"
+
+189280,iPhone,1,700,04/16/19 09:57,"242 13th St, Austin, TX 73301"
+
+189282,Google Phone,1,600,04/30/19 10:45,"803 1st St, Boston, MA 02215"
+
+189290,Google Phone,1,600,04/17/19 09:18,"482 Wilson St, Dallas, TX 75001"
+
+189301,iPhone,1,700,04/05/19 23:49,"562 Hickory St, Boston, MA 02215"
+
+189305,Vareebadd Phone,1,400,04/02/19 17:36,"409 Sunset St, Seattle, WA 98101"
+
+189307,Vareebadd Phone,1,400,04/17/19 15:10,"683 Maple St, Boston, MA 02215"
+
+189310,Vareebadd Phone,1,400,04/18/19 11:55,"77 12th St, San Francisco, CA 94016"
+
+189312,Google Phone,1,600,04/18/19 15:09,"411 Hickory St, Atlanta, GA 30301"
+
+189332,iPhone,1,700,04/15/19 01:06,"349 1st St, Boston, MA 02215"
+
+189336,Google Phone,1,600,04/03/19 21:59,"940 Washington St, San Francisco, CA 94016"
+
+189349,iPhone,1,700,04/23/19 16:21,"884 Hill St, San Francisco, CA 94016"
+
+189361,Google Phone,1,600,04/28/19 12:58,"695 Willow St, Austin, TX 73301"
+
+189363,Vareebadd Phone,1,400,04/27/19 21:43,"838 Lake St, New York City, NY 10001"
+
+189369,Macbook Pro Laptop,1,1700,04/21/19 09:13,"816 5th St, San Francisco, CA 94016"
+
+189370,Macbook Pro Laptop,1,1700,04/22/19 13:26,"572 Lakeview St, Dallas, TX 75001"
+
+189413,iPhone,1,700,04/30/19 12:41,"94 Meadow St, Austin, TX 73301"
+
+189414,iPhone,1,700,04/25/19 14:49,"426 West St, Dallas, TX 75001"
+
+189425,Google Phone,1,600,04/14/19 22:06,"581 Park St, Atlanta, GA 30301"
+
+189436,iPhone,1,700,04/15/19 10:08,"332 Sunset St, Boston, MA 02215"
+
+189457,iPhone,1,700,04/22/19 14:23,"649 South St, San Francisco, CA 94016"
+
+189458,iPhone,1,700,04/14/19 23:48,"297 11th St, San Francisco, CA 94016"
+
+189461,Vareebadd Phone,1,400,04/21/19 16:17,"560 River St, New York City, NY 10001"
+
+189465,Vareebadd Phone,1,400,04/26/19 18:30,"3 Willow St, Boston, MA 02215"
+
+189469,Macbook Pro Laptop,1,1700,04/11/19 22:12,"282 Ridge St, Austin, TX 73301"
+
+189473,iPhone,1,700,04/18/19 20:45,"952 Ridge St, New York City, NY 10001"
+
+189477,Macbook Pro Laptop,1,1700,04/11/19 21:31,"445 Walnut St, New York City, NY 10001"
+
+189479,Macbook Pro Laptop,1,1700,04/12/19 03:02,"28 Jackson St, San Francisco, CA 94016"
+
+189495,iPhone,1,700,04/09/19 11:59,"589 7th St, Atlanta, GA 30301"
+
+189508,Macbook Pro Laptop,1,1700,04/14/19 10:51,"508 Hill St, San Francisco, CA 94016"
+
+189514,Google Phone,1,600,04/12/19 22:19,"774 West St, New York City, NY 10001"
+
+189517,Macbook Pro Laptop,1,1700,04/23/19 14:57,"126 Lakeview St, New York City, NY 10001"
+
+189547,Google Phone,1,600,04/17/19 18:39,"422 5th St, Los Angeles, CA 90001"
+
+189552,iPhone,1,700,04/25/19 20:03,"191 Chestnut St, Los Angeles, CA 90001"
+
+189557,iPhone,1,700,04/27/19 12:49,"967 Chestnut St, Seattle, WA 98101"
+
+189575,iPhone,1,700,04/18/19 21:54,"937 13th St, Atlanta, GA 30301"
+
+189580,Macbook Pro Laptop,1,1700,04/20/19 08:42,"40 South St, Seattle, WA 98101"
+
+189583,Google Phone,1,600,04/30/19 18:43,"108 Washington St, San Francisco, CA 94016"
+
+189589,iPhone,1,700,04/19/19 09:04,"110 North St, San Francisco, CA 94016"
+
+189597,Vareebadd Phone,1,400,04/21/19 11:12,"240 Chestnut St, Dallas, TX 75001"
+
+189601,Macbook Pro Laptop,1,1700,04/25/19 19:47,"865 Hill St, San Francisco, CA 94016"
+
+189613,Macbook Pro Laptop,1,1700,04/09/19 15:51,"312 Ridge St, San Francisco, CA 94016"
+
+189617,iPhone,1,700,04/22/19 15:34,"902 5th St, Austin, TX 73301"
+
+189629,iPhone,1,700,04/27/19 14:49,"650 West St, New York City, NY 10001"
+
+189636,Macbook Pro Laptop,1,1700,04/17/19 18:06,"410 Highland St, New York City, NY 10001"
+
+189640,Vareebadd Phone,1,400,04/29/19 21:02,"615 13th St, Dallas, TX 75001"
+
+189667,Macbook Pro Laptop,1,1700,04/06/19 19:13,"832 5th St, New York City, NY 10001"
+
+189669,Google Phone,1,600,04/30/19 08:32,"90 12th St, Los Angeles, CA 90001"
+
+189678,Google Phone,1,600,04/06/19 20:44,"755 Chestnut St, New York City, NY 10001"
+
+189682,Google Phone,1,600,04/14/19 12:57,"470 11th St, Dallas, TX 75001"
+
+189687,iPhone,1,700,04/23/19 10:48,"929 Park St, New York City, NY 10001"
+
+189697,Macbook Pro Laptop,1,1700,04/08/19 18:23,"789 13th St, Seattle, WA 98101"
+
+189704,iPhone,1,700,04/16/19 18:12,"203 13th St, Dallas, TX 75001"
+
+189745,Google Phone,1,600,04/17/19 19:29,"555 9th St, Boston, MA 02215"
+
+189746,Macbook Pro Laptop,1,1700,04/06/19 20:44,"304 9th St, Dallas, TX 75001"
+
+189770,Macbook Pro Laptop,1,1700,04/23/19 13:56,"608 Park St, Los Angeles, CA 90001"
+
+189774,Macbook Pro Laptop,1,1700,04/28/19 09:26,"673 Elm St, Portland, OR 97035"
+
+189790,Google Phone,1,600,04/11/19 11:02,"496 Pine St, San Francisco, CA 94016"
+
+189805,Macbook Pro Laptop,1,1700,05/01/19 01:31,"919 Sunset St, San Francisco, CA 94016"
+
+189806,Macbook Pro Laptop,1,1700,05/01/19 00:52,"928 Dogwood St, Dallas, TX 75001"
+
+189809,iPhone,1,700,04/19/19 19:56,"871 Lincoln St, Los Angeles, CA 90001"
+
+189814,iPhone,1,700,04/03/19 09:14,"843 Wilson St, Dallas, TX 75001"
+
+189816,Macbook Pro Laptop,1,1700,04/26/19 14:54,"323 South St, New York City, NY 10001"
+
+189824,Google Phone,1,600,04/29/19 07:08,"311 Cherry St, Portland, OR 97035"
+
+189826,iPhone,1,700,04/16/19 09:16,"668 Highland St, Boston, MA 02215"
+
+189837,Vareebadd Phone,1,400,04/27/19 20:18,"381 Maple St, Los Angeles, CA 90001"
+
+189840,Macbook Pro Laptop,1,1700,04/04/19 15:19,"541 Cherry St, San Francisco, CA 94016"
+
+189842,iPhone,1,700,04/16/19 13:56,"815 Washington St, Los Angeles, CA 90001"
+
+189845,Google Phone,1,600,04/28/19 16:46,"953 Chestnut St, San Francisco, CA 94016"
+
+189850,Macbook Pro Laptop,1,1700,04/27/19 12:42,"710 Cedar St, New York City, NY 10001"
+
+189853,Macbook Pro Laptop,1,1700,04/15/19 03:16,"237 Hickory St, Los Angeles, CA 90001"
+
+189856,Vareebadd Phone,1,400,04/05/19 13:37,"629 14th St, Los Angeles, CA 90001"
+
+189871,iPhone,1,700,04/24/19 22:25,"840 Jefferson St, Los Angeles, CA 90001"
+
+189873,Macbook Pro Laptop,1,1700,04/06/19 11:04,"654 Maple St, Boston, MA 02215"
+
+189877,Macbook Pro Laptop,1,1700,04/28/19 18:17,"878 2nd St, Portland, OR 97035"
+
+189885,Vareebadd Phone,1,400,04/07/19 17:44,"769 Church St, New York City, NY 10001"
+
+189910,Google Phone,1,600,04/07/19 21:59,"327 Adams St, San Francisco, CA 94016"
+
+189942,Google Phone,1,600,04/01/19 22:07,"757 Cedar St, San Francisco, CA 94016"
+
+189945,iPhone,1,700,04/23/19 12:06,"17 Hickory St, Boston, MA 02215"
+
+189951,Macbook Pro Laptop,1,1700,04/30/19 19:26,"969 13th St, Portland, OR 97035"
+
+189955,Vareebadd Phone,1,400,04/01/19 15:55,"662 Lakeview St, Boston, MA 02215"
+
+189957,Vareebadd Phone,1,400,04/20/19 18:53,"64 6th St, Portland, ME 04101"
+
+189959,Google Phone,1,600,04/10/19 11:57,"781 Hill St, Atlanta, GA 30301"
+
+189963,Google Phone,1,600,04/11/19 19:05,"637 13th St, Atlanta, GA 30301"
+
+189977,Google Phone,1,600,04/17/19 11:51,"190 Forest St, Atlanta, GA 30301"
+
+189986,Google Phone,1,600,04/13/19 22:14,"881 Lakeview St, Austin, TX 73301"
+
+190007,iPhone,1,700,04/20/19 06:40,"797 Center St, Boston, MA 02215"
+
+190037,Google Phone,1,600,04/29/19 08:13,"455 Dogwood St, Austin, TX 73301"
+
+190039,Vareebadd Phone,1,400,04/04/19 16:36,"577 6th St, New York City, NY 10001"
+
+190044,iPhone,1,700,04/30/19 18:47,"958 Lakeview St, San Francisco, CA 94016"
+
+190079,Google Phone,1,600,04/19/19 09:12,"927 5th St, Los Angeles, CA 90001"
+
+190082,Google Phone,1,600,04/12/19 19:07,"743 Lincoln St, Boston, MA 02215"
+
+190094,iPhone,1,700,04/02/19 12:43,"371 2nd St, New York City, NY 10001"
+
+190105,iPhone,1,700,04/06/19 20:34,"490 Spruce St, San Francisco, CA 94016"
+
+190127,Google Phone,1,600,04/19/19 08:54,"676 Chestnut St, Atlanta, GA 30301"
+
+190128,Macbook Pro Laptop,1,1700,04/29/19 11:21,"655 North St, New York City, NY 10001"
+
+190136,Macbook Pro Laptop,1,1700,04/08/19 12:06,"172 Elm St, San Francisco, CA 94016"
+
+190138,iPhone,1,700,04/20/19 22:10,"345 Park St, Austin, TX 73301"
+
+190165,Google Phone,1,600,04/10/19 17:36,"41 14th St, Seattle, WA 98101"
+
+190183,Google Phone,1,600,04/15/19 15:23,"92 Madison St, New York City, NY 10001"
+
+190187,Macbook Pro Laptop,1,1700,04/01/19 12:24,"170 Lake St, Los Angeles, CA 90001"
+
+190191,iPhone,1,700,04/20/19 07:05,"804 Lincoln St, Austin, TX 73301"
+
+190196,Vareebadd Phone,1,400,04/16/19 14:35,"897 Highland St, San Francisco, CA 94016"
+
+190200,Macbook Pro Laptop,1,1700,04/18/19 13:02,"508 Main St, Portland, OR 97035"
+
+190205,Google Phone,1,600,04/02/19 13:24,"526 Elm St, Dallas, TX 75001"
+
+190211,Vareebadd Phone,1,400,04/30/19 19:56,"15 6th St, San Francisco, CA 94016"
+
+190218,Google Phone,1,600,04/30/19 17:46,"510 Jackson St, Dallas, TX 75001"
+
+190230,Google Phone,1,600,04/04/19 20:02,"451 12th St, Austin, TX 73301"
+
+190234,Google Phone,1,600,04/17/19 15:37,"128 River St, Dallas, TX 75001"
+
+190235,iPhone,1,700,04/08/19 21:53,"425 2nd St, Austin, TX 73301"
+
+190255,Vareebadd Phone,1,400,04/08/19 18:35,"501 11th St, Seattle, WA 98101"
+
+190271,Macbook Pro Laptop,1,1700,04/12/19 20:38,"901 Chestnut St, Atlanta, GA 30301"
+
+190288,Google Phone,1,600,04/02/19 19:22,"802 Chestnut St, New York City, NY 10001"
+
+190300,iPhone,1,700,04/06/19 21:50,"817 Church St, Seattle, WA 98101"
+
+190306,Macbook Pro Laptop,1,1700,04/10/19 11:42,"853 Cherry St, Portland, OR 97035"
+
+190309,iPhone,1,700,04/04/19 11:34,"286 5th St, Dallas, TX 75001"
+
+190317,Vareebadd Phone,1,400,04/17/19 20:00,"984 Jackson St, Portland, ME 04101"
+
+190320,iPhone,1,700,04/15/19 09:07,"917 12th St, Seattle, WA 98101"
+
+190334,Macbook Pro Laptop,1,1700,04/06/19 12:44,"229 Cedar St, Los Angeles, CA 90001"
+
+190337,iPhone,1,700,04/24/19 21:01,"534 14th St, Boston, MA 02215"
+
+190344,iPhone,1,700,04/15/19 19:25,"423 Willow St, San Francisco, CA 94016"
+
+190349,Google Phone,1,600,04/09/19 09:37,"697 Chestnut St, Los Angeles, CA 90001"
+
+190362,iPhone,1,700,04/01/19 12:35,"349 River St, Austin, TX 73301"
+
+190370,Macbook Pro Laptop,1,1700,04/21/19 20:04,"471 5th St, San Francisco, CA 94016"
+
+190375,Macbook Pro Laptop,1,1700,04/30/19 00:17,"8 Lincoln St, Portland, OR 97035"
+
+190383,Google Phone,1,600,04/01/19 20:37,"1 Lakeview St, Los Angeles, CA 90001"
+
+190385,Macbook Pro Laptop,1,1700,04/04/19 17:34,"817 Lake St, New York City, NY 10001"
+
+190390,Google Phone,1,600,04/15/19 13:05,"151 Cherry St, Portland, OR 97035"
+
+190393,iPhone,1,700,04/22/19 17:21,"103 Park St, New York City, NY 10001"
+
+190413,iPhone,1,700,04/19/19 08:48,"554 Madison St, San Francisco, CA 94016"
+
+190418,Macbook Pro Laptop,1,1700,04/05/19 20:59,"548 Main St, San Francisco, CA 94016"
+
+190424,Macbook Pro Laptop,1,1700,04/11/19 12:13,"806 Meadow St, San Francisco, CA 94016"
+
+190428,Google Phone,1,600,04/21/19 18:51,"304 Pine St, Los Angeles, CA 90001"
+
+190450,Google Phone,1,600,04/30/19 19:19,"547 5th St, New York City, NY 10001"
+
+190460,Macbook Pro Laptop,1,1700,04/12/19 14:16,"256 Hill St, San Francisco, CA 94016"
+
+190472,Macbook Pro Laptop,1,1700,04/16/19 22:54,"293 Pine St, Boston, MA 02215"
+
+190475,Macbook Pro Laptop,1,1700,04/16/19 14:50,"159 1st St, Los Angeles, CA 90001"
+
+190491,iPhone,1,700,04/14/19 18:48,"231 Lincoln St, Los Angeles, CA 90001"
+
+190493,iPhone,1,700,04/15/19 13:29,"417 Johnson St, San Francisco, CA 94016"
+
+190501,Macbook Pro Laptop,1,1700,04/10/19 10:46,"818 Hickory St, Atlanta, GA 30301"
+
+190508,iPhone,1,700,04/21/19 20:08,"704 Chestnut St, Atlanta, GA 30301"
+
+190512,iPhone,1,700,04/01/19 20:35,"360 5th St, Dallas, TX 75001"
+
+190519,Google Phone,1,600,04/20/19 08:53,"820 11th St, Portland, OR 97035"
+
+190525,iPhone,1,700,04/06/19 08:57,"581 Main St, Austin, TX 73301"
+
+190527,Google Phone,1,600,04/26/19 20:32,"901 Hill St, Los Angeles, CA 90001"
+
+190548,iPhone,1,700,04/04/19 19:00,"167 Lincoln St, Atlanta, GA 30301"
+
+190552,iPhone,1,700,04/06/19 08:24,"87 Lakeview St, New York City, NY 10001"
+
+190576,iPhone,1,700,04/17/19 20:37,"219 Jackson St, Dallas, TX 75001"
+
+190585,iPhone,1,700,04/27/19 15:23,"631 Cedar St, San Francisco, CA 94016"
+
+190588,Google Phone,1,600,04/14/19 09:11,"22 Maple St, Dallas, TX 75001"
+
+190593,Macbook Pro Laptop,1,1700,04/16/19 07:40,"129 Elm St, Atlanta, GA 30301"
+
+190595,Macbook Pro Laptop,1,1700,04/29/19 03:17,"25 Wilson St, San Francisco, CA 94016"
+
+190597,iPhone,1,700,04/08/19 18:17,"915 14th St, Portland, OR 97035"
+
+190617,Vareebadd Phone,1,400,04/08/19 14:04,"365 8th St, Austin, TX 73301"
+
+190623,Google Phone,1,600,04/14/19 17:32,"493 Cedar St, New York City, NY 10001"
+
+190631,Google Phone,1,600,04/15/19 18:33,"333 Lincoln St, New York City, NY 10001"
+
+190637,iPhone,1,700,04/14/19 19:46,"931 Adams St, San Francisco, CA 94016"
+
+190640,Macbook Pro Laptop,1,1700,04/27/19 09:33,"146 12th St, Boston, MA 02215"
+
+190643,Google Phone,1,600,04/01/19 21:08,"672 Meadow St, San Francisco, CA 94016"
+
+190652,iPhone,1,700,04/24/19 20:07,"812 11th St, Dallas, TX 75001"
+
+190653,Google Phone,1,600,04/07/19 16:29,"869 Dogwood St, Los Angeles, CA 90001"
+
+190655,Macbook Pro Laptop,1,1700,04/10/19 06:24,"681 5th St, New York City, NY 10001"
+
+190662,Google Phone,1,600,04/04/19 08:49,"91 Ridge St, New York City, NY 10001"
+
+190666,Google Phone,1,600,04/17/19 07:20,"965 Main St, Dallas, TX 75001"
+
+190674,Macbook Pro Laptop,1,1700,04/08/19 16:19,"724 1st St, San Francisco, CA 94016"
+
+190690,Vareebadd Phone,1,400,04/24/19 16:58,"518 Lincoln St, New York City, NY 10001"
+
+190696,Google Phone,1,600,04/12/19 20:03,"736 River St, San Francisco, CA 94016"
+
+190706,Vareebadd Phone,1,400,04/12/19 09:51,"939 Park St, Boston, MA 02215"
+
+190716,Macbook Pro Laptop,1,1700,04/20/19 18:15,"81 11th St, New York City, NY 10001"
+
+190735,Macbook Pro Laptop,1,1700,04/15/19 11:10,"558 Lake St, Atlanta, GA 30301"
+
+190751,Google Phone,1,600,04/23/19 00:32,"113 Lincoln St, Atlanta, GA 30301"
+
+190753,Macbook Pro Laptop,1,1700,04/20/19 19:01,"590 Cedar St, Boston, MA 02215"
+
+190764,iPhone,1,700,04/28/19 15:12,"355 Park St, Los Angeles, CA 90001"
+
+190767,Vareebadd Phone,1,400,04/17/19 14:56,"55 Church St, Atlanta, GA 30301"
+
+190778,Macbook Pro Laptop,1,1700,04/24/19 10:11,"540 Meadow St, Seattle, WA 98101"
+
+190809,iPhone,1,700,04/30/19 14:42,"585 Chestnut St, San Francisco, CA 94016"
+
+190827,Vareebadd Phone,1,400,04/18/19 12:38,"447 9th St, Seattle, WA 98101"
+
+190834,Vareebadd Phone,1,400,04/25/19 19:53,"506 Jackson St, New York City, NY 10001"
+
+190837,iPhone,1,700,04/07/19 14:09,"379 Church St, San Francisco, CA 94016"
+
+190840,iPhone,1,700,04/30/19 17:25,"379 Willow St, Seattle, WA 98101"
+
+190851,Google Phone,1,600,04/07/19 14:50,"292 Washington St, Boston, MA 02215"
+
+190855,Macbook Pro Laptop,1,1700,04/24/19 11:00,"200 6th St, Atlanta, GA 30301"
+
+190857,Google Phone,1,600,04/24/19 00:05,"733 2nd St, San Francisco, CA 94016"
+
+190863,iPhone,1,700,04/27/19 12:44,"297 14th St, Dallas, TX 75001"
+
+190871,Google Phone,1,600,04/12/19 15:14,"208 Lakeview St, Seattle, WA 98101"
+
+190880,iPhone,1,700,04/15/19 11:36,"625 Hickory St, San Francisco, CA 94016"
+
+190882,Google Phone,1,600,04/07/19 13:04,"489 1st St, New York City, NY 10001"
+
+190903,Macbook Pro Laptop,1,1700,04/02/19 19:45,"939 Maple St, New York City, NY 10001"
+
+190912,Macbook Pro Laptop,1,1700,04/28/19 16:22,"427 7th St, Los Angeles, CA 90001"
+
+190934,Google Phone,1,600,04/13/19 05:33,"896 Lake St, Dallas, TX 75001"
+
+190942,iPhone,1,700,04/09/19 20:41,"308 Willow St, Dallas, TX 75001"
+
+190948,Vareebadd Phone,1,400,04/23/19 18:27,"880 9th St, Boston, MA 02215"
+
+190971,Macbook Pro Laptop,1,1700,04/24/19 09:27,"687 Park St, Los Angeles, CA 90001"
+
+191001,Macbook Pro Laptop,1,1700,04/11/19 19:19,"640 West St, Dallas, TX 75001"
+
+191012,iPhone,1,700,04/23/19 19:02,"6 Forest St, San Francisco, CA 94016"
+
+191019,Google Phone,1,600,04/17/19 15:28,"225 8th St, Seattle, WA 98101"
+
+191030,Vareebadd Phone,1,400,04/29/19 17:12,"240 Church St, Dallas, TX 75001"
+
+191041,Macbook Pro Laptop,1,1700,04/20/19 11:43,"15 West St, San Francisco, CA 94016"
+
+191042,Vareebadd Phone,1,400,04/01/19 10:36,"716 Lincoln St, San Francisco, CA 94016"
+
+191044,Macbook Pro Laptop,1,1700,04/06/19 09:51,"503 Sunset St, Seattle, WA 98101"
+
+191047,iPhone,1,700,04/09/19 08:52,"988 Elm St, Los Angeles, CA 90001"
+
+191050,iPhone,1,700,04/01/19 17:43,"67 Cedar St, New York City, NY 10001"
+
+191064,Macbook Pro Laptop,1,1700,04/03/19 10:11,"214 11th St, Atlanta, GA 30301"
+
+191078,Vareebadd Phone,1,400,04/12/19 11:40,"655 Dogwood St, Portland, OR 97035"
+
+191080,iPhone,1,700,04/17/19 09:24,"510 Lake St, San Francisco, CA 94016"
+
+191089,iPhone,1,700,04/25/19 21:07,"415 Forest St, Los Angeles, CA 90001"
+
+191095,Vareebadd Phone,1,400,04/29/19 11:53,"792 Adams St, New York City, NY 10001"
+
+191107,iPhone,1,700,04/16/19 10:37,"583 4th St, Atlanta, GA 30301"
+
+191121,Macbook Pro Laptop,1,1700,04/24/19 02:05,"77 Chestnut St, Los Angeles, CA 90001"
+
+191124,iPhone,1,700,04/07/19 08:28,"416 Cedar St, Austin, TX 73301"
+
+191145,iPhone,1,700,04/14/19 22:08,"577 9th St, Atlanta, GA 30301"
+
+191154,iPhone,1,700,04/22/19 18:04,"459 South St, Dallas, TX 75001"
+
+191155,Google Phone,1,600,04/30/19 13:53,"733 Highland St, San Francisco, CA 94016"
+
+191162,iPhone,1,700,04/15/19 18:47,"58 Spruce St, Boston, MA 02215"
+
+191178,iPhone,1,700,04/05/19 19:06,"119 Lake St, Los Angeles, CA 90001"
+
+191193,iPhone,1,700,04/21/19 22:37,"721 Elm St, New York City, NY 10001"
+
+191222,Google Phone,1,600,04/16/19 17:42,"93 13th St, New York City, NY 10001"
+
+191235,Macbook Pro Laptop,1,1700,04/07/19 08:10,"505 Pine St, San Francisco, CA 94016"
+
+191240,Google Phone,1,600,04/07/19 08:03,"293 River St, San Francisco, CA 94016"
+
+191251,Google Phone,1,600,04/17/19 23:38,"440 Jackson St, Portland, OR 97035"
+
+191269,Google Phone,1,600,04/12/19 00:28,"223 13th St, San Francisco, CA 94016"
+
+191282,iPhone,1,700,04/29/19 18:28,"994 Ridge St, San Francisco, CA 94016"
+
+191295,Macbook Pro Laptop,1,1700,04/02/19 11:02,"703 Spruce St, Los Angeles, CA 90001"
+
+191308,Google Phone,1,600,04/28/19 13:04,"606 Hickory St, Boston, MA 02215"
+
+191327,Vareebadd Phone,1,400,04/01/19 18:17,"496 Walnut St, San Francisco, CA 94016"
+
+191335,iPhone,1,700,04/08/19 12:58,"122 12th St, Seattle, WA 98101"
+
+191339,Google Phone,1,600,04/12/19 10:43,"757 2nd St, Boston, MA 02215"
+
+191352,Macbook Pro Laptop,1,1700,04/24/19 01:10,"536 Highland St, Atlanta, GA 30301"
+
+191373,Google Phone,1,600,04/04/19 13:23,"245 Johnson St, San Francisco, CA 94016"
+
+191382,Google Phone,1,600,04/29/19 00:13,"796 6th St, San Francisco, CA 94016"
+
+191412,Google Phone,1,600,04/10/19 18:11,"681 River St, San Francisco, CA 94016"
+
+191420,Google Phone,1,600,04/19/19 12:52,"38 12th St, Los Angeles, CA 90001"
+
+191422,Google Phone,1,600,04/06/19 19:29,"710 Chestnut St, Atlanta, GA 30301"
+
+191433,iPhone,1,700,04/10/19 00:34,"706 Jackson St, Seattle, WA 98101"
+
+191434,Macbook Pro Laptop,1,1700,04/21/19 21:17,"369 Jackson St, San Francisco, CA 94016"
+
+191443,iPhone,1,700,04/04/19 14:05,"323 14th St, Austin, TX 73301"
+
+191453,iPhone,1,700,04/10/19 20:47,"930 Lincoln St, Los Angeles, CA 90001"
+
+191455,Macbook Pro Laptop,1,1700,04/30/19 16:23,"320 Main St, San Francisco, CA 94016"
+
+191468,Macbook Pro Laptop,1,1700,04/29/19 16:59,"911 10th St, Atlanta, GA 30301"
+
+191497,Google Phone,1,600,04/11/19 23:29,"881 Elm St, Austin, TX 73301"
+
+191508,Macbook Pro Laptop,1,1700,04/18/19 08:47,"250 Madison St, Seattle, WA 98101"
+
+191527,iPhone,1,700,04/28/19 11:53,"516 10th St, Boston, MA 02215"
+
+191538,Google Phone,1,600,04/01/19 16:29,"278 Madison St, Los Angeles, CA 90001"
+
+191545,iPhone,1,700,04/22/19 03:45,"438 Willow St, Los Angeles, CA 90001"
+
+191547,iPhone,1,700,04/12/19 15:01,"984 14th St, Los Angeles, CA 90001"
+
+191550,Macbook Pro Laptop,1,1700,04/18/19 01:11,"17 Church St, Boston, MA 02215"
+
+191568,Google Phone,1,600,04/01/19 19:38,"954 Johnson St, Boston, MA 02215"
+
+191579,Google Phone,1,600,04/10/19 18:25,"144 Hickory St, Boston, MA 02215"
+
+191597,Google Phone,1,600,04/14/19 12:08,"464 Willow St, Los Angeles, CA 90001"
+
+191598,Google Phone,1,600,04/28/19 13:25,"512 7th St, Atlanta, GA 30301"
+
+191608,Google Phone,1,600,04/21/19 22:47,"172 Chestnut St, Seattle, WA 98101"
+
+191613,Macbook Pro Laptop,1,1700,04/28/19 12:36,"275 Highland St, San Francisco, CA 94016"
+
+191614,iPhone,1,700,04/06/19 00:37,"689 Park St, Seattle, WA 98101"
+
+191626,Macbook Pro Laptop,1,1700,04/18/19 20:38,"178 Chestnut St, Boston, MA 02215"
+
+191631,iPhone,1,700,04/29/19 14:44,"63 Ridge St, Los Angeles, CA 90001"
+
+191634,Macbook Pro Laptop,1,1700,04/27/19 13:00,"343 Wilson St, Portland, OR 97035"
+
+191648,Vareebadd Phone,1,400,04/04/19 18:55,"235 Spruce St, Portland, OR 97035"
+
+191657,Google Phone,1,600,04/14/19 08:31,"594 Adams St, San Francisco, CA 94016"
+
+191660,iPhone,1,700,04/23/19 21:08,"673 Hill St, San Francisco, CA 94016"
+
+191665,iPhone,1,700,04/10/19 22:58,"127 6th St, New York City, NY 10001"
+
+191680,iPhone,1,700,04/11/19 11:51,"895 Adams St, Dallas, TX 75001"
+
+191688,Macbook Pro Laptop,1,1700,04/26/19 05:45,"207 Meadow St, Los Angeles, CA 90001"
+
+191695,Vareebadd Phone,1,400,04/07/19 14:14,"893 Cherry St, Boston, MA 02215"
+
+191699,Macbook Pro Laptop,1,1700,04/19/19 21:34,"894 8th St, Portland, OR 97035"
+
+191703,Google Phone,1,600,04/05/19 18:05,"689 11th St, San Francisco, CA 94016"
+
+191715,iPhone,1,700,04/02/19 11:58,"345 Church St, Atlanta, GA 30301"
+
+191735,iPhone,1,700,04/30/19 11:13,"607 Pine St, Boston, MA 02215"
+
+191741,Google Phone,1,600,04/04/19 23:35,"191 South St, Los Angeles, CA 90001"
+
+191742,iPhone,1,700,04/03/19 16:03,"108 1st St, Boston, MA 02215"
+
+191744,Vareebadd Phone,1,400,04/04/19 09:56,"598 7th St, New York City, NY 10001"
+
+191753,Macbook Pro Laptop,1,1700,04/26/19 23:03,"814 Maple St, New York City, NY 10001"
+
+191768,iPhone,1,700,04/16/19 11:36,"195 Ridge St, San Francisco, CA 94016"
+
+191769,Google Phone,1,600,04/30/19 11:07,"499 Sunset St, Atlanta, GA 30301"
+
+191795,Vareebadd Phone,1,400,04/23/19 11:12,"294 West St, Portland, OR 97035"
+
+191828,Macbook Pro Laptop,1,1700,04/08/19 15:07,"119 West St, Portland, OR 97035"
+
+191834,iPhone,1,700,04/26/19 13:17,"433 9th St, New York City, NY 10001"
+
+191837,iPhone,1,700,04/15/19 12:57,"521 12th St, Boston, MA 02215"
+
+191850,Macbook Pro Laptop,1,1700,04/01/19 12:06,"579 Wilson St, Los Angeles, CA 90001"
+
+191868,Macbook Pro Laptop,1,1700,04/16/19 15:08,"814 Church St, Los Angeles, CA 90001"
+
+191885,Google Phone,1,600,04/27/19 13:13,"138 Spruce St, Seattle, WA 98101"
+
+191899,Macbook Pro Laptop,1,1700,04/07/19 23:45,"819 Johnson St, Portland, ME 04101"
+
+191901,iPhone,1,700,04/04/19 17:04,"329 Johnson St, Boston, MA 02215"
+
+191903,iPhone,1,700,04/15/19 14:10,"702 8th St, Los Angeles, CA 90001"
+
+191906,Macbook Pro Laptop,1,1700,04/21/19 13:25,"168 Lakeview St, Boston, MA 02215"
+
+191910,Macbook Pro Laptop,1,1700,04/21/19 18:57,"753 Dogwood St, Atlanta, GA 30301"
+
+191922,Vareebadd Phone,1,400,04/20/19 13:31,"968 Madison St, San Francisco, CA 94016"
+
+191938,Google Phone,1,600,04/27/19 11:13,"218 Elm St, Dallas, TX 75001"
+
+191948,Google Phone,1,600,04/10/19 08:56,"731 Center St, Dallas, TX 75001"
+
+191957,iPhone,1,700,04/24/19 09:41,"824 Church St, Los Angeles, CA 90001"
+
+191962,Google Phone,1,600,04/18/19 11:31,"899 River St, Dallas, TX 75001"
+
+191963,Google Phone,1,600,04/08/19 12:04,"36 8th St, Atlanta, GA 30301"
+
+191990,iPhone,1,700,04/23/19 18:00,"688 Wilson St, San Francisco, CA 94016"
+
+192001,iPhone,1,700,04/24/19 17:53,"579 4th St, Los Angeles, CA 90001"
+
+192009,Vareebadd Phone,1,400,04/21/19 15:55,"944 Jefferson St, Los Angeles, CA 90001"
+
+192010,Macbook Pro Laptop,1,1700,04/17/19 11:45,"891 North St, New York City, NY 10001"
+
+192029,iPhone,1,700,04/04/19 00:05,"671 Church St, New York City, NY 10001"
+
+192040,iPhone,1,700,04/06/19 10:54,"935 Jefferson St, Atlanta, GA 30301"
+
+192047,Google Phone,1,600,04/18/19 11:50,"73 11th St, San Francisco, CA 94016"
+
+192061,Google Phone,1,600,04/27/19 21:19,"658 2nd St, New York City, NY 10001"
+
+192092,iPhone,1,700,04/03/19 23:21,"92 Church St, Seattle, WA 98101"
+
+192098,iPhone,1,700,04/11/19 10:55,"692 Washington St, San Francisco, CA 94016"
+
+192100,iPhone,1,700,04/17/19 19:20,"245 Jackson St, San Francisco, CA 94016"
+
+192125,Macbook Pro Laptop,1,1700,04/02/19 00:13,"4 Elm St, Los Angeles, CA 90001"
+
+192131,iPhone,1,700,04/20/19 14:47,"877 Meadow St, Boston, MA 02215"
+
+192135,iPhone,1,700,04/29/19 23:02,"926 14th St, Los Angeles, CA 90001"
+
+192138,iPhone,1,700,04/15/19 17:34,"678 Walnut St, Atlanta, GA 30301"
+
+192139,Macbook Pro Laptop,1,1700,04/03/19 14:27,"658 Adams St, San Francisco, CA 94016"
+
+192189,iPhone,1,700,04/18/19 22:06,"402 Jefferson St, New York City, NY 10001"
+
+192190,iPhone,1,700,04/05/19 22:32,"50 4th St, New York City, NY 10001"
+
+192191,Macbook Pro Laptop,1,1700,04/21/19 17:14,"62 Center St, New York City, NY 10001"
+
+192201,Google Phone,1,600,04/27/19 12:09,"980 5th St, Dallas, TX 75001"
+
+192214,Google Phone,1,600,04/14/19 12:09,"873 North St, New York City, NY 10001"
+
+192216,Vareebadd Phone,1,400,04/22/19 19:12,"683 Jefferson St, New York City, NY 10001"
+
+192228,Google Phone,1,600,04/17/19 13:42,"878 7th St, Los Angeles, CA 90001"
+
+192233,Google Phone,1,600,04/13/19 09:08,"940 Jefferson St, Dallas, TX 75001"
+
+192235,iPhone,1,700,04/13/19 21:02,"350 Walnut St, San Francisco, CA 94016"
+
+192238,Google Phone,1,600,04/05/19 17:03,"104 14th St, Austin, TX 73301"
+
+192244,Google Phone,1,600,04/03/19 13:51,"233 Highland St, Los Angeles, CA 90001"
+
+192259,iPhone,1,700,04/19/19 21:55,"947 Pine St, Portland, OR 97035"
+
+192261,Google Phone,1,600,04/01/19 09:35,"443 11th St, Austin, TX 73301"
+
+192268,Google Phone,1,600,04/11/19 20:15,"356 Cherry St, San Francisco, CA 94016"
+
+192271,iPhone,2,700,04/18/19 17:14,"770 14th St, Los Angeles, CA 90001"
+
+192274,Macbook Pro Laptop,1,1700,04/25/19 23:46,"32 9th St, Seattle, WA 98101"
+
+192289,Macbook Pro Laptop,1,1700,04/29/19 23:39,"720 River St, Portland, OR 97035"
+
+192302,iPhone,1,700,04/17/19 22:09,"806 Pine St, San Francisco, CA 94016"
+
+192303,iPhone,1,700,04/21/19 07:39,"977 Center St, Portland, OR 97035"
+
+192309,Google Phone,1,600,04/23/19 18:42,"734 Main St, Los Angeles, CA 90001"
+
+192311,Macbook Pro Laptop,1,1700,04/11/19 21:54,"25 West St, Boston, MA 02215"
+
+192312,Macbook Pro Laptop,1,1700,04/17/19 13:48,"86 Hickory St, Atlanta, GA 30301"
+
+192314,Macbook Pro Laptop,1,1700,04/29/19 17:12,"360 7th St, Dallas, TX 75001"
+
+192322,Google Phone,1,600,04/27/19 08:35,"48 Wilson St, Dallas, TX 75001"
+
+192326,iPhone,1,700,04/25/19 19:45,"324 13th St, San Francisco, CA 94016"
+
+192344,Google Phone,1,600,04/29/19 21:51,"133 Willow St, San Francisco, CA 94016"
+
+192348,iPhone,1,700,04/12/19 20:18,"358 Pine St, San Francisco, CA 94016"
+
+192351,Google Phone,1,600,04/30/19 14:28,"532 Center St, Portland, OR 97035"
+
+192355,iPhone,1,700,04/10/19 19:11,"103 Park St, San Francisco, CA 94016"
+
+192356,iPhone,1,700,04/16/19 09:21,"765 River St, Boston, MA 02215"
+
+192378,iPhone,1,700,04/28/19 10:07,"439 Jefferson St, Dallas, TX 75001"
+
+192381,Macbook Pro Laptop,1,1700,04/15/19 18:13,"471 Highland St, San Francisco, CA 94016"
+
+192386,Google Phone,1,600,04/15/19 09:19,"780 Cedar St, Atlanta, GA 30301"
+
+192390,iPhone,1,700,04/23/19 19:53,"389 2nd St, Austin, TX 73301"
+
+192396,Google Phone,1,600,04/14/19 11:47,"939 4th St, Los Angeles, CA 90001"
+
+192410,iPhone,1,700,04/17/19 19:20,"757 Pine St, San Francisco, CA 94016"
+
+192430,iPhone,1,700,04/08/19 20:28,"876 1st St, Austin, TX 73301"
+
+192435,iPhone,1,700,04/18/19 20:21,"327 Jackson St, New York City, NY 10001"
+
+192439,Macbook Pro Laptop,1,1700,04/10/19 12:29,"252 Highland St, San Francisco, CA 94016"
+
+192443,Vareebadd Phone,1,400,04/05/19 16:39,"770 Adams St, Austin, TX 73301"
+
+192472,Vareebadd Phone,1,400,04/16/19 15:36,"744 Hickory St, San Francisco, CA 94016"
+
+192476,Macbook Pro Laptop,1,1700,04/17/19 13:35,"646 Lakeview St, Boston, MA 02215"
+
+192485,Google Phone,1,600,04/09/19 15:38,"83 Lake St, Los Angeles, CA 90001"
+
+192495,Google Phone,1,600,04/20/19 14:31,"302 River St, Portland, ME 04101"
+
+192508,Vareebadd Phone,1,400,04/05/19 23:32,"354 Park St, Los Angeles, CA 90001"
+
+192520,iPhone,1,700,04/16/19 15:20,"359 Center St, Seattle, WA 98101"
+
+192527,Google Phone,1,600,04/25/19 01:08,"529 Forest St, Atlanta, GA 30301"
+
+192530,Google Phone,1,600,04/05/19 11:38,"28 Madison St, Seattle, WA 98101"
+
+192540,Vareebadd Phone,1,400,04/28/19 14:16,"66 Cedar St, Los Angeles, CA 90001"
+
+192549,iPhone,1,700,04/11/19 11:16,"296 4th St, Dallas, TX 75001"
+
+192569,iPhone,1,700,04/30/19 22:55,"933 Washington St, New York City, NY 10001"
+
+192586,Vareebadd Phone,1,400,04/14/19 19:03,"822 Cedar St, San Francisco, CA 94016"
+
+192606,Google Phone,1,600,04/20/19 14:38,"492 12th St, Boston, MA 02215"
+
+192609,iPhone,1,700,04/08/19 15:45,"599 Johnson St, New York City, NY 10001"
+
+192618,iPhone,1,700,04/25/19 04:32,"198 Pine St, Austin, TX 73301"
+
+192622,Google Phone,1,600,04/07/19 10:36,"317 Lincoln St, San Francisco, CA 94016"
+
+192630,Google Phone,1,600,04/23/19 15:23,"669 4th St, San Francisco, CA 94016"
+
+192643,Google Phone,1,600,04/19/19 22:33,"624 Center St, Boston, MA 02215"
+
+192645,Google Phone,1,600,04/21/19 07:47,"932 Maple St, San Francisco, CA 94016"
+
+192654,iPhone,1,700,04/23/19 23:56,"287 Willow St, Atlanta, GA 30301"
+
+192658,iPhone,1,700,04/30/19 14:16,"9 Maple St, New York City, NY 10001"
+
+192659,Macbook Pro Laptop,1,1700,04/03/19 14:22,"84 5th St, Dallas, TX 75001"
+
+192666,Macbook Pro Laptop,1,1700,04/17/19 10:20,"655 Madison St, San Francisco, CA 94016"
+
+192669,iPhone,1,700,04/27/19 14:14,"759 Hickory St, Boston, MA 02215"
+
+192676,iPhone,1,700,04/27/19 17:11,"412 Church St, Seattle, WA 98101"
+
+192677,iPhone,1,700,04/08/19 14:34,"75 Main St, Boston, MA 02215"
+
+192681,Google Phone,1,600,04/09/19 16:41,"338 South St, Seattle, WA 98101"
+
+192687,iPhone,1,700,04/09/19 12:40,"115 8th St, Los Angeles, CA 90001"
+
+192695,Macbook Pro Laptop,1,1700,04/02/19 12:12,"236 Lincoln St, Los Angeles, CA 90001"
+
+192697,Macbook Pro Laptop,1,1700,04/26/19 16:43,"810 7th St, Boston, MA 02215"
+
+192700,Google Phone,1,600,04/09/19 10:53,"213 Hickory St, New York City, NY 10001"
+
+192727,Macbook Pro Laptop,1,1700,04/19/19 10:54,"474 4th St, San Francisco, CA 94016"
+
+192765,Macbook Pro Laptop,1,1700,04/25/19 15:59,"324 Jackson St, Atlanta, GA 30301"
+
+192771,iPhone,1,700,04/17/19 00:08,"793 Elm St, San Francisco, CA 94016"
+
+192775,Google Phone,1,600,04/16/19 14:47,"161 4th St, Boston, MA 02215"
+
+192778,iPhone,1,700,04/20/19 11:29,"791 South St, New York City, NY 10001"
+
+192782,iPhone,1,700,04/15/19 22:16,"64 13th St, Boston, MA 02215"
+
+192797,iPhone,1,700,04/10/19 04:24,"905 Jefferson St, Los Angeles, CA 90001"
+
+192798,Vareebadd Phone,1,400,04/09/19 13:23,"282 Park St, Atlanta, GA 30301"
+
+192806,iPhone,1,700,04/29/19 19:48,"947 Lake St, San Francisco, CA 94016"
+
+192811,Vareebadd Phone,1,400,04/20/19 11:27,"483 Center St, Los Angeles, CA 90001"
+
+192814,Macbook Pro Laptop,1,1700,04/21/19 19:22,"744 14th St, Seattle, WA 98101"
+
+192822,Vareebadd Phone,1,400,04/10/19 18:16,"561 13th St, New York City, NY 10001"
+
+192825,Vareebadd Phone,1,400,04/16/19 14:55,"807 10th St, Dallas, TX 75001"
+
+192829,Google Phone,1,600,04/12/19 17:16,"173 13th St, Austin, TX 73301"
+
+192833,Google Phone,1,600,04/27/19 22:08,"592 Jefferson St, San Francisco, CA 94016"
+
+192839,Google Phone,1,600,04/28/19 09:10,"589 Cherry St, Austin, TX 73301"
+
+192840,Google Phone,1,600,04/27/19 09:54,"505 12th St, New York City, NY 10001"
+
+192864,iPhone,1,700,04/13/19 10:02,"815 Maple St, San Francisco, CA 94016"
+
+192866,Macbook Pro Laptop,1,1700,04/28/19 07:54,"758 Forest St, Dallas, TX 75001"
+
+192868,Vareebadd Phone,1,400,04/07/19 22:25,"776 Spruce St, Boston, MA 02215"
+
+192878,iPhone,1,700,04/25/19 17:20,"645 12th St, Seattle, WA 98101"
+
+192907,Macbook Pro Laptop,1,1700,04/17/19 18:26,"811 Ridge St, Los Angeles, CA 90001"
+
+192926,Vareebadd Phone,1,400,04/18/19 19:03,"950 Adams St, San Francisco, CA 94016"
+
+192956,Google Phone,1,600,04/27/19 15:18,"194 Walnut St, Austin, TX 73301"
+
+192965,Google Phone,1,600,04/06/19 13:54,"91 Sunset St, Boston, MA 02215"
+
+192969,iPhone,1,700,04/07/19 07:46,"414 Lakeview St, Portland, OR 97035"
+
+192971,Vareebadd Phone,1,400,04/23/19 12:45,"532 Sunset St, Los Angeles, CA 90001"
+
+192975,Google Phone,1,600,04/06/19 18:58,"965 Hickory St, Boston, MA 02215"
+
+192976,iPhone,1,700,04/30/19 07:51,"246 Park St, Portland, OR 97035"
+
+192985,Google Phone,1,600,04/20/19 18:46,"384 North St, Portland, ME 04101"
+
+192989,Vareebadd Phone,1,400,04/22/19 08:58,"268 River St, Los Angeles, CA 90001"
+
+192996,Macbook Pro Laptop,1,1700,04/16/19 06:56,"687 7th St, Boston, MA 02215"
+
+192997,Google Phone,1,600,04/18/19 22:29,"370 Dogwood St, Dallas, TX 75001"
+
+192998,iPhone,1,700,04/25/19 19:04,"538 South St, Atlanta, GA 30301"
+
+193002,Macbook Pro Laptop,1,1700,04/29/19 20:26,"625 Madison St, Austin, TX 73301"
+
+193004,Macbook Pro Laptop,1,1700,04/19/19 22:58,"797 Dogwood St, San Francisco, CA 94016"
+
+193009,Google Phone,1,600,04/22/19 16:54,"571 6th St, Seattle, WA 98101"
+
+193019,iPhone,1,700,04/09/19 12:15,"438 8th St, Los Angeles, CA 90001"
+
+193040,iPhone,1,700,04/14/19 09:14,"855 13th St, Austin, TX 73301"
+
+193042,iPhone,1,700,04/05/19 20:40,"353 11th St, San Francisco, CA 94016"
+
+193050,Google Phone,1,600,04/19/19 18:45,"329 Sunset St, Dallas, TX 75001"
+
+193051,Macbook Pro Laptop,1,1700,04/21/19 13:50,"410 West St, Los Angeles, CA 90001"
+
+193057,iPhone,1,700,04/29/19 23:09,"571 Center St, Los Angeles, CA 90001"
+
+193073,iPhone,1,700,04/10/19 05:02,"576 1st St, Boston, MA 02215"
+
+193075,Macbook Pro Laptop,1,1700,04/06/19 09:33,"183 Jefferson St, San Francisco, CA 94016"
+
+193092,iPhone,1,700,04/15/19 20:33,"450 Lakeview St, San Francisco, CA 94016"
+
+193097,Google Phone,1,600,04/20/19 18:48,"637 Hill St, San Francisco, CA 94016"
+
+193100,Macbook Pro Laptop,1,1700,04/02/19 21:35,"341 Park St, Los Angeles, CA 90001"
+
+193109,Google Phone,1,600,04/15/19 09:49,"252 Dogwood St, Atlanta, GA 30301"
+
+193114,Google Phone,1,600,04/10/19 14:25,"282 Jackson St, San Francisco, CA 94016"
+
+193121,Google Phone,1,600,04/04/19 09:48,"718 Lincoln St, San Francisco, CA 94016"
+
+193131,iPhone,1,700,04/16/19 15:50,"203 Highland St, Portland, OR 97035"
+
+193132,Vareebadd Phone,1,400,04/12/19 14:12,"743 Wilson St, Dallas, TX 75001"
+
+193133,Macbook Pro Laptop,1,1700,04/28/19 18:16,"2 Church St, Portland, OR 97035"
+
+193149,iPhone,1,700,04/30/19 08:41,"958 Adams St, Dallas, TX 75001"
+
+193163,iPhone,1,700,04/26/19 11:53,"515 Willow St, Seattle, WA 98101"
+
+193187,Macbook Pro Laptop,1,1700,04/03/19 18:36,"816 11th St, Atlanta, GA 30301"
+
+193195,Google Phone,1,600,04/04/19 01:48,"915 Hill St, Los Angeles, CA 90001"
+
+193208,Google Phone,1,600,04/05/19 23:28,"477 Sunset St, Los Angeles, CA 90001"
+
+193211,Macbook Pro Laptop,1,1700,04/15/19 20:51,"44 6th St, Seattle, WA 98101"
+
+193214,Macbook Pro Laptop,1,1700,04/20/19 06:54,"200 14th St, Boston, MA 02215"
+
+193217,Macbook Pro Laptop,1,1700,04/12/19 21:35,"640 8th St, Atlanta, GA 30301"
+
+193218,Google Phone,1,600,04/14/19 18:20,"459 13th St, Boston, MA 02215"
+
+193232,iPhone,1,700,04/26/19 19:20,"335 Hill St, Atlanta, GA 30301"
+
+193236,iPhone,1,700,04/20/19 11:03,"782 13th St, Dallas, TX 75001"
+
+193238,Vareebadd Phone,1,400,04/29/19 18:40,"163 Center St, New York City, NY 10001"
+
+193243,Vareebadd Phone,1,400,04/17/19 18:49,"976 Jackson St, Atlanta, GA 30301"
+
+193245,iPhone,1,700,04/26/19 18:21,"586 9th St, San Francisco, CA 94016"
+
+193248,Google Phone,1,600,04/21/19 10:03,"103 Highland St, San Francisco, CA 94016"
+
+193260,Google Phone,1,600,04/01/19 16:37,"585 Hill St, Los Angeles, CA 90001"
+
+193261,iPhone,1,700,04/20/19 19:41,"350 Spruce St, Atlanta, GA 30301"
+
+193269,Vareebadd Phone,1,400,04/01/19 18:48,"11 9th St, Portland, OR 97035"
+
+193277,Macbook Pro Laptop,1,1700,04/30/19 14:13,"139 2nd St, New York City, NY 10001"
+
+193282,iPhone,1,700,04/21/19 08:15,"761 Church St, Los Angeles, CA 90001"
+
+193307,Google Phone,1,600,04/30/19 22:36,"323 North St, Portland, OR 97035"
+
+193309,iPhone,1,700,04/19/19 23:16,"139 Cherry St, Boston, MA 02215"
+
+193334,Google Phone,1,600,04/19/19 16:34,"412 Forest St, Portland, ME 04101"
+
+193339,Vareebadd Phone,1,400,04/29/19 17:37,"976 Cherry St, Atlanta, GA 30301"
+
+193349,Vareebadd Phone,1,400,04/07/19 09:12,"817 Jackson St, Boston, MA 02215"
+
+193356,iPhone,1,700,04/17/19 09:23,"62 Lakeview St, San Francisco, CA 94016"
+
+193360,Vareebadd Phone,1,400,04/26/19 13:09,"403 Madison St, Los Angeles, CA 90001"
+
+193366,Macbook Pro Laptop,1,1700,04/01/19 14:51,"966 5th St, New York City, NY 10001"
+
+193372,iPhone,1,700,04/02/19 12:13,"98 Chestnut St, Dallas, TX 75001"
+
+193373,Macbook Pro Laptop,1,1700,04/29/19 23:57,"744 Willow St, New York City, NY 10001"
+
+193374,iPhone,1,700,04/14/19 18:26,"962 7th St, San Francisco, CA 94016"
+
+193379,Vareebadd Phone,1,400,04/15/19 11:48,"359 Main St, Los Angeles, CA 90001"
+
+193380,Macbook Pro Laptop,1,1700,04/30/19 15:29,"3 Walnut St, Seattle, WA 98101"
+
+193384,Vareebadd Phone,1,400,04/25/19 10:57,"696 2nd St, Boston, MA 02215"
+
+193398,Google Phone,1,600,04/25/19 15:27,"983 5th St, San Francisco, CA 94016"
+
+193403,Google Phone,1,600,04/19/19 14:59,"814 Center St, Austin, TX 73301"
+
+193404,Macbook Pro Laptop,1,1700,04/19/19 09:00,"213 West St, San Francisco, CA 94016"
+
+193405,iPhone,1,700,04/18/19 17:53,"103 Adams St, Atlanta, GA 30301"
+
+193420,iPhone,1,700,04/30/19 11:37,"210 Walnut St, Atlanta, GA 30301"
+
+193429,Google Phone,1,600,04/17/19 22:23,"427 Madison St, Boston, MA 02215"
+
+193450,iPhone,1,700,04/19/19 02:05,"29 Park St, San Francisco, CA 94016"
+
+193451,iPhone,1,700,04/13/19 18:59,"622 9th St, San Francisco, CA 94016"
+
+193475,iPhone,1,700,04/16/19 06:14,"479 Adams St, Dallas, TX 75001"
+
+193507,iPhone,1,700,04/19/19 16:59,"16 West St, New York City, NY 10001"
+
+193511,Google Phone,1,600,04/21/19 11:14,"821 Elm St, Austin, TX 73301"
+
+193516,Google Phone,1,600,04/14/19 03:25,"584 13th St, Portland, OR 97035"
+
+193523,iPhone,1,700,04/23/19 14:54,"952 12th St, San Francisco, CA 94016"
+
+193532,iPhone,1,700,04/13/19 19:05,"233 8th St, Dallas, TX 75001"
+
+193539,Google Phone,1,600,04/26/19 16:02,"148 Church St, Atlanta, GA 30301"
+
+193545,iPhone,1,700,04/04/19 20:21,"670 North St, New York City, NY 10001"
+
+193545,Vareebadd Phone,1,400,04/04/19 20:21,"670 North St, New York City, NY 10001"
+
+193561,iPhone,1,700,04/11/19 19:46,"836 Ridge St, New York City, NY 10001"
+
+193562,Google Phone,1,600,04/24/19 13:41,"526 9th St, Atlanta, GA 30301"
+
+193574,Vareebadd Phone,1,400,04/29/19 03:22,"817 Hill St, San Francisco, CA 94016"
+
+193600,Macbook Pro Laptop,1,1700,04/23/19 22:12,"71 Cherry St, Portland, OR 97035"
+
+193607,Google Phone,1,600,04/08/19 11:42,"94 Washington St, Los Angeles, CA 90001"
+
+193611,Vareebadd Phone,1,400,04/01/19 11:30,"317 11th St, Atlanta, GA 30301"
+
+193615,Vareebadd Phone,1,400,04/02/19 17:24,"546 Lake St, San Francisco, CA 94016"
+
+193631,Google Phone,1,600,04/11/19 10:59,"963 Center St, Portland, OR 97035"
+
+193643,iPhone,1,700,04/04/19 09:04,"163 7th St, Atlanta, GA 30301"
+
+193653,Google Phone,1,600,04/21/19 09:29,"168 Chestnut St, Los Angeles, CA 90001"
+
+193671,iPhone,1,700,04/02/19 20:18,"346 Hill St, Austin, TX 73301"
+
+193689,iPhone,1,700,04/17/19 10:54,"619 Hill St, Boston, MA 02215"
+
+193698,iPhone,1,700,04/01/19 11:30,"310 Madison St, San Francisco, CA 94016"
+
+193733,Google Phone,1,600,04/30/19 22:41,"464 Chestnut St, Austin, TX 73301"
+
+193738,iPhone,1,700,04/05/19 09:50,"707 Johnson St, Boston, MA 02215"
+
+193741,Google Phone,1,600,04/01/19 20:17,"779 Adams St, Boston, MA 02215"
+
+193747,Vareebadd Phone,1,400,04/21/19 15:29,"883 2nd St, Seattle, WA 98101"
+
+193765,Google Phone,1,600,04/21/19 12:04,"146 Cherry St, San Francisco, CA 94016"
+
+193766,iPhone,1,700,04/20/19 15:23,"435 Washington St, Los Angeles, CA 90001"
+
+193774,Google Phone,1,600,04/16/19 12:35,"655 Spruce St, Seattle, WA 98101"
+
+193787,iPhone,1,700,04/27/19 08:15,"29 Willow St, Los Angeles, CA 90001"
+
+193789,Google Phone,1,600,04/21/19 22:22,"608 Chestnut St, Seattle, WA 98101"
+
+193791,iPhone,1,700,04/12/19 13:31,"761 9th St, Seattle, WA 98101"
+
+193793,Google Phone,1,600,04/20/19 17:55,"407 Sunset St, Austin, TX 73301"
+
+193796,Macbook Pro Laptop,1,1700,04/14/19 11:17,"649 River St, Austin, TX 73301"
+
+193800,Google Phone,1,600,04/09/19 09:17,"479 Wilson St, Los Angeles, CA 90001"
+
+193801,iPhone,1,700,04/05/19 15:51,"258 13th St, Los Angeles, CA 90001"
+
+193806,Macbook Pro Laptop,1,1700,04/24/19 12:06,"631 Pine St, New York City, NY 10001"
+
+193808,Vareebadd Phone,1,400,04/19/19 20:24,"33 Washington St, Boston, MA 02215"
+
+193809,Macbook Pro Laptop,1,1700,04/11/19 15:29,"245 Dogwood St, Los Angeles, CA 90001"
+
+193815,Macbook Pro Laptop,1,1700,04/03/19 23:47,"614 Washington St, San Francisco, CA 94016"
+
+193824,Macbook Pro Laptop,1,1700,04/14/19 19:01,"359 9th St, San Francisco, CA 94016"
+
+193838,Google Phone,1,600,04/24/19 15:52,"328 Walnut St, Los Angeles, CA 90001"
+
+193839,Macbook Pro Laptop,1,1700,04/05/19 14:46,"984 Sunset St, San Francisco, CA 94016"
+
+193860,Google Phone,1,600,04/17/19 12:07,"612 10th St, Portland, OR 97035"
+
+193863,Google Phone,1,600,04/12/19 11:18,"79 12th St, Dallas, TX 75001"
+
+193885,Macbook Pro Laptop,1,1700,04/16/19 08:47,"837 6th St, Austin, TX 73301"
+
+193897,Macbook Pro Laptop,1,1700,04/16/19 19:19,"489 Chestnut St, Los Angeles, CA 90001"
+
+193903,iPhone,1,700,04/06/19 11:40,"335 12th St, Seattle, WA 98101"
+
+193927,iPhone,1,700,04/09/19 21:10,"680 North St, San Francisco, CA 94016"
+
+193933,iPhone,1,700,04/12/19 11:53,"172 Hill St, Austin, TX 73301"
+
+193960,Vareebadd Phone,1,400,04/03/19 21:25,"788 Madison St, Portland, ME 04101"
+
+193961,Google Phone,1,600,04/25/19 10:06,"544 Sunset St, San Francisco, CA 94016"
+
+193968,Google Phone,1,600,04/02/19 18:40,"222 4th St, Boston, MA 02215"
+
+193972,Macbook Pro Laptop,1,1700,04/11/19 16:23,"334 5th St, San Francisco, CA 94016"
+
+193986,Vareebadd Phone,1,400,04/11/19 08:30,"969 Hickory St, Dallas, TX 75001"
+
+193994,Google Phone,1,600,04/28/19 20:34,"45 Dogwood St, Los Angeles, CA 90001"
+
+194005,iPhone,1,700,04/02/19 22:36,"76 Sunset St, San Francisco, CA 94016"
+
+194019,Macbook Pro Laptop,1,1700,04/20/19 11:44,"418 Maple St, Seattle, WA 98101"
+
+194021,Google Phone,1,600,04/29/19 14:50,"203 Washington St, Boston, MA 02215"
+
+194042,Google Phone,1,600,04/22/19 21:42,"992 4th St, Portland, ME 04101"
+
+194054,iPhone,1,700,04/21/19 20:18,"533 14th St, Los Angeles, CA 90001"
+
+194056,iPhone,1,700,04/10/19 10:05,"280 7th St, San Francisco, CA 94016"
+
+194061,iPhone,1,700,04/14/19 20:22,"209 6th St, Atlanta, GA 30301"
+
+194067,iPhone,1,700,05/01/19 04:25,"291 North St, San Francisco, CA 94016"
+
+194086,Google Phone,1,600,04/28/19 08:50,"981 Dogwood St, Los Angeles, CA 90001"
+
+194090,Google Phone,1,600,04/08/19 17:11,"177 Jackson St, Los Angeles, CA 90001"
+
